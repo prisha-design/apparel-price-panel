@@ -49,11 +49,13 @@ jobs:
         env:
           ONLY: ${{ github.event.inputs.only }}
           MAX_PRODUCTS: ${{ github.event.inputs.max_products }}
-        run: python scrape.py
+        run: |
+          mkdir -p logs
+          python scrape.py 2>&1 | tee logs/last_run_output.log
 
       - name: Summary
         if: always()
-        run: python summarise.py || true
+        run: python summarise.py 2>&1 | tee logs/last_summary.txt || true
 
       - name: Commit data
         if: always() && (github.event_name == 'schedule' || github.event.inputs.commit == 'true')
@@ -64,3 +66,13 @@ jobs:
           git diff --cached --quiet || git commit -m "data: $(date -u +%F)"
           git pull --rebase --autostash || true
           git push
+
+      - name: Push test-run output to probe-logs branch
+        if: always() && github.event_name == 'workflow_dispatch' && github.event.inputs.commit != 'true'
+        run: |
+          git config user.name "scraper-bot"
+          git config user.email "scraper-bot@users.noreply.github.com"
+          git checkout -B probe-logs
+          git add -A logs data panel 2>/dev/null || true
+          git commit -m "probe run $(date -u +%FT%H%M)" || true
+          git push -f origin probe-logs
