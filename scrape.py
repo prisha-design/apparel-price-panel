@@ -394,6 +394,11 @@ async def main():
     args = ap.parse_args()
 
     retailers = load_config(args.config)
+    # One full run per day: a second run on the same UTC date is skipped unless FORCE=1
+    if not os.environ.get("MAX_PRODUCTS") and not os.environ.get("ONLY") and not os.environ.get("FORCE"):
+        if (DATA_DIR / dt.date.today().isoformat()).exists():
+            log("today's data already collected; skipping (set FORCE=1 to override)")
+            return
     # Optional cap for test runs: MAX_PRODUCTS=10 python scrape.py
     cap = os.environ.get("MAX_PRODUCTS")
     if cap:

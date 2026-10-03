@@ -12,7 +12,7 @@
 # the exception and states "made in <country>" in product details.
 #
 # Fields: key, parent (listed parent), segment, listing_urls, product_url_re,
-# max_products (fixed panel followed daily; 75 keeps a daily run under the
+# max_products (fixed panel followed daily; 50 keeps a daily run under the
 # 2,000 free Actions minutes a month for a private repo).
 
 retailers:
@@ -24,7 +24,7 @@ retailers:
       - https://us.burberry.com/l/mens-clothing/
       - https://us.burberry.com/l/womens-clothing/
     product_url_re: 'burberry\.com/.+-p\d+'
-    max_products: 75
+    max_products: 50
 
   - key: jcrew
     name: J.Crew US
@@ -34,7 +34,7 @@ retailers:
       - https://www.jcrew.com/plp/mens/categories/clothing
       - https://www.jcrew.com/plp/womens/categories/clothing
     product_url_re: 'jcrew\.com/p/'
-    max_products: 75
+    max_products: 50
 
   - key: banana_republic
     name: Banana Republic US
@@ -44,7 +44,7 @@ retailers:
       - https://bananarepublic.gap.com/browse/category.do?cid=1158705
       - https://bananarepublic.gap.com/browse/women/cashmere-shop?cid=3011914
     product_url_re: 'bananarepublic\.gap\.com/browse/product\.do\?pid=\d+'
-    max_products: 75
+    max_products: 50
 
   - key: everlane
     name: Everlane US
@@ -54,7 +54,7 @@ retailers:
       - https://www.everlane.com/collections/mens-tees
       - https://www.everlane.com/collections/womens-new-arrivals
     product_url_re: 'everlane\.com/products/'
-    max_products: 75
+    max_products: 50
 
   - key: athleta
     name: Athleta US
@@ -63,7 +63,7 @@ retailers:
     listing_urls:
       - https://athleta.gap.com/browse/new/all-womens?cid=3043230
     product_url_re: 'athleta\.gap\.com/browse/product\.do\?pid=\d+'
-    max_products: 75
+    max_products: 50
 
   - key: gap
     name: Gap US
@@ -74,7 +74,7 @@ retailers:
       - https://www.gap.com/browse/category.do?cid=1014747
       - https://www.gap.com/browse/category.do?cid=5664
     product_url_re: 'gap\.com/browse/product\.do\?pid=\d+'
-    max_products: 75
+    max_products: 50
 
   - key: american_eagle
     name: American Eagle US
@@ -85,7 +85,7 @@ retailers:
       - https://www.ae.com/us/en/c/women/tops/cat90013
       - https://www.ae.com/us/en/c/men/tops/cat10008
     product_url_re: 'ae\.com/us/en/p/'
-    max_products: 75
+    max_products: 50
 
   - key: old_navy
     name: Old Navy US
@@ -96,7 +96,7 @@ retailers:
       - https://oldnavy.gap.com/browse/category.do?cid=1091018
       - https://oldnavy.gap.com/browse/category.do?cid=1109216
     product_url_re: 'oldnavy\.gap\.com/browse/product\.do\?pid=\d+'
-    max_products: 75
+    max_products: 50
 
 candidates: []
 
