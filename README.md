@@ -1,5 +1,8 @@
 # Apparel retail price and origin scraper
 
+> **Status (3 October 2026).** This kit now lives in the private GitHub repo `prisha-design/apparel-price-panel` and runs daily at 11:00 UTC on GitHub Actions. The copy in your OneDrive is for reference; edit the repo, not this folder. Probe runs showed most big brand sites block cloud servers, so the live panel is eight retailers that work: Burberry, J.Crew, Banana Republic, Everlane, Athleta, Gap, American Eagle, Old Navy (50 products each). See `retailers.yaml` for the blocked list. Test runs: Actions tab, "Run workflow", set max_products to a small number; output goes to the `probe-logs` branch.
+
+
 Built 17 September 2026 on Alberto Cavallo's advice: scrape ten US apparel storefronts daily for a few months and build your own panel of posted prices and country-of-origin labels. This kit does that. It is tested end to end against a local test site; it is not yet tested against the ten live sites, because nothing in the session that built it could reach them. Your first job is the probe step below.
 
 ## What it collects
