@@ -1,0 +1,18 @@
+329 priced observations, 1 days, 8 retailers
+
+american_eagle   days=  1 products_today=  31 origin_share= 0.0% index_latest=100.0
+                 origin mix: {'none': 31}
+athleta          days=  1 products_today=   8 origin_share=100.0% index_latest=100.0
+                 origin mix: {'Imported': 8}
+banana_republic  days=  1 products_today=  50 origin_share=100.0% index_latest=100.0
+                 origin mix: {'Imported': 48, 'Portugal': 2}
+burberry         days=  1 products_today=  40 origin_share= 2.5% index_latest=100.0
+                 origin mix: {'none': 39, 'Italy': 1}
+everlane         days=  1 products_today=  50 origin_share= 0.0% index_latest=100.0
+                 origin mix: {'none': 50}
+gap              days=  1 products_today=  50 origin_share=100.0% index_latest=100.0
+                 origin mix: {'Imported': 50}
+jcrew            days=  1 products_today=  50 origin_share=100.0% index_latest=100.0
+                 origin mix: {'Imported': 36}
+old_navy         days=  1 products_today=  50 origin_share=100.0% index_latest=100.0
+                 origin mix: {'Imported': 50}
