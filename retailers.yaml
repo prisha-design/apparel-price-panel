@@ -61,8 +61,8 @@ retailers:
     parent: Gap Inc
     segment: premium
     listing_urls:
-      - https://athleta.gap.com/browse/new/all-womens?cid=3043230
       - https://athleta.gap.com/browse/category.do?cid=1006482
+      - https://athleta.gap.com/browse/new/all-womens?cid=3043230
       - https://athleta.gap.com/browse/new/yoga-and-studio?cid=46693
       - https://athleta.gap.com/browse/new/run-and-train?cid=46711
     product_url_re: 'athleta\.gap\.com/browse/product\.do\?pid=\d+'
@@ -85,7 +85,8 @@ retailers:
     segment: mass
     listing_urls:
       - https://www.ae.com/us/en/c/men/jeans/cat6430041
-      - https://www.ae.com/us/en
+      - https://www.ae.com/us/en/c/women/bottoms/jeans/cat6430042
+      - https://www.ae.com/us/en/c/men/new-arrivals/brg_dyn_fiqvft6w17
     product_url_re: 'ae\.com/us/en/p/'
     max_products: 50
 
