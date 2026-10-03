@@ -83,7 +83,7 @@ def load_config(path):
     with open(path) as f:
         cfg = yaml.safe_load(f)
     rets = cfg["retailers"]
-    if os.environ.get("INCLUDE_CANDIDATES"):
+    if os.environ.get("INCLUDE_CANDIDATES") and cfg.get("candidates"):
         rets = rets + (cfg.get("candidates") or [])
     return rets
 
@@ -120,12 +120,13 @@ async def new_context(pw, headless=True):
     return browser, ctx
 
 
-async def polite_goto(page, url, timeout=45000):
+async def polite_goto(page, url, timeout=45000, idle=False):
     resp = await page.goto(url, wait_until="domcontentloaded", timeout=timeout)
-    try:
-        await page.wait_for_load_state("networkidle", timeout=12000)
-    except Exception:
-        pass
+    if idle:
+        try:
+            await page.wait_for_load_state("networkidle", timeout=12000)
+        except Exception:
+            pass
     await page.wait_for_timeout(random.randint(1500, 3500))
     # Nudge lazy loaders.
     try:
@@ -141,7 +142,7 @@ async def polite_goto(page, url, timeout=45000):
 async def harvest_listing(page, url, pattern):
     """Return product URLs found on one listing page."""
     try:
-        await polite_goto(page, url)
+        await polite_goto(page, url, idle=True)
     except PWTimeout:
         log(f"  timeout on listing {url}")
         return []
@@ -269,6 +270,21 @@ async def scrape_product(page, ret, url, category):
             m = PRICE_TXT_RE.search(txt)
             if m:
                 row["price"], row["currency"] = m.group(1).replace(",", ""), "USD"
+
+    # Shopify stores (e.g. Everlane) expose /products/<handle>.js with prices in cents.
+    if not row["price"] and "/products/" in page.url:
+        try:
+            js = await page.evaluate("""async (u) => { const r = await fetch(u); return r.ok ? await r.json() : null }""",
+                                     page.url.split("?")[0].rstrip("/") + ".js")
+            if js:
+                row["price"] = f"{js.get('price', 0) / 100:.2f}"
+                if js.get("compare_at_price"):
+                    row["list_price"] = f"{js['compare_at_price'] / 100:.2f}"
+                row["currency"] = row["currency"] or "USD"
+                row["name"] = row["name"] or js.get("title", "")
+                row["note"] = (row["note"] + ";shopify_js").strip(";")
+        except Exception:
+            pass
 
     # Country of origin. Try the details block first, then the whole page.
     origin_text = ""
