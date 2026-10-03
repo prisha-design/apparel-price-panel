@@ -81,7 +81,11 @@ def log(msg):
 
 def load_config(path):
     with open(path) as f:
-        return yaml.safe_load(f)["retailers"]
+        cfg = yaml.safe_load(f)
+    rets = cfg["retailers"]
+    if os.environ.get("INCLUDE_CANDIDATES"):
+        rets = rets + (cfg.get("candidates") or [])
+    return rets
 
 
 def read_panel(key):
@@ -118,6 +122,10 @@ async def new_context(pw, headless=True):
 
 async def polite_goto(page, url, timeout=45000):
     resp = await page.goto(url, wait_until="domcontentloaded", timeout=timeout)
+    try:
+        await page.wait_for_load_state("networkidle", timeout=12000)
+    except Exception:
+        pass
     await page.wait_for_timeout(random.randint(1500, 3500))
     # Nudge lazy loaders.
     try:
@@ -139,6 +147,17 @@ async def harvest_listing(page, url, pattern):
         return []
     hrefs = await page.eval_on_selector_all("a[href]", "els => els.map(e => e.href)")
     rx = re.compile(pattern)
+    if os.environ.get("DIAG"):
+        try:
+            title = await page.title()
+            body = (await page.inner_text("body"))[:300].replace("\n", " ")
+        except Exception:
+            title, body = "?", "?"
+        same = [h for h in hrefs if re.search(r"/p/|product|/pr/|-p\d|\.html", h)]
+        log(f"  DIAG url={page.url} title={title!r} anchors={len(hrefs)}")
+        log(f"  DIAG body={body!r}")
+        for h in list(dict.fromkeys(same))[:12]:
+            log(f"  DIAG href {h}")
     out = []
     seen = set()
     for h in hrefs:

@@ -14,6 +14,14 @@ on:
         description: "Cap per retailer for a test run (blank = use retailers.yaml)"
         required: false
         default: ""
+      diag:
+        description: "Log page diagnostics for listing pages (1 = on)"
+        required: false
+        default: ""
+      candidates:
+        description: "Also run the candidate retailers (1 = on)"
+        required: false
+        default: ""
       commit:
         description: "Commit the data back to the repo"
         required: false
@@ -49,6 +57,8 @@ jobs:
         env:
           ONLY: ${{ github.event.inputs.only }}
           MAX_PRODUCTS: ${{ github.event.inputs.max_products }}
+          DIAG: ${{ github.event.inputs.diag }}
+          INCLUDE_CANDIDATES: ${{ github.event.inputs.candidates }}
         run: |
           mkdir -p logs
           python scrape.py 2>&1 | tee logs/last_run_output.log

@@ -123,3 +123,78 @@ retailers:
       - https://www.zara.com/us/en/man-jeans-l659.html
     product_url_re: 'zara\.com/us/en/.+-p\d+\.html'
     max_products: 150
+
+# ---- candidates under test (probe runs only; move into the main list once they work)
+candidates:
+  - key: coach
+    name: Coach US
+    parent: Tapestry
+    segment: luxury
+    listing_urls:
+      - https://www.coach.com/shop/men/ready-to-wear
+      - https://www.coach.com/shop/women/ready-to-wear
+    product_url_re: 'coach\.com/products/'
+    max_products: 120
+  - key: michael_kors
+    name: Michael Kors US
+    parent: Capri Holdings
+    segment: luxury
+    listing_urls:
+      - https://www.michaelkors.com/women/clothing/
+      - https://www.michaelkors.com/men/clothing/
+    product_url_re: 'michaelkors\.com/.+\.html'
+    max_products: 120
+  - key: uniqlo
+    name: Uniqlo US
+    parent: Fast Retailing
+    segment: fast_fashion
+    listing_urls:
+      - https://www.uniqlo.com/us/en/men/tops/t-shirts
+      - https://www.uniqlo.com/us/en/women/tops/sweaters
+    product_url_re: 'uniqlo\.com/us/en/products/'
+    max_products: 150
+  - key: abercrombie
+    name: Abercrombie & Fitch US
+    parent: Abercrombie & Fitch
+    segment: premium
+    listing_urls:
+      - https://www.abercrombie.com/shop/us/mens-tops
+      - https://www.abercrombie.com/shop/us/womens-jeans
+    product_url_re: 'abercrombie\.com/shop/us/p/'
+    max_products: 150
+  - key: columbia
+    name: Columbia US
+    parent: Columbia Sportswear
+    segment: premium
+    listing_urls:
+      - https://www.columbia.com/c/mens-jackets/
+      - https://www.columbia.com/c/womens-fleece/
+    product_url_re: 'columbia\.com/p/'
+    max_products: 150
+  - key: calvin_klein
+    name: Calvin Klein US
+    parent: PVH
+    segment: premium
+    listing_urls:
+      - https://www.calvinklein.us/en/men/apparel/t-shirts
+      - https://www.calvinklein.us/en/women/apparel/jeans
+    product_url_re: 'calvinklein\.us/en/.+'
+    max_products: 150
+  - key: jcrew
+    name: J.Crew US
+    parent: J.Crew Group (private)
+    segment: premium
+    listing_urls:
+      - https://www.jcrew.com/plp/mens/categories/clothing/t-shirts-and-polos
+      - https://www.jcrew.com/plp/womens/categories/clothing/sweaters
+    product_url_re: 'jcrew\.com/p/'
+    max_products: 150
+  - key: lululemon
+    name: lululemon US
+    parent: lululemon athletica
+    segment: premium
+    listing_urls:
+      - https://shop.lululemon.com/c/men-shirts/n1oxc7zp0ef
+      - https://shop.lululemon.com/c/women-hoodies-and-sweatshirts/n14uwkz1z0bpv
+    product_url_re: 'shop\.lululemon\.com/p/'
+    max_products: 150
