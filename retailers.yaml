@@ -1,0 +1,125 @@
+# Ten US apparel storefronts, chosen to span the segments in the proposal and to
+# map onto listed parents in the firm panel. Edit freely. Every listing URL must be
+# the US storefront; the scraper must run from a US IP (GitHub Actions runners do)
+# because these sites redirect UK visitors to UK storefronts with GBP prices.
+#
+# Fields
+#   key            short id used in filenames
+#   parent         listed parent company (matches the firm panel)
+#   segment        luxury | premium | mass | fast_fashion
+#   listing_urls   category pages to harvest product links from
+#   product_url_re regex a product-page URL must match
+#   max_products   size of the fixed panel of products followed every day
+#   origin_selector optional CSS selector for the product-details block that
+#                  carries "Made in ..." (falls back to whole-page text search)
+
+retailers:
+  - key: louis_vuitton
+    name: Louis Vuitton US
+    parent: LVMH
+    segment: luxury
+    listing_urls:
+      - https://us.louisvuitton.com/eng-us/men/ready-to-wear/t-shirts-and-polos/_/N-t1h4wrmy
+      - https://us.louisvuitton.com/eng-us/women/ready-to-wear/coats-and-jackets/_/N-t1wjiwjb
+      - https://us.louisvuitton.com/eng-us/men/ready-to-wear/jeans/_/N-t1x26tlg
+    product_url_re: 'us\.louisvuitton\.com/eng-us/products/'
+    max_products: 120
+
+  - key: gucci
+    name: Gucci US
+    parent: Kering
+    segment: luxury
+    listing_urls:
+      - https://www.gucci.com/us/en/ca/men/ready-to-wear-for-men/t-shirts-and-polos-for-men-c-men-readytowear-tshirts-and-polos
+      - https://www.gucci.com/us/en/ca/women/ready-to-wear-for-women/dresses-for-women-c-women-readytowear-dresses
+      - https://www.gucci.com/us/en/ca/men/ready-to-wear-for-men/denim-for-men-c-men-readytowear-denim
+    product_url_re: 'gucci\.com/us/en/pr/'
+    max_products: 120
+
+  - key: ralph_lauren
+    name: Ralph Lauren US
+    parent: Ralph Lauren Corp
+    segment: premium
+    listing_urls:
+      - https://www.ralphlauren.com/men-clothing-polo-shirts
+      - https://www.ralphlauren.com/women-clothing-sweaters
+      - https://www.ralphlauren.com/men-clothing-jeans
+    product_url_re: 'ralphlauren\.com/.+\.html'
+    max_products: 150
+
+  - key: tommy_hilfiger
+    name: Tommy Hilfiger US
+    parent: PVH
+    segment: premium
+    listing_urls:
+      - https://usa.tommy.com/en/men/men-apparel/men-polos
+      - https://usa.tommy.com/en/women/women-apparel/women-tops
+      - https://usa.tommy.com/en/men/men-apparel/men-jeans
+    product_url_re: 'usa\.tommy\.com/en/.+-[A-Za-z0-9]{6,}'
+    max_products: 150
+
+  - key: levis
+    name: Levi's US
+    parent: Levi Strauss
+    segment: mass
+    listing_urls:
+      - https://www.levi.com/US/en_US/clothing/men/jeans/c/levi_clothing_men_jeans
+      - https://www.levi.com/US/en_US/clothing/women/jeans/c/levi_clothing_women_jeans
+      - https://www.levi.com/US/en_US/clothing/men/tops/c/levi_clothing_men_tops
+    product_url_re: 'levi\.com/US/en_US/.+/p/\d+'
+    max_products: 150
+
+  - key: gap
+    name: Gap US
+    parent: Gap Inc
+    segment: mass
+    listing_urls:
+      - https://www.gap.com/browse/category.do?cid=1127944
+      - https://www.gap.com/browse/category.do?cid=1014747
+      - https://www.gap.com/browse/category.do?cid=5664
+    product_url_re: 'gap\.com/browse/product\.do\?pid=\d+'
+    max_products: 150
+
+  - key: old_navy
+    name: Old Navy US
+    parent: Gap Inc
+    segment: fast_fashion
+    listing_urls:
+      - https://oldnavy.gap.com/browse/category.do?cid=55474
+      - https://oldnavy.gap.com/browse/category.do?cid=1091018
+      - https://oldnavy.gap.com/browse/category.do?cid=1109216
+    product_url_re: 'oldnavy\.gap\.com/browse/product\.do\?pid=\d+'
+    max_products: 150
+
+  - key: american_eagle
+    name: American Eagle US
+    parent: American Eagle Outfitters
+    segment: mass
+    listing_urls:
+      - https://www.ae.com/us/en/c/men/jeans/cat6430041
+      - https://www.ae.com/us/en/c/women/tops/cat90013
+      - https://www.ae.com/us/en/c/men/tops/cat10008
+    product_url_re: 'ae\.com/us/en/p/'
+    max_products: 150
+
+  - key: hm
+    name: H&M US
+    parent: H&M
+    segment: fast_fashion
+    listing_urls:
+      - https://www2.hm.com/en_us/men/products/t-shirts-tank-tops.html
+      - https://www2.hm.com/en_us/women/products/dresses.html
+      - https://www2.hm.com/en_us/men/products/jeans.html
+    product_url_re: 'hm\.com/en_us/productpage\.\d+\.html'
+    max_products: 150
+
+  - key: zara
+    name: Zara US
+    parent: Inditex
+    segment: fast_fashion
+    listing_urls:
+      - https://www.zara.com/us/en/man-tshirts-l855.html
+      - https://www.zara.com/us/en/woman-dresses-l1066.html
+      - https://www.zara.com/us/en/man-jeans-l659.html
+    product_url_re: 'zara\.com/us/en/.+-p\d+\.html'
+    max_products: 150

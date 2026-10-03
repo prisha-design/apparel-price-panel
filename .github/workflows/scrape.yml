@@ -1,0 +1,66 @@
+name: daily-apparel-scrape
+
+on:
+  schedule:
+    # 11:00 UTC daily = 07:00 New York. Cron is UTC. GitHub may delay by up to ~30 min.
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Space-separated retailer keys (blank = all)"
+        required: false
+        default: ""
+      max_products:
+        description: "Cap per retailer for a test run (blank = use retailers.yaml)"
+        required: false
+        default: ""
+      commit:
+        description: "Commit the data back to the repo"
+        required: false
+        default: "true"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest   # US-hosted runner: needed so the sites serve US prices
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Where is this runner?
+        run: curl -s https://ipinfo.io/json || true
+
+      - name: Scrape
+        env:
+          ONLY: ${{ github.event.inputs.only }}
+          MAX_PRODUCTS: ${{ github.event.inputs.max_products }}
+        run: python scrape.py
+
+      - name: Summary
+        if: always()
+        run: python summarise.py || true
+
+      - name: Commit data
+        if: always() && (github.event_name == 'schedule' || github.event.inputs.commit == 'true')
+        run: |
+          git config user.name "scraper-bot"
+          git config user.email "scraper-bot@users.noreply.github.com"
+          git add -A panel data logs 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "data: $(date -u +%F)"
+          git pull --rebase --autostash || true
+          git push
