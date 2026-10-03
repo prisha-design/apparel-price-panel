@@ -198,3 +198,87 @@ candidates:
       - https://shop.lululemon.com/c/women-hoodies-and-sweatshirts/n14uwkz1z0bpv
     product_url_re: 'shop\.lululemon\.com/p/'
     max_products: 150
+  - key: banana_republic
+    name: Banana Republic US
+    parent: Gap Inc
+    segment: premium
+    listing_urls: [https://bananarepublic.gap.com/]
+    product_url_re: 'bananarepublic\.gap\.com/browse/product\.do\?pid=\d+'
+    max_products: 150
+  - key: athleta
+    name: Athleta US
+    parent: Gap Inc
+    segment: premium
+    listing_urls: [https://athleta.gap.com/]
+    product_url_re: 'athleta\.gap\.com/browse/product\.do\?pid=\d+'
+    max_products: 150
+  - key: madewell
+    name: Madewell US
+    parent: J.Crew Group (private)
+    segment: premium
+    listing_urls: [https://www.madewell.com/womens/clothing/tops-tees]
+    product_url_re: 'madewell\.com/.+\.html|madewell\.com/p/'
+    max_products: 150
+  - key: target
+    name: Target US apparel
+    parent: Target
+    segment: mass
+    listing_urls: [https://www.target.com/c/men-s-clothing/-/N-xcoz4]
+    product_url_re: 'target\.com/p/'
+    max_products: 150
+  - key: ssense
+    name: SSENSE US
+    parent: SSENSE (private, multi-brand luxury)
+    segment: luxury
+    listing_urls: [https://www.ssense.com/en-us/men/clothing]
+    product_url_re: 'ssense\.com/en-us/(men|women)/product/'
+    max_products: 150
+  - key: mytheresa
+    name: Mytheresa US
+    parent: Mytheresa (multi-brand luxury)
+    segment: luxury
+    listing_urls: [https://www.mytheresa.com/us/en/men/clothing]
+    product_url_re: 'mytheresa\.com/us/en/.+-p\d+'
+    max_products: 150
+  - key: burberry
+    name: Burberry US
+    parent: Burberry
+    segment: luxury
+    listing_urls: [https://us.burberry.com/mens-clothing/]
+    product_url_re: 'burberry\.com/.+-p\d+'
+    max_products: 150
+  - key: everlane
+    name: Everlane US
+    parent: Everlane (private)
+    segment: premium
+    listing_urls: [https://www.everlane.com/collections/mens-tees]
+    product_url_re: 'everlane\.com/products/'
+    max_products: 150
+  - key: express
+    name: Express US
+    parent: Express
+    segment: mass
+    listing_urls: [https://www.express.com/mens-clothing]
+    product_url_re: 'express\.com/clothing/.+/pro/'
+    max_products: 150
+  - key: nordstrom
+    name: Nordstrom US
+    parent: Nordstrom
+    segment: premium
+    listing_urls: [https://www.nordstrom.com/browse/men/clothing]
+    product_url_re: 'nordstrom\.com/s/'
+    max_products: 150
+  - key: lands_end
+    name: Lands' End US
+    parent: Lands' End
+    segment: mass
+    listing_urls: [https://www.landsend.com/shop/mens-shirts/-/N-fz8]
+    product_url_re: 'landsend\.com/products/'
+    max_products: 150
+  - key: shein
+    name: SHEIN US
+    parent: Shein (private)
+    segment: fast_fashion
+    listing_urls: [https://us.shein.com/Men-Clothing-c-1969.html]
+    product_url_re: 'shein\.com/.+-p-\d+'
+    max_products: 150

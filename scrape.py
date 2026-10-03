@@ -153,7 +153,10 @@ async def harvest_listing(page, url, pattern):
             body = (await page.inner_text("body"))[:300].replace("\n", " ")
         except Exception:
             title, body = "?", "?"
-        same = [h for h in hrefs if re.search(r"/p/|product|/pr/|-p\d|\.html", h)]
+        same = [h for h in hrefs if re.search(r"/p/|product|/pr/|-p\d|\.html|/products/|pid=", h)]
+        cats = [h for h in hrefs if re.search(r"category|/c/|/browse/|/collections/|/shop/|/plp/", h)]
+        for h in list(dict.fromkeys(cats))[:10]:
+            log(f"  DIAG cat {h}")
         log(f"  DIAG url={page.url} title={title!r} anchors={len(hrefs)}")
         log(f"  DIAG body={body!r}")
         for h in list(dict.fromkeys(same))[:12]:
