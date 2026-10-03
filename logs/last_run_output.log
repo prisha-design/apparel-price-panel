@@ -1,49 +1,97 @@
-[09:50:56] == Burberry US (burberry)
-[09:51:06]   listing https://us.burberry.com/l/mens-clothing/ -> 20 product links
-[09:51:18]   listing https://us.burberry.com/l/womens-clothing/ -> 20 product links
-[09:51:21]   panel size 40 (+40 new)
-[09:56:44]   25/40 products
-[10:00:08]   done: 40/40 with price, 1 with origin
-[10:00:08] == J.Crew US (jcrew)
-[10:00:27]   listing https://www.jcrew.com/plp/mens/categories/clothing -> 51 product links
-[10:00:28]   panel size 50 (+50 new)
-[10:04:14]   25/50 products
-[10:07:54]   50/50 products
-[10:07:57]   done: 50/50 with price, 50 with origin
-[10:07:57] == Banana Republic US (banana_republic)
-[10:08:10]   listing https://bananarepublic.gap.com/browse/category.do?cid=1158705 -> 107 product links
-[10:08:13]   panel size 50 (+50 new)
-[10:12:05]   25/50 products
-[10:16:08]   50/50 products
-[10:16:10]   done: 50/50 with price, 50 with origin
-[10:16:11] == Everlane US (everlane)
-[10:16:29]   listing https://www.everlane.com/collections/mens-tees -> 53 product links
-[10:16:30]   panel size 50 (+50 new)
-[10:21:15]   25/50 products
-[10:25:56]   50/50 products
-[10:25:59]   done: 50/50 with price, 0 with origin
-[10:25:59] == Athleta US (athleta)
-[10:26:15]   listing https://athleta.gap.com/browse/new/all-womens?cid=3043230 -> 8 product links
-[10:26:17]   panel size 8 (+8 new)
-[10:27:49]   done: 8/8 with price, 8 with origin
-[10:27:49] == Gap US (gap)
-[10:28:03]   listing https://www.gap.com/browse/category.do?cid=1127944 -> 52 product links
-[10:28:04]   panel size 50 (+50 new)
-[10:32:36]   25/50 products
-[10:37:12]   50/50 products
-[10:37:13]   done: 50/50 with price, 50 with origin
-[10:37:13] == American Eagle US (american_eagle)
-[10:37:32]   listing https://www.ae.com/us/en/c/men/jeans/cat6430041 -> 31 product links
-[10:37:54]   listing https://www.ae.com/us/en/c/women/tops/cat90013 -> 1 product links
-[10:38:14]   listing https://www.ae.com/us/en/c/men/tops/cat10008 -> 1 product links
-[10:38:16]   panel size 31 (+31 new)
-[10:42:50]   25/31 products
-[10:43:55]   done: 31/31 with price, 0 with origin
-[10:43:55] == Old Navy US (old_navy)
-[10:44:09]   listing https://oldnavy.gap.com/browse/category.do?cid=55474 -> 42 product links
-[10:44:21]   listing https://oldnavy.gap.com/browse/category.do?cid=1091018 -> 10 product links
-[10:44:23]   panel size 50 (+50 new)
-[10:48:54]   25/50 products
-[10:54:06]   50/50 products
-[10:54:08]   done: 50/50 with price, 50 with origin
-[10:54:08] finished, 329 rows
+[11:16:45] == Athleta US (athleta)
+[11:17:01]   DIAG cat https://athleta.gap.com/browse/new/all-womens?cid=3043230#topNavWrapper
+[11:17:01]   DIAG cat https://athleta.gap.com/browse/new/all-womens?cid=3043230#shopping-bag
+[11:17:01]   DIAG cat https://athleta.gap.com/browse/new/all-womens?cid=3043230#main-content
+[11:17:01]   DIAG cat https://athleta.gap.com/browse/new/all-womens?cid=3043230#facets
+[11:17:01]   DIAG cat https://athleta.gap.com/browse/new/all-womens?cid=3043230#sitewide-footer
+[11:17:01]   DIAG cat https://athleta.gap.com/browse/new/all-womens?cid=3043230
+[11:17:01]   DIAG cat https://athleta.gap.com/browse/new/all-womens?cid=3043230&mlink=1,1,Site_SWB_FF_Noncard_Main_100226
+[11:17:01]   DIAG cat https://athleta.gap.com/browse/category.do?cid=1006482&mlink=1,1,Meganav_1&nav=meganav%3ANew%3A%3A
+[11:17:01]   DIAG cat https://athleta.gap.com/browse/new/all-womens?cid=3043230&nav=meganav%3ANew%3AFeatured%20Shops%3AShop%20All%20Women%27s
+[11:17:01]   DIAG cat https://athleta.gap.com/browse/new/all-new-arrivals?cid=1006482&nav=meganav%3ANew%3AFeatured%20Shops%3ANew%20Arrivals
+[11:17:01]   DIAG url=https://athleta.gap.com/browse/new/all-womens?cid=3043230 title="Shop All New Women's Styles | Athleta" anchors=170
+[11:17:01]   DIAG body='SKIP TO TOP NAVIGATION SKIP TO SHOPPING BAG SKIP TO MAIN CONTENT SKIP TO PRODUCT FILTERS SKIP TO FOOTER LINKS Gap Old Navy Banana Republic Athleta  Free shipping $35+ with Encore Credit Card  Details Friends & Family 30% Off* Everything + Extra 10% Off* Your Purchase With Code: EXTRA10 Shop Now * Ex'
+[11:17:01]   DIAG href https://athleta.gap.com/browse/product.do?pid=599749732&vid=1&pcid=3043230&cid=3043230
+[11:17:01]   DIAG href https://athleta.gap.com/browse/product.do?pid=657490492&vid=1&pcid=3043230&cid=3043230
+[11:17:01]   DIAG href https://athleta.gap.com/browse/product.do?pid=533636562&vid=1&pcid=3043230&cid=3043230
+[11:17:01]   DIAG href https://athleta.gap.com/browse/product.do?pid=1174532052&vid=1&pcid=3043230&cid=3043230
+[11:17:01]   DIAG href https://athleta.gap.com/browse/product.do?pid=588653032&vid=1&pcid=3043230&cid=3043230
+[11:17:01]   DIAG href https://athleta.gap.com/browse/product.do?pid=650012202&vid=1&pcid=3043230&cid=3043230
+[11:17:01]   DIAG href https://athleta.gap.com/browse/product.do?pid=659287702&vid=1&pcid=3043230&cid=3043230
+[11:17:01]   DIAG href https://athleta.gap.com/browse/product.do?pid=658312462&vid=1&pcid=3043230&cid=3043230
+[11:17:01]   DIAG href https://www.onetrust.com/products/cookie-consent/
+[11:17:01]   listing https://athleta.gap.com/browse/new/all-womens?cid=3043230 -> 8 product links
+[11:17:16]   DIAG cat https://athleta.gap.com/browse/new/all-new-arrivals?cid=1006482#topNavWrapper
+[11:17:16]   DIAG cat https://athleta.gap.com/browse/new/all-new-arrivals?cid=1006482#shopping-bag
+[11:17:16]   DIAG cat https://athleta.gap.com/browse/new/all-new-arrivals?cid=1006482#main-content
+[11:17:16]   DIAG cat https://athleta.gap.com/browse/new/all-new-arrivals?cid=1006482#facets
+[11:17:16]   DIAG cat https://athleta.gap.com/browse/new/all-new-arrivals?cid=1006482#sitewide-footer
+[11:17:16]   DIAG cat https://athleta.gap.com/my-account/sign-in?creditOffer=barclays&sitecode=ATSSEDFSD&retUrl=https://athleta.gap.com/browse/info.do?cid=1098761
+[11:17:16]   DIAG cat https://athleta.gap.com/browse/new/all-new-arrivals?cid=1006482
+[11:17:16]   DIAG cat https://athleta.gap.com/my-account/sign-in?creditOffer=barclays&sitecode=ATSSEDFSM&retUrl=https://athleta.gap.com/browse/info.do?cid=1098761
+[11:17:16]   DIAG cat https://athleta.gap.com/browse/new/all-womens?cid=3043230&mlink=1,1,Site_SWB_FF_Noncard_Main_100226
+[11:17:16]   DIAG cat https://athleta.gap.com/browse/category.do?cid=1006482&mlink=1,1,Meganav_1&nav=meganav%3ANew%3A%3A
+[11:17:16]   DIAG url=https://athleta.gap.com/browse/new/all-new-arrivals?cid=1006482 title="Shop Women's New Arrivals | Athleta" anchors=747
+[11:17:16]   DIAG body='Athleta Open in the Athleta app OPEN SKIP TO TOP NAVIGATION SKIP TO SHOPPING BAG SKIP TO MAIN CONTENT SKIP TO PRODUCT FILTERS SKIP TO FOOTER LINKS Gap Old Navy Banana Republic Athleta  20% off your first purchase with your new card at Athleta  Apply Now Details Friends & Family 30% Off* Everything +'
+[11:17:16]   DIAG href https://athleta.onelink.me/7qLU?af_js_web=true&af_ss_ver=2_9_3&pid=af_banner&af_channel=af_web_banner&af_ad=AF_SmartBanner&af_adset=AF_SmartBanner&deep_link_value=https%3A%2F%2Fathleta.gap.com%2Fbrowse%2Fnew%2Fall-new-arrivals%3Fcid%3D1006482&af_sub5=at-us-en_US&af_dp=athleta://home?source=onelink&af_reengagement_window=lifetime&is_retargeting=true
+[11:17:16]   DIAG href https://athleta.gap.com/browse/product.do?pid=1177757012&vid=1&pcid=1006482&cid=3056242
+[11:17:16]   DIAG href https://athleta.gap.com/browse/product.do?pid=1177757012&vid=1&pcid=1006482&cid=1006482
+[11:17:16]   DIAG href https://athleta.gap.com/browse/product.do?pid=1174473032&vid=1&pcid=1006482&cid=3056242
+[11:17:16]   DIAG href https://athleta.gap.com/browse/product.do?pid=1174473032&vid=1&pcid=1006482&cid=1006482
+[11:17:16]   DIAG href https://athleta.gap.com/browse/product.do?pid=1174523012&vid=1&pcid=1006482&cid=3056242
+[11:17:16]   DIAG href https://athleta.gap.com/browse/product.do?pid=1174523012&vid=1&pcid=1006482&cid=1006482
+[11:17:16]   DIAG href https://athleta.gap.com/browse/product.do?pid=472259022&vid=1&pcid=1006482&cid=3056242
+[11:17:16]   DIAG href https://athleta.gap.com/browse/product.do?pid=472259022&vid=1&pcid=1006482&cid=1006482
+[11:17:16]   DIAG href https://athleta.gap.com/browse/product.do?pid=1177320002&vid=1&pcid=1006482&cid=3056242
+[11:17:16]   DIAG href https://athleta.gap.com/browse/product.do?pid=1177320002&vid=1&pcid=1006482&cid=1006482
+[11:17:16]   DIAG href https://athleta.gap.com/browse/product.do?pid=1174475072&vid=1&pcid=1006482&cid=3056242
+[11:17:16]   listing https://athleta.gap.com/browse/category.do?cid=1006482 -> 284 product links
+[11:17:18]   panel size 50 (+42 new)
+[11:21:51]   25/50 products
+[11:26:42]   50/50 products
+[11:26:44]   done: 50/50 with price, 50 with origin
+[11:26:44] == American Eagle US (american_eagle)
+[11:27:03]   DIAG cat https://www.ae.com/us/en/c/men/jeans/cat6430041#
+[11:27:03]   DIAG cat https://www.ae.com/us/en/c/men/jeans/cat6430041
+[11:27:03]   DIAG cat https://www.ae.com/us/en/c/aerie/cat4840006
+[11:27:03]   DIAG cat https://www.ae.com/us/en/c/women/new-arrivals/brg_dyn_hqya6u718b
+[11:27:03]   DIAG cat https://www.ae.com/us/en/c/women/new-arrivals/new-this-week/brg_dyn_al3qr05o2n
+[11:27:03]   DIAG cat https://www.ae.com/us/en/c/women/ae-everyday-luxe-collection/brg_dyn_zqlvut09n5
+[11:27:03]   DIAG cat https://www.ae.com/us/en/c/women/featured/peanuts-shop/cat3130013
+[11:27:03]   DIAG cat https://www.ae.com/us/en/c/men/new-arrivals/brg_dyn_fiqvft6w17
+[11:27:03]   DIAG cat https://www.ae.com/us/en/c/men/new-arrivals/new-this-week/brg_dyn_2qf9utlmxs
+[11:27:03]   DIAG cat https://www.ae.com/us/en/c/men/tops/thermals/cat1230006
+[11:27:03]   DIAG url=https://www.ae.com/us/en/c/men/jeans/cat6430041 title="Men's Jeans | American Eagle" anchors=317
+[11:27:03]   DIAG body='___ We use cookies and other third-party technologies to enhance your experience, personalize content and ads, and analyze your Platform use. By using our Platforms, you agree to the use of these technologies, agree to our Terms of Service, and acknowledge our Privacy Notice. Manage Your Privacy Cho'
+[11:27:03]   DIAG href https://www.ae.com/us/en/p/women/jeans/baggy-wide-leg-jeans/ae-low-rise-cozy-baggy-jean/0437_6438_992
+[11:27:03]   DIAG href https://www.ae.com/us/en/p/men/jeans/bootcut-jeans/ae-original-bootcut-jean/0115_6847_909
+[11:27:03]   DIAG href https://www.ae.com/us/en/p/men/jeans/baggy-loose-jeans/ae-loose-jean/1114_7584_952
+[11:27:03]   DIAG href https://www.ae.com/us/en/p/men/jeans/straight-leg-jeans/ae-original-straight-jean/0111_7244_928
+[11:27:03]   DIAG href https://www.ae.com/us/en/p/men/jeans/bootcut-jeans/ae-original-bootcut-jean/0115_7589_451
+[11:27:03]   DIAG href https://www.ae.com/us/en/p/men/jeans/straight-leg-jeans/ae-original-straight-carpenter-jean/0111_7596_401
+[11:27:03]   DIAG href https://www.ae.com/us/en/p/men/jeans/slim-fit-jeans/ae-slim-straight-jean/0116_6020_272
+[11:27:03]   DIAG href https://www.ae.com/us/en/p/men/jeans/baggy-loose-jeans/ae-loose-jean/1114_7583_826
+[11:27:03]   DIAG href https://www.ae.com/us/en/p/men/jeans/straight-leg-jeans/ae-original-straight-jean/0111_7246_738
+[11:27:03]   DIAG href https://www.ae.com/us/en/p/men/jeans/baggy-loose-jeans/ae-loose-jean/1114_7468_975
+[11:27:03]   DIAG href https://www.ae.com/us/en/p/men/jeans/bootcut-jeans/ae-original-bootcut-jean/0115_7450_167
+[11:27:03]   DIAG href https://www.ae.com/us/en/p/men/jeans/straight-leg-jeans/ae-original-straight-jean/0178_5492_040
+[11:27:03]   listing https://www.ae.com/us/en/c/men/jeans/cat6430041 -> 31 product links
+[11:27:21]   DIAG cat https://www.ae.com/us/en/c/aerie/cat4840006
+[11:27:21]   DIAG cat https://www.ae.com/us/en/c/women/new-arrivals/brg_dyn_hqya6u718b
+[11:27:21]   DIAG cat https://www.ae.com/us/en/c/women/new-arrivals/new-this-week/brg_dyn_al3qr05o2n
+[11:27:21]   DIAG cat https://www.ae.com/us/en/c/women/ae-everyday-luxe-collection/brg_dyn_zqlvut09n5
+[11:27:21]   DIAG cat https://www.ae.com/us/en/c/women/featured/peanuts-shop/cat3130013
+[11:27:21]   DIAG cat https://www.ae.com/us/en/c/men/new-arrivals/brg_dyn_fiqvft6w17
+[11:27:21]   DIAG cat https://www.ae.com/us/en/c/men/new-arrivals/new-this-week/brg_dyn_2qf9utlmxs
+[11:27:21]   DIAG cat https://www.ae.com/us/en/c/men/tops/thermals/cat1230006
+[11:27:21]   DIAG cat https://www.ae.com/us/en/c/women/womens
+[11:27:21]   DIAG cat https://www.ae.com/us/en/c/women/bottoms/jeans/cat6430042
+[11:27:21]   DIAG url=https://www.ae.com/us/en title='Men’s & Women’s Jeans, Clothes & Accessories | American Eagle' anchors=193
+[11:27:21]   DIAG body='___ We use cookies and other third-party technologies to enhance your experience, personalize content and ads, and analyze your Platform use. By using our Platforms, you agree to the use of these technologies, agree to our Terms of Service, and acknowledge our Privacy Notice. Manage Your Privacy Cho'
+[11:27:21]   DIAG href https://www.ae.com/us/en/p/women/jeans/baggy-wide-leg-jeans/ae-low-rise-cozy-baggy-jean/0437_6438_992
+[11:27:21]   DIAG href https://storelocations.ae.com/search.html
+[11:27:21]   listing https://www.ae.com/us/en -> 1 product links
+[11:27:23]   panel size 31 (+0 new)
+[11:31:26]   25/31 products
+[11:32:26]   done: 31/31 with price, 0 with origin
+[11:32:26] finished, 81 rows

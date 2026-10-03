@@ -1,9 +1,9 @@
-329 priced observations, 1 days, 8 retailers
+410 priced observations, 1 days, 8 retailers
 
-american_eagle   days=  1 products_today=  31 origin_share= 0.0% index_latest=100.0
+american_eagle   days=  1 products_today=  62 origin_share= 0.0% index_latest=100.0
                  origin mix: {'none': 31}
-athleta          days=  1 products_today=   8 origin_share=100.0% index_latest=100.0
-                 origin mix: {'Imported': 8}
+athleta          days=  1 products_today=  58 origin_share=100.0% index_latest=100.0
+                 origin mix: {'Imported': 29}
 banana_republic  days=  1 products_today=  50 origin_share=100.0% index_latest=100.0
                  origin mix: {'Imported': 48, 'Portugal': 2}
 burberry         days=  1 products_today=  40 origin_share= 2.5% index_latest=100.0
