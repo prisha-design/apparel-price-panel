@@ -1,0 +1,18 @@
+name: wayback-probe-all
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    strategy:
+      fail-fast: false
+      max-parallel: 5
+      matrix:
+        firm: [LVMH, KER, BRBY, TPR, CPRI, RL, PVH, LEVI, VFC, COLM, LULU, UAA, GIII, ITX, HM, GAP, AEO, ANF, URBN, CRI]
+    steps:
+      - uses: actions/checkout@v4
+      - run: python wayback/probe2.py ${{ matrix.firm }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: probe-${{ matrix.firm }}
+          path: out/probe_${{ matrix.firm }}.json
