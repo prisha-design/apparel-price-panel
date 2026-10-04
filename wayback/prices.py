@@ -68,6 +68,9 @@ def product_code(url):
     for sg in reversed(segs):
         for tok in reversed(re.split(r"[-_.]", sg)):
             if CODE.fullmatch(tok) and sum(ch.isdigit() for ch in tok) >= 4:
+                # skip degenerate tokens (0000, 1000, sizes) that pool many products under one key
+                if len(set(tok)) < 3 or (tok.isdigit() and len(tok) < 6):
+                    continue
                 cands.append(tok)
     for m in re.finditer(r"(?:pid|productId|prod|style)=([A-Za-z0-9]{5,})", query):
         cands.append(m.group(1))
@@ -108,6 +111,8 @@ with open(f"out/prices_{brand}.csv", "w", newline="") as f:
                         price, method = m.group(1).replace(",", ""), name; break
                 c = CUR.search(page)
                 if c: cur = c.group(1) or c.group(2)
+                elif price and re.search(r"/(?:us|en[-_]us|eng-us|en_US)(?:/|$)|^https?://(?:us|usa|shop)\.|www2\.hm\.com/en_us", orig):
+                    cur, method = "USD", method + "+usd_from_us_site_url"
                 t = TITLE.search(page)
                 title = html.unescape(re.sub(r"\s+", " ", t.group(1)).strip())[:150] if t else ""
                 w.writerow([brand, k, win, month, ts, f"https://web.archive.org/web/{ts}/{orig}", title, price, cur, method or ("no_price_found" if page else "fetch_failed")])
