@@ -1,1 +1,46 @@
-[15:05:29] today's data already collected; skipping (set FORCE=1 to override)
+[15:42:30] == Burberry US (burberry)
+[15:42:43]   listing https://us.burberry.com/l/mens-clothing/ -> 20 product links
+[15:42:55]   listing https://us.burberry.com/l/womens-clothing/ -> 20 product links
+[15:42:57]   panel size 40 (+0 new)
+[15:48:18]   25/40 products
+[15:51:39]   done: 40/40 with price, 1 with origin
+[15:51:39] == J.Crew US (jcrew)
+[15:51:39]   panel size 50 (+0 new)
+[15:55:13]   25/50 products
+[15:58:48]   50/50 products
+[15:58:51]   done: 50/50 with price, 50 with origin
+[15:58:51] == Banana Republic US (banana_republic)
+[15:58:51]   panel size 50 (+0 new)
+[16:02:15]   25/50 products
+[16:05:50]   50/50 products
+[16:05:52]   done: 50/50 with price, 50 with origin
+[16:05:52] == Everlane US (everlane)
+[16:05:52]   panel size 50 (+0 new)
+[16:10:01]   25/50 products
+[16:14:21]   50/50 products
+[16:14:24]   done: 50/50 with price, 0 with origin
+[16:14:24] == Athleta US (athleta)
+[16:14:37]   listing https://athleta.gap.com/browse/category.do?cid=1006482 -> 16 product links
+[16:14:48]   listing https://athleta.gap.com/browse/new/all-womens?cid=3043230 -> 92 product links
+[16:14:50]   panel size 50 (+42 new)
+[16:19:01]   25/50 products
+[16:23:22]   50/50 products
+[16:23:24]   done: 50/50 with price, 50 with origin
+[16:23:24] == Gap US (gap)
+[16:23:24]   panel size 50 (+0 new)
+[16:27:13]   25/50 products
+[16:31:06]   50/50 products
+[16:31:07]   done: 50/50 with price, 50 with origin
+[16:31:07] == American Eagle US (american_eagle)
+[16:31:26]   listing https://www.ae.com/us/en/c/men/jeans/cat6430041 -> 31 product links
+[16:31:45]   listing https://www.ae.com/us/en/c/women/bottoms/jeans/cat6430042 -> 30 product links
+[16:31:48]   panel size 50 (+19 new)
+[16:35:38]   25/50 products
+[16:39:46]   50/50 products
+[16:39:49]   done: 50/50 with price, 0 with origin
+[16:39:49] == Old Navy US (old_navy)
+[16:39:49]   panel size 50 (+0 new)
+[16:43:41]   25/50 products
+[16:47:47]   50/50 products
+[16:47:49]   done: 50/50 with price, 50 with origin
+[16:47:49] finished, 390 rows
