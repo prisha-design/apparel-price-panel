@@ -1,0 +1,24 @@
+{
+ "brand": "stuartweitzman",
+ "pattern": "stuartweitzman.com/*",
+ "codes_window_A": 238,
+ "codes_window_B": 1146,
+ "codes_in_both": 3,
+ "chosen": [
+  [
+   "5050",
+   10,
+   15
+  ],
+  [
+   "SLUG:black-patent-leather",
+   5,
+   3
+  ],
+  [
+   "SLUG:black-stretch-leather",
+   6,
+   3
+  ]
+ ]
+}
