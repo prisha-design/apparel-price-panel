@@ -1,0 +1,27 @@
+name: wayback-prices
+on:
+  workflow_dispatch:
+    inputs:
+      brands:
+        description: 'JSON list of [brand, cdx_prefix]'
+        required: true
+      n:
+        description: products per brand
+        default: '10'
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        b: ${{ fromJSON(inputs.brands) }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: python wayback/prices.py "${{ matrix.b[0] }}" "${{ matrix.b[1] }}" "${{ inputs.n }}"
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: prices-${{ matrix.b[0] }}
+          path: out/
