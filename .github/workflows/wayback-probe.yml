@@ -1,0 +1,19 @@
+name: wayback-probe
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: python wayback/probe.py
+      - name: push result to probe-logs
+        run: |
+          git config user.name "probe-bot"; git config user.email "probe-bot@users.noreply.github.com"
+          git fetch origin probe-logs || true
+          git checkout -B probe-logs origin/probe-logs 2>/dev/null || git checkout -B probe-logs
+          mkdir -p probe; cp out/wayback_probe.json probe/
+          git add probe/wayback_probe.json; git commit -m "wayback probe" || true
+          git push origin probe-logs
