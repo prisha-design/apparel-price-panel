@@ -1,0 +1,161 @@
+{
+ "northface": {
+  "pattern": "thenorthface.com/*",
+  "2018": {
+   "distinct_urls": 2941,
+   "product_like": 2537,
+   "sample": [
+    "https://www.thenorthface.com/?esheet=51583820&newsitemid=20170704005022&lan=en-US&anchor=The+North+Face&index=3&md5=0dcffa9c625f2564158d354423801d7b",
+    "https://www.thenorthface.com/?cm_mmc=Google-_-Brand%20Terms-_-Brand%20Terms_Exact-_-north%20face&ploc=1022588&gclid=EAIaIQobChMI34WE3ZHj3AIVBb7ACh2qqAHxEAAYASAAEgKxgPD_BwE",
+    "https://www.thenorthface.com/about-us.html",
+    "https://www.thenorthface.com/about-us/50-years.html",
+    "https://www.thenorthface.com/about-us/athletes.html"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 4506,
+   "sample": [
+    "https://www.thenorthface.com/.well-known.html",
+    "https://www.thenorthface.com/?from=subCat&variationId=JK3&cm_mmc=Google-_-ProductListingAds-_-ProductTerms-_-The+North+Face+Jester+II+Backpack+%253A+Black&aptid=38013069750&adtid=pla&crtID=38104692990",
+    "https://www.thenorthface.com/?cm_mmc=Google-_-Brand%20Core%20Terms%20-%20Demo%20-%20Male-_-Brand%20Core%20Terms_Male-_-The%20North%20Face&amp;utm_medium=cpc&amp;utm_source=Google&amp;utm_campaign=Brand%20Core%20Terms%20-%20Demo%20-%20Male&amp;utm_term=The%20North%20Face&amp;ploc=9031293&amp;gclid=Cj0KCQiAgs7RBRDoARIsANOo-HjD2AqeT2k_vCVAbo2GaPgN09NmkbynkxwRlTb1Y44mhNJ-lcCoDyIaAnrdEALw_wcB",
+    "https://www.thenorthface.com/?cm_mmc=Google-_-Brand%20Terms%20-%20New%20York-_-New%20York%20-%20Brand%20Terms_Exact-_-thenorth%20face&amp;ploc=9004347&amp;gclid=Cj0KEQjwkdHABRCHiZ2gs6yGh50BEiQAA91WljU29yd94Ax7E0rIMaVmlcD01vkTSoiXW93hy7Y__FwaAqeY8P8HAQ",
+    "https://www.thenorthface.com/?cm_mmc=Google-_-Brand%20Terms-_-Brand%20Terms_Exact-_-north%20face&amp;utm_medium=cpc&amp;utm_source=Google&amp;utm_campaign=Brand%20Terms&amp;utm_term=north%20face&amp;ploc=1022588&amp;gclid=EAIaIQobChMI34WE3ZHj3AIVBb7ACh2qqAHxEAAYASAAEgKxgPD_BwE"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 4488,
+   "sample": [
+    "https://www.thenorthface.com/?cm_mmc=Google-_-Brand%20Core%20Terms%20-%20Demo%20-%20Female-_-Brand%20Core%20Terms_Female-_-north%20face&utm_medium=cpc&utm_source=Google&utm_campaign=Brand%20Core%20Terms%20-%20Demo%20-%20Female&utm_term=north%20face&ploc=9029381&gclid=CjwKCAjwxILdBRBqEiwAHL2R8z_DLFhedMN3le43iXXmmBq2PQYs8svt97wp8Z6SKUHQU-s6WmroaBoCAcoQAvD_BwE",
+    "https://www.thenorthface.com/?cm_mmc=Google-_-Brand%20Core%20Terms%20-%20Demo%20-%20Female-_-Brand%20Core%20Terms_Female-_-Northface&utm_medium=cpc&utm_source=Google&utm_campaign=Brand%20Core%20Terms%20-%20Demo%20-%20Female&utm_term=Northface&ploc=9017954&gclid=Cj0KCQiAgNrQBRC0ARIsAE-m-1yk744iPv3ua_2vbjSMH90aSuYiC4Tdi7cf84QL_0wvF7xKxv4mWfUaApTnEALw_wcB",
+    "https://www.thenorthface.com/?cm_mmc=Google-_-Brand%20Core%20Terms%20-%20Demo%20-%20Female-_-Brand%20Core%20Terms_Female-_-The%20North%20Face&utm_medium=cpc&utm_source=Google&utm_campaign=Brand%20Core%20Terms%20-%20Demo%20-%20Female&utm_term=The%20North%20Face&ploc=9028818&gclid=Cj0KCQiA84rQBRDCARIsAPO8RFy8dd5EnUlt8elfmQyYxQWwmQ06TjmVRShgBHSTcwl54b7XRVqSfEkaAjmPEALw_wcB",
+    "https://www.thenorthface.com/?cm_mmc=Google-_-Brand%20Core%20Terms%20-%20Demo%20-%20Male-_-Brand%20Core%20Terms_Male-_-Northface&utm_medium=cpc&utm_source=Google&utm_campaign=Brand%20Core%20Terms%20-%20Demo%20-%20Male&utm_term=Northface&ploc=9028755&gclid=CjwKCAiApdPRBRAdEiwA84bo3yERBlAY-B7iVIKGLc-qjC0sUIiewRDRsaNO0q_TxKZ66b00IkNe1BoCBfYQAvD_BwE",
+    "https://www.thenorthface.com/?cm_mmc=Google-_-Brand%20Terms%20-%20Atlanta-_-Atlanta%20-%20Brand%20Core%20Terms_Exact-_-north%20face&utm_medium=cpc&utm_source=Google&utm_campaign=Brand%20Terms%20-%20Atlanta&utm_term=north%20face&ploc=9010942&gclid=CjwKCAjwsJ3ZBRBJEiwAtuvtlNEil1FuZ48bkl3V4bxe29izUHkaJ0FiXKZVsIePSu8-uU4gMdZ5OxoC-JkQAvD_BwE"
+   ]
+  },
+  "2024": {
+   "error": "ERR HTTP Error 504: Gateway Time-out"
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 1349,
+   "sample": [
+    "https://www.thenorthface.com/akam/13/pixel_114280d0",
+    "https://www.thenorthface.com/akam/13/pixel_114280d0?a=dD0yMTA4MTQ0Y2EzNzQyMzAyZjA2NTFiN2MxMzA2NzdhNjFlMWQ1MmYxJmpzPW9mZg==",
+    "https://www.thenorthface.com/akam/13/pixel_114280d2",
+    "https://www.thenorthface.com/akam/13/pixel_114280d2?a=dD0yMTA4MTQ0Y2EzNzQyMzAyZjA2NTFiN2MxMzA2NzdhNjFlMWQ1MmYxJmpzPW9mZg==",
+    "https://www.thenorthface.com/akam/13/pixel_1142825a"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 3012,
+   "sample": [
+    "https://www.thenorthface.com/akam/13/pixel_11499db7",
+    "https://www.thenorthface.com/akam/13/pixel_11499db7?a=dD02YjllYWMyOTY3OTY1YjUyNzFkZmQ3NTdiN2NiMzRkNjM1N2MyMzljJmpzPW9mZg==",
+    "https://www.thenorthface.com/akam/13/pixel_11499eca",
+    "https://www.thenorthface.com/akam/13/pixel_11499eca?a=dD02YjllYWMyOTY3OTY1YjUyNzFkZmQ3NTdiN2NiMzRkNjM1N2MyMzljJmpzPW9mZg==",
+    "https://www.thenorthface.com/akam/13/pixel_11499f78"
+   ]
+  }
+ },
+ "vans": {
+  "pattern": "vans.com/*",
+  "2018": {
+   "error": "ERR HTTP Error 504: Gateway Time-out"
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 4833,
+   "sample": [
+    "https://www.vans.com/?categoryId=65121&colorCode=SFOAQI",
+    "https://www.vans.com/?cm_mmc=LinkShare-_-Affiliate-_-je6NUbpObpQ-_-335851&utm_source=linkshare&utm_medium=affiliate&utm_campaign=je6NUbpObpQ",
+    "https://www.vans.com/affiliates.html",
+    "https://www.vans.com/akam/11/pixel_2b807861",
+    "https://www.vans.com/akam/11/pixel_2b807868"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 4687,
+   "sample": [
+    "https://www.vans.com/?cm_mmc=LinkShare-_-Affiliate-_-je6NUbpObpQ-_-335851&utm_source=linkshare&utm_medium=affiliate&utm_campaign=je6NUbpObpQ&ranMID=24747&ranEAID=je6NUbpObpQ&ranLinkID=10-1&ranSiteID=je6NUbpObpQ-wJ5CM6Ep5GARE10ZOspcxg",
+    "https://www.vans.com/?cm_mmc=LinkShare-_-Affiliate-_-TnL5HPStwNw-_-321433&utm_source=linkshare&utm_medium=affiliate&utm_campaign=TnL5HPStwNw&ranMID=24747&ranEAID=TnL5HPStwNw&ranLinkID=10-1&ranSiteID=TnL5HPStwNw-HJn2sKLaN5w5PJJhiuDn.g",
+    "https://www.vans.com/?cm_mmc=LinkShare-_-Affiliate-_-TnL5HPStwNw-_-321433&utm_source=linkshare&utm_medium=affiliate&utm_campaign=TnL5HPStwNw&ranMID=24747&ranEAID=TnL5HPStwNw&ranLinkID=10-1&ranSiteID=TnL5HPStwNw-oNGe0MdSYTU9FX8RbLJlKA",
+    "https://www.vans.com?cm_mmc=LinkShare-_-Affiliate-_-TnL5HPStwNw-_-321433&utm_source=linkshare&utm_medium=affiliate&utm_campaign=TnL5HPStwNw&ranMID=24747&ranEAID=TnL5HPStwNw&ranLinkID=10-1&ranSiteID=TnL5HPStwNw-t9NKflqLzPfSskH6Q9Ateg",
+    "https://www.vans.com/?cm_mmc=LinkShare-_-Affiliate-_-TnL5HPStwNw-_-321433&utm_source=linkshare&utm_medium=affiliate&utm_campaign=TnL5HPStwNw&ranMID=24747&ranEAID=TnL5HPStwNw&ranLinkID=10-1&ranSiteID=TnL5HPStwNw-VUSUsEUFmBYxoAw1xHmQ2w"
+   ]
+  },
+  "2024": {
+   "error": "ERR HTTP Error 504: Gateway Time-out"
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 1213,
+   "sample": [
+    "https://www.vans.com/akam/13/pixel_116130d4",
+    "https://www.vans.com/akam/13/pixel_116130d4?a=dD1jMjU5NzVkMzdiZGViZjc2MTRiNDM1YzE4NzE3NTNmNmM0MzU1MGMxJmpzPW9mZg==",
+    "https://www.vans.com/akam/13/pixel_12295790",
+    "https://www.vans.com/akam/13/pixel_12295790?a=dD1hZWVjNzQwOTRiOWNjNzFhZmNkOTcwOWM3MWRhNjRlMjA5MmZlOGQ0JmpzPW9mZg==",
+    "https://www.vans.com/akam/13/pixel_124728ed"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 1709,
+   "sample": [
+    "https://www.vans.com/akam/13/pixel_126692cb",
+    "https://www.vans.com/akam/13/pixel_126692cb?a=dD1mMmYxMzA1MTJhNzNhNWNkYzZjYWU2NmJjZDU0NmJiODc5NTgxMjM4JmpzPW9mZg==",
+    "https://www.vans.com/akam/13/pixel_12e23818",
+    "https://www.vans.com/akam/13/pixel_12e23818?a=dD0wNzY0ZGJmMDAzOWFhN2UyYmQ5YjJhYzMzNzA5NGNmYmI4MDA5ZGJmJmpzPW9mZg==",
+    "https://www.vans.com/akam/13/pixel_12e82144"
+   ]
+  }
+ },
+ "timberland": {
+  "pattern": "timberland.com/*",
+  "2018": {
+   "distinct_urls": 726,
+   "product_like": 717,
+   "sample": [
+    "https://www.timberland.com/?storeId=7101&camp=d:af:PEPPERJAM&src=PEPPERJAM&AffId=133628&ClickId=2225008936",
+    "https://www.timberland.com/?storeId=7101&camp=d:af:PEPPERJAM&src=PEPPERJAM&AffId=133628&ClickId=2440487715",
+    "https://www.timberland.com/?storeId=7101&camp=d:af:PEPPERJAM&src=PEPPERJAM&AffId=148922&ClickId=2509694628",
+    "https://www.timberland.com/?productId=2054614&cp=1779791.1761081.2052978&parentPage=family)",
+    "https://www.timberland.com/?productId=12302129&prodFindSrc=search"
+   ]
+  },
+  "2019": {
+   "error": "ERR HTTP Error 504: Gateway Time-out"
+  },
+  "2020": {
+   "error": "ERR IncompleteRead(49408 bytes read)"
+  },
+  "2024": {
+   "error": "ERR IncompleteRead(427644 bytes read)"
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 1523,
+   "sample": [
+    "https://www.timberland.com/akam/13/pixel_10049c6f",
+    "https://www.timberland.com/akam/13/pixel_10049c6f?a=dD0yOWQ3MjRjMDI3YmJhNWEzMTBmZTgxNGE3NjNiN2ZlMTViNTkzM2ViJmpzPW9mZg==",
+    "https://www.timberland.com/akam/13/pixel_10049c71",
+    "https://www.timberland.com/akam/13/pixel_10049c71?a=dD0yOWQ3MjRjMDI3YmJhNWEzMTBmZTgxNGE3NjNiN2ZlMTViNTkzM2ViJmpzPW9mZg==",
+    "https://www.timberland.com/akam/13/pixel_10049c94"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 2510,
+   "sample": [
+    "https://www.timberland.com/akam/13/pixel_106561ce",
+    "https://www.timberland.com/akam/13/pixel_106561ce?a=dD1jMDkxM2ZkMDNjMWMwYTkyN2ZiZmIzN2ViODM4M2ZjOTdhOWQyZTU4JmpzPW9mZg==",
+    "https://www.timberland.com/akam/13/pixel_1505003b",
+    "https://www.timberland.com/akam/13/pixel_1505003b?a=dD0xZDI1OTU5NmM3ZWRlNzI1ODE3OTE5ZmQzYWUxNGRmNGY5YzQyNmRjJmpzPW9mZg==",
+    "https://www.timberland.com/akam/13/pixel_1505009a"
+   ]
+  }
+ }
+}

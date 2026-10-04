@@ -1,0 +1,270 @@
+{
+ "gap": {
+  "pattern": "gap.com/browse/product.do*",
+  "2018": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "http://www.gap.com:80/browse/product.do?cid=65187&pcid=65179&vid=1&pid=871769002&_sm_au_=isVWJV7k3mjSf64V",
+    "http://www.gap.com:80/browse/product.do?pid=153132002&vid=1&locale=en_US&kwid=1&sem=false&sdkw=holubar-boulder-coat-P153132&sdReferer=https://www.google.com/&_sm_au_=iVVJF2rD1TVZHv6Q",
+    "https://www.gap.com/browse/product.do?cid=64670&vid=1&pid=636142&actFltr=true",
+    "http://www.gap.com:80/browse/product.do?pid=178674002&cvosrc=ppc.google.&cvo_campaign=210199298&cvo_adgroup=10149031538&cvo_crid=57328249298&Matchtype=&campaigntype=PLA&tid=gppl000001&kwid=1&ap=7&sem=true&mkwid=_dc&creative=57328249298&adpos=1o2&gclid=CIaCsLLr68sCFVBZhgodEgoLcw",
+    "http://www.gap.com:80/browse/product.do?pcid=5058&vid=1&pid=845073012&ak_t=23A20A8CC23B133D9C111878E4A307A9B854F21D2974000023A2355A8F5CBC5D&tid=goaff7636802&ap=2&siteID=goafcid10433992&cvosrc=affiliate.cj.7636802"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.gap.com/browse/product.do?pid=351654&color=off%20white%20&%20black%20stripe",
+    "https://www.gap.com/browse/product.do?pid=500891&color=green%20&%20off%20white%20stripe",
+    "https://www.gap.com/browse/product.do?pid=498934&color=burgundy%20&%20pink%20multi%20stripe",
+    "https://www.gap.com/browse/product.do?pid=469168&color=blue%20&%20pink%20stripe",
+    "https://www.gap.com/browse/product.do?pid=467860&color=navy%20&%20pink%20stripe"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 3376,
+   "product_like": 3376,
+   "sample": [
+    "https://www.gap.com/browse/product.do?pid=649423002&amp;cid=35300&amp;pcid=35300&amp;vid=1&amp;nav=hamnav%3AWomen%3A%3AShoes%20%26%20Accessories%20&amp;grid=pds_232_259_1",
+    "https://www.gap.com/browse/product.do?pid=649372022&amp;cid=35300&amp;pcid=35300&amp;vid=1&amp;nav=hamnav%3AWomen%3A%3AShoes%20%26%20Accessories%20&amp;grid=pds_247_259_1",
+    "https://www.gap.com/browse/product.do?pid=614557002&amp;cid=5736&amp;pcid=5736&amp;vid=1&amp;nav=hamnav%3AWomen%3A%3AOuterwear%20%26%20Blazers&amp;grid=pds_11_125_1&amp;cpos=11&amp;cexp=1567&amp;kcid=CategoryIDs%3D5736&amp;cvar=11754&amp;ctype=Listing&amp;cpid=res20120912964696251770805",
+    "https://www.gap.com/browse/product.do?pid=603988012&cid=5168&pcid=5168&vid=1&nav=meganav%3AMen%3ACategories%3AOuterwear%20%26%20Blazers&grid=pds_25_74_1&cpos=25&cexp=1488&kcid=CategoryIDs%3D5168&cvar=11180&ctype=Listing&cpid=res20092911406163899882772",
+    "https://www.gap.com/browse/product.do?pid=593082032&cid=5168&pcid=5168&vid=1&nav=meganav%3AMen%3ACategories%3AOuterwear%20%26%20Blazers&grid=pds_33_91_1&cpos=33&cexp=1567&kcid=CategoryIDs%3D5168&cvar=11754&ctype=Listing&cpid=res20102307289900984284421"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.gap.com/browse/product.do?pid=759557022&%0A=",
+    "https://www.gap.com/browse/product.do?pid=649380002&cid=35300&pcid=35300&vid=1&nav=hamnav%3AWomen%3A%3AShoes%20%26%20Accessories%20&grid=pds_15_333_1&cpos=15&cexp=1567&kcid=CategoryIDs%3D35300&cvar=11754&ctype=Listing&cpid=res20110611147666808286526",
+    "https://www.gap.com/browse/product.do?pid=546621002&cid=35300&pcid=35300&vid=1&nav=meganav%3AWomen%3ACategories%3AShoes%20%26%20Accessories%20&grid=pds_107_336_1&cpos=107&kcid=CategoryIDs%3D35300&ctype=Listing&cpid=res637402935241103112",
+    "https://www.gap.com/browse/product.do?pid=405515012&cl=true&nav=smartlink:Baby%20%26%20Toddler::Shoes%20%26%20Accessories",
+    "https://www.gap.com/browse/product.do?pid=406159002&cl=true&nav=smartlink:Baby%20%26%20Toddler::Shoes%20%26%20Accessories"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=0370571b-003a-4c0d-b59e-5675a79b2115&pageType=product",
+    "https://www.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=168e88a0-7413-4e66-b9e2-32133168115d&pageType=product",
+    "https://www.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=3894d1e9-eee9-41a6-a4c5-e7815b3a2433&pageType=product",
+    "https://www.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=437e8225-2bd4-4fa2-a6d9-0c0da7c034eb&pageType=product",
+    "https://www.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=b694a8fb-81e0-42c8-b32e-6cd7983f0458&pageType=product"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=&pageType=product&locale=en_US",
+    "https://www.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=120f6981-7e2d-4022-9a6e-fbfe169c406d&pageType=product",
+    "https://www.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=301c7706-da36-47ae-8653-395917089569&pageType=product",
+    "https://www.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=3b34b522-5924-4968-88bd-3ebc9583f24d&pageType=product",
+    "https://www.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=3c123443-c50c-4f45-87c6-790fa44ac0ba&pageType=product"
+   ]
+  }
+ },
+ "oldnavy": {
+  "pattern": "oldnavy.gap.com/browse/product.do*",
+  "2018": {
+   "error": "ERR IncompleteRead(181253 bytes read)"
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://oldnavy.gap.com/browse/product.do?pid=135044002&",
+    "https://oldnavy.gap.com/browse/product.do?+Flare++Yellow=&pid=390763032&tid=onaff4441350&ap=2&siteID=onafcid11984894&searchText=Linen-Blend+Fit+&vid=1&cjevent=2fb89c4681ab11e9809a057c0a24060e",
+    "https://oldnavy.gap.com/browse/product.do?pid=394251022&pcid=999&_ga=2.234663902.1522883310.1564414939-2059665581.1468949313",
+    "https://oldnavy.gap.com/browse/product.do?pid=525427022&vid=1&locale=en_US&kwid=1&sem=false&sdReferer=http%3A%2F%2Fwww.oldnavy.com%2Fproducts%2Fpixie-pants.jsp%3Ftid%3Donps024277%26kwid%3D1%26ap%3D7%26sem%3Dtrue%26mkwid%3DqTWpjtVu%26adid%3DByq%2BAnil%2BCvkvr%2BCnag%26creative%3D4262737974",
+    "https://oldnavy.gap.com/browse/product.do?pid=652388012&tid=onpl000000&kwid=1&ap=7&sem=true&mkwid=c60oLtMP&adid=Cebqhpg+Nqf&pcrid=29466129575"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://oldnavy.gap.com/browse/product.do?pid=647327012&cid=1016287&pcid=1016287&vid=1&nav=meganav%3AWomen%27s%20Plus%3AShoes%20%26%20Accessories%3AAccessories&grid=pds_30_304_1&cpos=30&cexp=1483&kcid=CategoryIDs%3D1016287&ctype=Listing&cpid=res20102013743953404363223",
+    "https://oldnavy.gap.com/browse/product.do?pid=390924162&cid=1113105&pcid=14675&vid=1&nav=meganav%3AWomen%3AShoes%20%26%20Accessories%3AAccessories&grid=pds_39_426_1",
+    "https://oldnavy.gap.com/browse/product.do?pid=608297112&cid=1049702&pcid=1049702&vid=1&nav=meganav%3AWomen%3AShoes%20%26%20Accessories%3AHats%2C%20Gloves%20%26%20Scarves&grid=pds_11_22_1&cpos=11&cexp=1483&kcid=CategoryIDs%3D1049702&ctype=Listing&cpid=res20102012424812749226024",
+    "https://oldnavy.gap.com/browse/product.do?pid=660355082&cid=1049702&pcid=1049702&vid=1&nav=meganav%3AWomen%3AShoes%20%26%20Accessories%3AHats%2C%20Gloves%20%26%20Scarves&grid=pds_2_22_1&cpos=2&cexp=1483&kcid=CategoryIDs%3D1049702&ctype=Listing&cpid=res20102012424812749226024",
+    "https://oldnavy.gap.com/browse/product.do?pid=609555012&cid=55147&pcid=55147&vid=1&nav=meganav%3AWomen%3AShoes%20%26%20Accessories%3AShoes&grid=pds_9_255_1&cpos=9&cexp=1483&kcid=CategoryIDs%3D55147&cvar=11131&ctype=Listing&cpid=res20090112733665583996877"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://oldnavy.gap.com/browse/product.do?pid=682713032&%0A=",
+    "https://oldnavy.gap.com/browse/product.do?pid=691954012&%0A=",
+    "https://oldnavy.gap.com/browse/product.do?pid=720918002&%0A=",
+    "https://oldnavy.gap.com/browse/product.do?pid=7219310020002&%0A=",
+    "https://oldnavy.gap.com/browse/product.do?pid=737538002&%0A="
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://oldnavy.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=&pageType=product",
+    "https://oldnavy.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=0542d435-ee12-44b9-bc3e-5eb2ed09ca26&pageType=product",
+    "https://oldnavy.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=064e6980-c6a8-40ef-b961-8520e71fdd5e&pageType=product",
+    "https://oldnavy.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=0cfb1bd4-f0f1-458d-adbd-adeb875ec161&pageType=product",
+    "https://oldnavy.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=0eacfe5f-a33a-4132-b629-b8ffdc99c1ee&pageType=product"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://oldnavy.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=12c3c78c-5ec5-4cc4-857e-9e6fb7c64040&pageType=product",
+    "https://oldnavy.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=167eb8ab-661e-4146-b5cc-4ceb433da862&pageType=product",
+    "https://oldnavy.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=21c58fff-c7fd-472e-ac0e-7225d45b25c3&pageType=product",
+    "https://oldnavy.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=29549763-783c-4b67-9b43-5d992f597339&pageType=product",
+    "https://oldnavy.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=2cec4667-6cef-473c-9cd3-113eae54678e&pageType=product"
+   ]
+  }
+ },
+ "bananarepublic": {
+  "pattern": "bananarepublic.gap.com/browse/product.do*",
+  "2018": {
+   "distinct_urls": 2066,
+   "product_like": 2066,
+   "sample": [
+    "https://bananarepublic.gap.com/browse/product.do?pid=859793142&tid=brpl000001&kwid=1&ap=7&sem=true&mkwid=jYWzUHab_dc&adid=Cebqhpg+Nqf&pcrid=27249727316",
+    "http://bananarepublic.gap.com:80/browse/product.do?pid=180763132&tid=braff4441350&ap=2&siteID=brafcid527534240&vid=3&locale=en_US&kwid=1&sem=false&sdkw=sloan-fit-solid-pant-P180763&brandCvoSid=S8F9V2ZP8MYN&sdReferer=http://www.bananarepublic.com/products/petite-pants.jsp&cvosrc=affiliate.cj.4441350",
+    "http://bananarepublic.gap.com:80/browse/product.do?pid=484556002&tid=braff552179&ap=2&siteID=brafcid12882590&cvosrc=affiliate.cj.552179&CA_6C15C=120302000000152682",
+    "http://bananarepublic.gap.com:80/browse/product.do?pid=184566002&tid=braff552179&ap=2&siteID=brafcid12882590&cvosrc=affiliate.cj.552179&CA_6C15C=120302000000175457",
+    "http://bananarepublic.gap.com:80/browse/product.do?pid=798146002&tid=braff552179&ap=2&siteID=brafcid12882590&cvosrc=affiliate.cj.552179&CA_6C15C=120302000000187555"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://bananarepublic.gap.com/browse/product.do?pid=495492&color=Camel%20&%20Animal%20Print",
+    "https://bananarepublic.gap.com/browse/product.do?pid=494125&color=White%20&%20Black%20Stripe",
+    "https://bananarepublic.gap.com/browse/product.do?pid=492453&color=Camel%20&%20Black%20Zebra%20Print",
+    "https://bananarepublic.gap.com/browse/product.do?pid=492363&color=Olive%20Green%20&%20Black",
+    "https://bananarepublic.gap.com/browse/product.do?pid=495129&color=Preppy%20Navy%20&%20Black"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 3987,
+   "product_like": 3987,
+   "sample": [
+    "https://bananarepublic.gap.com/browse/product.do?pid=646181002&cid=1005878&pcid=13915&vid=1&nav=meganav%3AWomen%3Ashoes%20%26%20accessories%3Aaccessories&grid=pds_233_240_1",
+    "https://bananarepublic.gap.com/browse/product.do?pid=660107012&cid=1039197&pcid=13915&vid=1&nav=meganav%3AWomen%3Ashoes%20%26%20accessories%3Aaccessories&grid=pds_102_240_1",
+    "https://bananarepublic.gap.com/browse/product.do?pid=660245002&cid=1039197&pcid=13915&vid=1&nav=meganav%3AWomen%3Ashoes%20%26%20accessories%3Aaccessories&grid=pds_112_240_1",
+    "https://bananarepublic.gap.com/browse/product.do?pid=660172002&cid=1039197&pcid=13915&vid=1&nav=meganav%3AWomen%3Ashoes%20%26%20accessories%3Aaccessories&grid=pds_136_240_1",
+    "https://bananarepublic.gap.com/browse/product.do?pid=647127002&cid=1039220&pcid=13915&vid=1&nav=meganav%3AWomen%3Ashoes%20%26%20accessories%3Aaccessories&grid=pds_63_240_1"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://bananarepublic.gap.com/browse/product.do?pid=546095002&cid=1141785&pcid=1141785&vid=1&nav=meganav%3AWomen%3AShoes%20%26%20Accessories%3ABags&cpos=3&kcid=CategoryIDs%3D1141785&ctype=Listing&cpid=res638594436751611370&ccam=30594&irgwc=1&clickid=&ap=6&tid=braff995000&siteID=brafcid383276",
+    "https://bananarepublic.gap.com/browse/product.do?pid=465512002&cid=1127780&vid=1&nav=meganav%3AMen%3Ashoes%20%26%20accessories%3ABags&cpos=0&cexp=2252&kcid=CategoryIDs%3D1127780&cvar=17248&ctype=Listing&cpid=res2402130942063648366398&irgwc=1&clickid=&ap=6&tid=braff995019&siteID=brafcid821952",
+    "https://bananarepublic.gap.com/browse/product.do?pid=889367012&cid=1141785&pcid=1141785&vid=1&nav=meganav%3AWomen%3AShoes%20&%20Accessories%3ABags&cpos=15&cexp=2252&kcid=CategoryIDs%3D1141785&cvar=17249&ctype=Listing&cpid=res24042312479221586826826&irgwc=1&clickid=&ap=6&tid=braff010157&siteID=brafcid383276",
+    "https://bananarepublic.gap.com/browse/product.do?pid=889367012&cid=1141785&pcid=1141785&vid=1&nav=meganav%3AWomen%3AShoes%20%26%20Accessories%3ABags&cpos=15&cexp=2252&kcid=CategoryIDs%3D1141785&cvar=17249&ctype=Listing&cpid=res24050819752724995255807&irgwc=1&clickid=&ap=6&tid=braff995000&siteID=brafcid383276",
+    "https://bananarepublic.gap.com/browse/product.do?pid=887753022&cid=1141785&pcid=1141785&vid=1&nav=meganav%3AWomen%3AShoes%20%26%20Accessories%3ABags&cpos=14&cexp=2252&kcid=CategoryIDs%3D1141785&cvar=17249&ctype=Listing&cpid=res24071112246255697797171&irgwc=1&clickid=&ap=6&tid=braff995000&siteID=brafcid383276"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://bananarepublic.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=04b5abbd-0dc6-428f-998b-0950bd167f68&pageType=product",
+    "https://bananarepublic.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=0a1af465-3cff-4743-a552-430a556fbb00&pageType=product",
+    "https://bananarepublic.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=0fb0dfa8-3253-4cce-86a7-66dd8c2c3041&pageType=product",
+    "https://bananarepublic.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=1b708101-f69f-43ab-ada0-4065e787956b&pageType=product",
+    "https://bananarepublic.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=336f6346-435b-4628-9788-6e8d5d081854&pageType=product"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://bananarepublic.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=007ec1b1-d5da-4cac-bba0-efb87dd54f10&pageType=product",
+    "https://bananarepublic.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=0386e10a-ee50-4edf-919d-bdb518151766&pageType=product",
+    "https://bananarepublic.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=0491ea71-7dec-41e5-a935-e6a848be4bb3&pageType=product",
+    "https://bananarepublic.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=0a14d75f-bfeb-4187-a698-c8a343d841a2&pageType=product",
+    "https://bananarepublic.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=0f5e0c73-9d9a-4892-ba1e-227175753686&pageType=product"
+   ]
+  }
+ },
+ "athleta": {
+  "pattern": "athleta.gap.com/browse/product.do*",
+  "2018": {
+   "distinct_urls": 836,
+   "product_like": 836,
+   "sample": [
+    "http://athleta.gap.com:80/browse/product.do?pid=983406122&",
+    "http://athleta.gap.com/browse/product.do?pid=211627002&vid=1&locale=en_US&kwid=1&sem=false&sdkw=pacifica-heathered-upf-tee-2-P211627&brandCvoSid=4RUQDQXDXTF2&sdReferer=http%3A%2F%2Fwww.athleta.com%2Fproducts%2Fwomens-workout-tops.jsp&ak_t=EC9EE92DF8AF1E68DA1A84969945BC3C173DC3A2807C0000CCD4A25A0F3D9B18",
+    "http://athleta.gap.com:80/browse/product.do?pid=591375002&tid=ataff4441350&ap=2&siteID=atafcid12882570&CA_6C15C=120299870000079559",
+    "https://athleta.gap.com/browse/product.do?pid=596354022&tid=ataff2178999&ap=2&siteID=atafcid12882570&cjevent=04eafa7eb84f11e881a3040c0a24060f&CA_6C15C=120299870000082779",
+    "http://athleta.gap.com:80/browse/product.do?pid=158981022&tid=ataff4441350&ap=2&siteID=atafcid12882570&CA_6C15C=120299870000177665"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 4257,
+   "product_like": 4257,
+   "sample": [
+    "https://athleta.gap.com/browse/product.do?pid=292915002&CAWELAID=120299870000380703&CAGPSPN=pla&CAAGID=60443829300&CATCI=aud-530018885942:pla-528716951216&tid=atpl000007&kwid=1&ap=7&gclsrc=aw.ds&&gclid=CjwKCAjwzPXlBRAjEiwAj_XTEVxDVCFycAcJwUnpFPT4CVLsQAK90usuGiWzWDtfrveaiyZPSNl0OhoCJ4QQAvD_BwE",
+    "https://athleta.gap.com/browse/product.do?pid=403928002&cid=46883&pcid=46883&grid=pds_3_7_1&_ga=2.106689792.2019957372.1564418076-1547287163.1561482320&_gac=1.41012758.1563401969.EAIaIQobChMInK-Zlv684wIVC9bACh3vcgIYEAAYASAAEgIlUPD_BwE&tid=ataff7819943&ap=2&siteID=atafcid10696047&cjevent=87cd3530b22e11e9805d04720a240611",
+    "https://athleta.gap.com/browse/product.do?pid=964251002&tid=atpl000001&kwid=1&ap=7&sem=true&mkwid=G6P5SPd6&adid=tbbtyr_Cebqhpg&pcrid=22560277170",
+    "https://athleta.gap.com/browse/product.do?pid=791420&locale=en_US&kwid=1&sem=false&sdReferer=http%3A%2F%2Fwww.athleta.com%2Fproducts%2Fyoga-accessories.jsp%3Ftid%3Datgotn55%26kwid%3D1%26ap%3D7%26sem%3Dtrue%26mkwid%3D695F0aEI%26adid%3Dubg%2Blbtn%2Bzngf%26creative%3D8502247284%26adpos%3D1t2",
+    "https://athleta.gap.com/browse/product.do?pid=487739012&rrec=true&mlink=5050,12413545,atproduct1_rr_3&clink=12413545&ak_t=2644AEF2D84D6E51C3469C4472B1239B4056CEB51F1A00006C57CB5D9B22B01F"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 2830,
+   "product_like": 2830,
+   "sample": [
+    "https://athleta.gap.com/browse/product.do?pid=980100002&cid=1158113&pcid=1157294&vid=1&nav=meganav:NEW:FEATURED%20SHOPS:Masks%20&%20At%20Home%20Essentials&grid=pds_0_177_1",
+    "https://athleta.gap.com/browse/product.do?pid=658554002&cid=1158113&pcid=1157294&vid=1&nav=meganav:NEW:FEATURED%20SHOPS:Masks%20&%20At%20Home%20Essentials&grid=pds_3_175_1",
+    "https://athleta.gap.com/browse/product.do?pid=599478002&amp;cid=1017105&amp;pcid=1017105&amp;vid=1&amp;nav=meganav%3AJACKETS%3ACATEGORIES%3ASweatshirts%20%26%20Fleece&amp;grid=pds_12_37_1&amp;cpos=12&amp;cexp=1501&amp;kcid=CategoryIDs%3D1017105&amp;cvar=11273&amp;ctype=Listing&amp;cpid=res20121009822042565244269",
+    "https://athleta.gap.com/browse/product.do?pid=486249012&amp;cid=1017105&amp;pcid=1017105&amp;vid=1&amp;nav=meganav%3AJACKETS%3ACATEGORIES%3ASweatshirts%20%26%20Fleece&amp;grid=pds_18_37_1&amp;cpos=18&amp;cexp=1501&amp;kcid=CategoryIDs%3D1017105&amp;cvar=11273&amp;ctype=Listing&amp;cpid=res20121009822042565244269",
+    "https://athleta.gap.com/browse/product.do?pid=599478002&cid=1017105&pcid=1017105&vid=1&nav=meganav%3AJACKETS%3ACATEGORIES%3ASweatshirts%20%26%20Fleece&grid=pds_12_37_1&cpos=12&cexp=1501&kcid=CategoryIDs%3D1017105&cvar=11273&ctype=Listing&cpid=res20121009822042565244269"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://athleta.gap.com/browse/product.do?pid=860111002&cid=1017105&pcid=1017105&vid=1&nav=meganav%3AJackets%3ACATEGORIES%3ASweatshirts%20%26%20Fleece&cpos=23&cexp=2702&kcid=CategoryIDs%3D1017105&cvar=23173&ctype=Listing&cpid=res22090115163388168515352",
+    "https://athleta.gap.com/browse/product.do?pid=882882022&cl=true&nav=smartlink:Jackets%20::Hoodies%20%26%20Fleece",
+    "https://athleta.gap.com/browse/product.do?cid=84208&grid=pds_13_68_1&nav=meganav%3AACTIVITY%3AACTIVITIES%3ATennis%20%26%20Golf&pcid=46730&pid=5563990220002&vid=1",
+    "https://athleta.gap.com/browse/product.do?pid=881851002&cl=true&nav=smartlink:Accessories::Hats%20%26%20Hair%20Accessories",
+    "https://athleta.gap.com/browse/product.do?pid=446859092&cl=true&nav=smartlink:Dresses%20%26%20Jumpsuits::All%20Dresses%20%26%20Jumpsuits"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://athleta.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=&pageType=product",
+    "https://athleta.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=15189185-779b-4475-a72f-3241a54c844f&pageType=product",
+    "https://athleta.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=6b615e67-2a47-4fff-aa2c-18f87db65e7e&pageType=product",
+    "https://athleta.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=87fe41fe-4a5d-4f8a-b75a-cd48667795a3&pageType=product",
+    "https://athleta.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=d89cc95b-7138-420c-a138-19f56e90d0f3&pageType=product"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://athleta.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=0aa416a9-1d64-4f90-b366-45474c469121&pageType=product",
+    "https://athleta.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=c0e7c0d3-c600-4c9e-a605-1a37c74c689e&pageType=product",
+    "https://athleta.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=c2414c4d-d580-4073-83c7-fe017f60f381&pageType=product&locale=en_US",
+    "https://athleta.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=c59f987d-2a65-4551-a810-df0370b2f0c7&pageType=product",
+    "https://athleta.gap.com/browse/product.do&channel=WEB&screensize=large&referrer=&correlationId=c8635e04-e509-435a-a2da-fcdc8c72d6e6&pageType=product"
+   ]
+  }
+ }
+}

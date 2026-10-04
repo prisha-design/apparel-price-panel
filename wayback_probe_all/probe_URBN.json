@@ -1,0 +1,155 @@
+{
+ "urbanoutfitters": {
+  "pattern": "urbanoutfitters.com/products/*",
+  "2018": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2019": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2020": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2024": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2025": {
+   "error": "ERR <urlopen error [Errno 104] Connection reset by peer>"
+  },
+  "2026": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  }
+ },
+ "anthropologie": {
+  "pattern": "anthropologie.com/shop/*",
+  "2018": {
+   "distinct_urls": 3166,
+   "product_like": 3166,
+   "sample": [
+    "https://www.anthropologie.com/shop/111-places-you-must-not-miss2",
+    "https://www.anthropologie.com/shop/12-days-of-christmas-candle-set",
+    "https://www.anthropologie.com/shop/52-lists-for-happiness-journal",
+    "https://www.anthropologie.com/shop/52-lists-for-happiness-journal?cm_mmc=pinterest-_-product-_-share-_-40412975",
+    "https://www.anthropologie.com/shop/6-shore-road-coco-striped-bikini-top?color=009"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 4989,
+   "sample": [
+    "https://www.anthropologie.com/shop-all-clothing?feature-product-ids=AN-4120615360005-000,AN-4110074060147-000,AN-4130074060089-000,AN-4110074060149-000,AN-4110292127133-000,AN-4114291390006-000,AN-4130210690075-000,AN-4112210690099-000",
+    "https://www.anthropologie.com/shop-all-clothing?feature-product-ids=AN-4122261180116-000,AN-4110259830258-000,AN-53457057-000,AN-53416319-000",
+    "https://www.anthropologie.com/shop-all-clothing?feature-product-ids=AN-4122382010043-000,AN-4110643440003-000",
+    "https://www.anthropologie.com/shop-all-clothing?feature-product-ids=AN-4123461050005-000,AN-4114529100077-000,AN-4114267260005-000,AN-4123059680025-000",
+    "https://www.anthropologie.com/shop-all-clothing?feature-product-ids=AN-4130206000047-000,AN-4112262740007-000"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 4989,
+   "sample": [
+    "https://www.anthropologie.com/shop-all-clothing?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=2020_product&amp;utm_term=5_30_2020feedimage9am&amp;utm_content=tiedyesweatshirtyellowbathingsuit&amp;feature-product-ids=AN-57939571-000,AN-54761721-000",
+    "https://www.anthropologie.com/shop-all-clothing?cm_mmc=LS-_-affiliates-_-tv2R4u9rImY-_-1&amp;utm_medium=affiliates&amp;utm_source=LS&amp;utm_campaign=tv2R4u9rImY&amp;utm_term=771903&amp;utm_content=1&amp;ranMID=39789&amp;ranEAID=tv2R4u9rImY&amp;ranSiteID=tv2R4u9rImY-ruQqnaXRkmUZt.WsGSxU9g&amp;siteID=tv2R4u9rImY-ruQqnaXRkmUZt.WsGSxU9g",
+    "https://www.anthropologie.com/shop-all-clothing?feature-product-ids=AN-4110069690029-000,AN-4120078420001-000,AN-4130099510114-000,AN-4114444050003-000,AN-4112347800017-000,AN-4110089540020-000,AN-4110089540020-000,AN-4130360680031-000",
+    "https://www.anthropologie.com/shop-all-clothing?feature-product-ids=AN-4110089450007-000,AN-4112211810015-000,AN-4123650590048-000,AN-4110095140008-000,AN-4123382010036-000,AN-4110264840005-000,AN-4130652010001-000,AN-4112225550010-000",
+    "https://www.anthropologie.com/shop-all-clothing?feature-product-ids=AN-4110095140010-000,AN-4122382010121-000,AN-4110095140010-000,AN-4123382010038-000"
+   ]
+  },
+  "2024": {
+   "error": "ERR <urlopen error [Errno 104] Connection reset by peer>"
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 4960,
+   "sample": [
+    "https://www.anthropologie.com/shop-all-bedding?feature-product-ids=AN-4545G573AA-000%2CAN-4545G554AA-000%2CAN-45457426AA-000%2CAN-4545G559AA-000&page=2&patterns=Novelty%2CGeometric%2CFloral%2CStriped%2CAbstract%2CPlaid%2CAnimal+Print%2CTextured",
+    "https://www.anthropologie.com/shop-all-furniture?cm_mmc=rakuten-_-affiliates-_-NY+Post-_-1&utm_medium=affiliates&utm_source=rakuten&utm_campaign=NY+Post&utm_term=1890203&utm_content=1&utm_kxconfid=v3sdgfere&ranMID=39789&ranEAID=XRMZVUE6JmY&ranSiteID=XRMZVUE6JmY-IQ29C9rHqcPaQSELQc22SA",
+    "https://www.anthropologie.com/shop-all-furniture?cm_mmc=rakuten-_-affiliates-_-NY+Post-_-1&utm_kxconfid=v3sdgfere&ranMID=39789&ranEAID=XRMZVUE6JmY&ranSiteID=XRMZVUE6JmY-IQ29C9rHqcPaQSELQc22SA",
+    "https://www.anthropologie.com/shop-all-furniture?feature-product-ids=AN-92499573-000%2CAN-96151816-000%2CAN-92502962-000%2CAN-96909890-000%2CAN-96471362-000%2CAN-97071864-000%2CAN-4530WNNHAF-000",
+    "https://www.anthropologie.com/shop-all-furniture?feature-product-ids=AN-93442473-000&page=6"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 4962,
+   "sample": [
+    "https://www.anthropologie.com/shop-all-garden-outdoor?feature-product-ids=AN-88672258-000%2CAN-88672217-000%2CAN-80330467-000%2CAN-88769534-000&page=3",
+    "https://www.anthropologie.com/shop-all-gifts?price=0-25&mid=39725&cm_mmc=LinkSharefr-_-Affiliate-_-TnL5HPStwNw-_-1&utm_medium=affiliates&utm_source=LSFR&utm_campaign=Skimlinks.com&utm_term=1777538&utm_content=1&utm_kxconfid=v3sdgzjs8&ranMID=39725&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-uUx9HyrK3gF7SLWhV0yoIw",
+    "https://www.anthropologie.com/shop-all-gifts?price=0-25&mid=39725&cm_mmc=LinkSharefr-_-Affiliate-_-TnL5HPStwNw-_-1&utm_kxconfid=v3sdgzjs8&ranMID=39725&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-uUx9HyrK3gF7SLWhV0yoIw",
+    "https://www.anthropologie.com/shop-all-gifts?cm_mmc=rakuten-_-affiliates-_-Future+US+LLC-_-1&utm_medium=affiliates&utm_source=rakuten&utm_campaign=Future+US+LLC&utm_term=1550042&utm_content=1&utm_kxconfid=v3sdgfere&ranMID=39789&ranEAID=kXQk6*ivFEQ&ranSiteID=kXQk6.ivFEQ-BX27IqlBDbasOwsljFvihw",
+    "https://www.anthropologie.com/shop-all-gifts?cm_mmc=rakuten-_-affiliates-_-Future+US+LLC-_-1&utm_kxconfid=v3sdgfere&ranMID=39789&ranEAID=kXQk6*ivFEQ&ranSiteID=kXQk6.ivFEQ-BX27IqlBDbasOwsljFvihw"
+   ]
+  }
+ },
+ "freepeople": {
+  "pattern": "freepeople.com/shop/*",
+  "2018": {
+   "distinct_urls": 5000,
+   "product_like": 4998,
+   "sample": [
+    "https://www.freepeople.com/shop-all-beauty-wellness/?featuredProducts=FP-43906601-000&cm_sp=homepage-_-hp170925-_-shop_all_beauty_wellness",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?cm_sp=homepage-_-hp_180101-_-beauty",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?cm_sp=homepage-_-hp_180108-_-beauty",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?cm_sp=homepage-_-mobile_hp_171127-_-beauty",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?cm_sp=homepage-_-mobile_hp_180101-_-beauty"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 4996,
+   "sample": [
+    "https://www.freepeople.com/shop-all-beauty-wellness/?utm_source=broadcast&utm_medium=email&utm_campaign=190507_mothers_day&utm_term=01315680&utm_content=beauty_wellness&mi_u=B789FF188B1370F25AFDA44F679AB11F39703131B55C19476AD1A8F34E6C71E5&mi_ecmp=C000046917_05072019121942&dtm_em=B789FF188B1370F25AFDA44F679AB11F39703131B55C19476AD1A8F34E6C71E5&dtmc_drop_id=C000046917_05072019121942&s2=B789FF188B1370F25AFDA44F679AB11F39703131B55C19476AD1A8F34E6C71E5",
+    "https://www.freepeople.com/shop/-love-tee/",
+    "https://www.freepeople.com/shop/-love-tee/?category=graphic-tees",
+    "https://www.freepeople.com/shop/-love-tee/?category=graphic-tees&color=010",
+    "https://www.freepeople.com/shop/-love-tee/?category=SHOPBYBRAND&color=010"
+   ]
+  },
+  "2020": {
+   "error": "ERR HTTP Error 503: Service Unavailable"
+  },
+  "2024": {
+   "distinct_urls": 2445,
+   "product_like": 2441,
+   "sample": [
+    "https://www.freepeople.com/shop-all-beauty-wellness/?feature-product-ids=FP-48772883-000&page=2&row3=2",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?feature-product-ids=FP-48772883-000&row3=2",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?feature-product-ids=FP-78956836-000,FP-83830695-000&mobile_row13=0",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?feature-product-ids=FP-91096578-000&mobile_row13=0",
+    "https://www.freepeople.com/shop/1460-pascal-virginia-lace-up-boots/?color=001&type=REGULAR&quantity=1&cm_mmc=rakuten-_-affiliates-_-buzzfeed.com-_-1&utm_medium=affiliates&utm_source=rakuten&utm_campaign=buzzfeed.com&utm_term=1659749&utm_content=1&utm_kxconfid=v3sdm8r4u&ranMID=43177&ranEAID=yPKHhJU2qBg&ranSiteID=yPKHhJU2qBg-k6al6vkS.PwiRurnKNooPA"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 4994,
+   "sample": [
+    "https://www.freepeople.com/shop-all-beauty-wellness/?cm_mmc=rakuten-_-affiliates-_-55haitao.com-_-1&utm_medium=affiliates&utm_source=rakuten&utm_campaign=55haitao.com&utm_term=1940996&utm_content=1&utm_kxconfid=v3sdm8r4u&ranMID=43177&ranEAID=9CGqNUoKmgs&ranSiteID=9CGqNUoKmgs-y2wKOEmXT2DzBDLLPXT8FQ",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?cm_mmc=rakuten-_-affiliates-_-Allure-_-1&utm_medium=affiliates&utm_source=rakuten&utm_campaign=Allure&utm_term=717306&utm_content=1&utm_kxconfid=v3sdm8r4u&ranMID=43177&ranEAID=MZ9491VLjxM&ranSiteID=MZ9491VLjxM-nNsfXVJQTe_Drh4BofbBVQ",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?cm_mmc=rakuten-_-affiliates-_-Allure-_-1&utm_kxconfid=v3sdm8r4u&ranMID=43177&ranEAID=MZ9491VLjxM&ranSiteID=MZ9491VLjxM-nNsfXVJQTe_Drh4BofbBVQ",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?cm_mmc=rakuten-_-affiliates-_-StyleCaster-_-1&utm_medium=affiliates&utm_source=rakuten&utm_campaign=StyleCaster&utm_term=1788294&utm_content=1&utm_kxconfid=v3sdm8r4u&ranMID=43177&ranEAID=t1ZX7*4ybQA&ranSiteID=t1ZX7.4ybQA-QgZwE86UI3i8mjCbOUrdXA",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?cm_mmc=rakuten-_-affiliates-_-StyleCaster-_-1&utm_kxconfid=v3sdm8r4u&ranMID=43177&ranEAID=t1ZX7*4ybQA&ranSiteID=t1ZX7.4ybQA-QgZwE86UI3i8mjCbOUrdXA"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 4996,
+   "sample": [
+    "https://www.freepeople.com/shop-all-beauty-wellness/?feature-product-ids=FP-101542132-000&mobile_row9=0",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?feature-product-ids=FP-102026861-000&mobile_row8=0",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?feature-product-ids=FP-102026861-000&mobile_row8=0&page=2",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?feature-product-ids=FP-102026861-000&mobile_row9=0",
+    "https://www.freepeople.com/shop-all-beauty-wellness/?feature-product-ids=FP-104653985-000,FP-106427461-000,FP-106427461-000,FP-101542132-000&mobile_row9=0"
+   ]
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "abercrombie": {
+  "pattern": "abercrombie.com/shop/us/p/*",
+  "2018": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.abercrombie.com/shop/us/p/-11412321?categoryId=6234533&ofp=true&seq=03",
+    "https://www.abercrombie.com/shop/us/p/-11412321?categoryId=6234533&ofp=true&seq=04",
+    "https://www.abercrombie.com/shop/us/p/-11412321?categoryId=6234533&ofp=true&seq=08",
+    "https://www.abercrombie.com/shop/us/p/-11428319?categoryId=12204&seq=01",
+    "https://www.abercrombie.com/shop/us/p/-11428319?categoryId=12204&seq=02"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 1574,
+   "product_like": 1574,
+   "sample": [
+    "https://www.abercrombie.com/shop/us/p/-7565619?originalStore=uk",
+    "https://www.abercrombie.com/shop/us/p/3-pack-boxer-brief-29436319",
+    "https://www.abercrombie.com/shop/us/p/3-pack-boxer-brief-29436319?categoryId=13196&seq=01",
+    "https://www.abercrombie.com/shop/us/p/3-pack-boxer-brief-29436319?seq=01",
+    "https://www.abercrombie.com/shop/us/p/3-pack-icon-holiday-crew-tee-13305319"
+   ]
+  },
+  "2020": {
+   "error": "ERR HTTP Error 503: Service Unavailable"
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.abercrombie.com/shop/us/p/10-pack-boxer-briefs-56288953",
+    "https://www.abercrombie.com/shop/us/p/10-pack-boxer-briefs-56288953?categoryId=13196&faceout=prod&seq=01",
+    "https://www.abercrombie.com/shop/us/p/10-pack-boxer-briefs-56288953?originalStore=ca",
+    "https://www.abercrombie.com/shop/us/p/10-pack-boxer-briefs-56288953?originalStore=eu",
+    "https://www.abercrombie.com/shop/us/p/10-pack-boxer-briefs-56288953?originalStore=uk"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.abercrombie.com/shop/us/p/1-oz-and-34-oz-fierce-gift-set-57695663",
+    "https://www.abercrombie.com/shop/us/p/1-oz-and-34-oz-fierce-gift-set-57695663?originalStore=am",
+    "https://www.abercrombie.com/shop/us/p/10-pack-boxer-briefs-56288953?seq=01&categoryId=148756&faceout=prod",
+    "https://www.abercrombie.com/shop/us/p/10-pack-boxer-briefs-59143319",
+    "https://www.abercrombie.com/shop/us/p/10-pack-boxer-briefs-59143319?afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&categoryId=13196&faceout=prod&seq=02"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.abercrombie.com/shop/us/p/--62638319?originalStore=am",
+    "https://www.abercrombie.com/shop/us/p/10-pack-boxer-briefs-59143319?categoryId=13196&faceout=prod&seq=04&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid",
+    "https://www.abercrombie.com/shop/us/p/10-pack-boxer-briefs-59143319?categoryId=148756&faceout=prod&seq=04&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid",
+    "https://www.abercrombie.com/shop/us/p/10-pack-boxer-briefs-59143319?originalStore=eu&categoryId=84633&faceout=prod&seq=04&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid",
+    "https://www.abercrombie.com/shop/us/p/10-pack-boxer-briefs-59143319?originalStore=am"
+   ]
+  }
+ },
+ "hollister": {
+  "pattern": "hollisterco.com/shop/us/p/*",
+  "2018": {
+   "error": "ERR <urlopen error [Errno 104] Connection reset by peer>"
+  },
+  "2019": {
+   "distinct_urls": 398,
+   "product_like": 398,
+   "sample": [
+    "https://www.hollisterco.com/shop/us/p/acid-wash-hoodie-39015321?categoryId=12552&seq=02&faceout=model",
+    "https://www.hollisterco.com/shop/us/p/advanced-stretch-high-rise-jean-leggings-12336009?categoryId=12552&seq=07",
+    "https://www.hollisterco.com/shop/us/p/bikini-bottom-15971825?categoryId=122841&seq=09&faceout=model",
+    "https://www.hollisterco.com/shop/us/p/bikini-bottom-15971825?seq=09",
+    "https://www.hollisterco.com/shop/us/p/boyfriend-cardigan-11904562-1?categoryId=166318&seq=04&faceout=model"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 3891,
+   "product_like": 3891,
+   "sample": [
+    "https://www.hollisterco.com/shop/us/p/advanced-stretch-high-rise-crop-jean-leggings-23865286",
+    "https://www.hollisterco.com/shop/us/p/advanced-stretch-high-rise-crop-jean-leggings-23865286?categoryId=12623&seq=01",
+    "https://www.hollisterco.com/shop/us/p/advanced-stretch-high-rise-crop-jean-leggings-23865286?originalStore=eu-nl",
+    "https://www.hollisterco.com/shop/us/p/advanced-stretch-high-rise-crop-jean-leggings-23865286?originalStore=wd",
+    "https://www.hollisterco.com/shop/us/p/advanced-stretch-high-rise-crop-jean-leggings-40030155"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.hollisterco.com/shop/us/p/1969-ford-mustang-graphic-crew-sweatshirt-56787372",
+    "https://www.hollisterco.com/shop/us/p/1969-ford-mustang-graphic-crew-sweatshirt-56787372?categoryId=12572&faceout=prod&seq=06&afsource=social+proofing",
+    "https://www.hollisterco.com/shop/us/p/1969-ford-mustang-graphic-crew-sweatshirt-56787372?categoryId=12556&faceout=prod&seq=01",
+    "https://www.hollisterco.com/shop/us/p/1969-ford-mustang-graphic-crew-sweatshirt-56787372?categoryId=12572&faceout=prod&seq=01",
+    "https://www.hollisterco.com/shop/us/p/1969-ford-mustang-graphic-crew-sweatshirt-56787372?categoryId=12572&faceout=prod&seq=05"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.hollisterco.com/shop/us/p/%22/shop/CustomerService?pageName=about-cookies&textKey=LEGAL_COOKIES_POLICY&storeId=19158&catalogId=11558&langId=-1",
+    "https://www.hollisterco.com/shop/us/p/%22/shop/CustomerService?pageName=privacy&textKey=LEGAL_PRIVACY_POLICY&storeId=19158&catalogId=11558&langId=-1",
+    "https://www.hollisterco.com/shop/us/p/1990-fifa-world-cup-italia-graphic-windbreaker-jacket-61343369",
+    "https://www.hollisterco.com/shop/us/p/1990-fifa-world-cup-italia-graphic-windbreaker-jacket-61343369?originalStore=eu",
+    "https://www.hollisterco.com/shop/us/p/1990-fifa-world-cup-italia-graphic-windbreaker-jacket-61343369?originalStore=uk"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.hollisterco.com/shop/us/p/100-cotton-crew-baby-tee-62381319",
+    "https://www.hollisterco.com/shop/us/p/100-cotton-crew-baby-tee-62381319?categoryId=120721&faceout=model&seq=01&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid",
+    "https://www.hollisterco.com/shop/us/p/100-cotton-crew-baby-tee-62381319?categoryId=120721&faceout=model&seq=02&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid",
+    "https://www.hollisterco.com/shop/us/p/100-cotton-crew-baby-tee-62381319?categoryId=120721&faceout=model&seq=04&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid",
+    "https://www.hollisterco.com/shop/us/p/100-cotton-crew-baby-tee-62381319?categoryId=120721&faceout=model&seq=05&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid"
+   ]
+  }
+ }
+}

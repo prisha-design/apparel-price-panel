@@ -1,0 +1,88 @@
+{
+ "dkny": {
+  "pattern": "dkny.com/*",
+  "2018": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2019": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2020": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 3939,
+   "sample": [
+    "https://www.dkny.com/?utm_source=Klaviyo&utm_medium=email&utm_campaign=221124_Post%20Dinner%20Plans%3A%2050%25%20Off%20Online%20%26%20In%20Stores%20%282022-11-24%29&_kx=bDzTd4AUwI_iKk8Biui4RKyb_WKbTtyWXz5zVTTjWqc%3D.WdXJ48",
+    "https://www.dkny.com/?_kx=8iALSGos4vRAg0BlZyg1rYIZnmhi4jWnecmXXjko62o%3D.WdXJ48&utm_campaign=230926_40%25%20Off%20Fall%20Outerwear%20%26%20More%20(2023-09-26)&utm_medium=email&utm_source=Klaviyo",
+    "https://www.dkny.com/?utm_source=Klaviyo&utm_medium=email&utm_campaign=230823_30%25%20Off%20Fall%20Handbags%20That%20Turn%20Heads%20(2023-08-23)&_kx=8iALSGos4vRAg0BlZyg1rYIZnmhi4jWnecmXXjko62o%3D.WdXJ48",
+    "https://www.dkny.com/?_kx=8iALSGos4vRAg0BlZyg1rYIZnmhi4jWnecmXXjko62o%3D.WdXJ48&utm_campaign=231105_Cozy%20Up%20With%2060%25%20Off%20Outerwear%20Now%20(2023-11-05)&utm_medium=email&utm_source=Klaviyo",
+    "https://www.dkny.com/?utm_source=Klaviyo&utm_medium=email&utm_campaign=231223_Go%20All%20Out%20With%20Our%20Party%20Picks%20(2023-12-23)&_kx=8iALSGos4vRAg0BlZyg1rYIZnmhi4jWnecmXXjko62o%3D.WdXJ48"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 4241,
+   "sample": [
+    "https://www.dkny.com/?_kx=dN7dURFuwoWXpETDz095ViBLYeLoqHKUohfEBq9w97Q%3D.WdXJ48&utm_campaign=230719_65%25%20Off%20Hundreds%20Of%20Styles%20Starts%20Now%20(2023-07-19)&utm_medium=email&utm_source=Klaviyo",
+    "https://www.dkny.com/?utm_source=linkshare&utm_medium=affiliate&utm_campaign=FlexOffers.com&ranMID=37194&ranEAID=PPkX79%2Fc*b0&ranSiteID=PPkX79_c.b0-bhAl2PQTU1.SeGTpsVy.Rg&siteID=PPkX79_c.b0-bhAl2PQTU1.SeGTpsVy.Rg&LSNSUBSITE=Omitted_PPkX79%2Fc*b0&gad_source=1&gad_campaignid=22828307010&gbraid=0AAAAA_t3XY4WhFzuD5aReFf889SrlzgfX&gclid=CjwKCAjw-svEBhB6EiwAEzSdrpaeQJXmJeI3cFzr5klWN0lf0EH9q_WWyfWej66woifhK08Sx3klIBoCgjUQAvD_BwE",
+    "https://www.dkny.com/?LSNSUBSITE=Omitted_9CGqNUoKmgs&ranEAID=9CGqNUoKmgs&ranMID=37194&ranSiteID=9CGqNUoKmgs-0t05MYagGwF5a9ZYvvfozQ&siteID=9CGqNUoKmgs-0t05MYagGwF5a9ZYvvfozQ&utm_campaign=55haitao.com&utm_medium=affiliate&utm_source=linkshare",
+    "https://www.dkny.com/?utm_source=linkshare&utm_medium=affiliate&utm_campaign=55haitao.com&ranMID=37194&ranEAID=9CGqNUoKmgs&ranSiteID=9CGqNUoKmgs-1uY.O6Ui0iK4wuXQAFLNHA&siteID=9CGqNUoKmgs-1uY.O6Ui0iK4wuXQAFLNHA&LSNSUBSITE=Omitted_9CGqNUoKmgs",
+    "https://www.dkny.com/?utm_source=linkshare&utm_medium=affiliate&utm_campaign=55haitao.com&ranMID=37194&ranEAID=9CGqNUoKmgs&ranSiteID=9CGqNUoKmgs-2eT619S1wzcNKw8u2Utagw&siteID=9CGqNUoKmgs-2eT619S1wzcNKw8u2Utagw&LSNSUBSITE=Omitted_9CGqNUoKmgs"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 4440,
+   "sample": [
+    "https://www.dkny.com/?pr_prod_strat=jac&pr_rec_id=77a4ca2a5&pr_rec_pid=7719148945507&pr_ref_pid=7417599721571&pr_seq=uniform&_su_rec=S8OmXrn3c9gqZyfcNV6hQr5S9r41X_Il0RHwxqDtCRmyAo_ifcw9TenkdwOCafWbWAy9gZr0qQVRAG_A4fjVuYjVu9Qquwz0qyBKpZBKdAylp3E20rYXuQTK63DQxfIW8sA-LqJT6ie2ruDbV8Hj31hHg3S3rnTezzBIWJVbz1Sfijm6zhSdxh3Uk4fBsdcCszRbeEMhenfPPtWgtlk2Iy86ihCatMetquJxHPbt9YU5VhnJdJdTtudyo3yc&_su_rec_id=98401bc2-51a7-4bde-a0b3-36488e179d1a-1777800171",
+    "https://www.dkny.com/?pr_prod_strat=jac&pr_rec_id=dc2cffbe8&pr_rec_pid=7799860822115&pr_ref_pid=7796586610787&pr_seq=uniform&_su_rec=TAQ9iL9oL9o8o_0-zKg-9blgDWUES5BPAnOktjf6U7CaTLWU7CAoWZ93ysZE_gOZm9EcfYWkKnL14M5NGFshRZmFcOXpoyiKYr9Es2w9vk8BOIMSzKoMandDub3DllXn8Hbc2fgXqSLNgPwIFk_C1Q6fHahK7DvkAoq33i5KWLuBMMV3FCWW3AALqnye3UBqnnigqbNY6hi--NKsIRYm5A90W46RTfNWKuz4Sgo5xzHGvQ0TbtEnTKMGDq88&_su_rec_id=be9ec1bd-06a7-465a-a131-2e615a3fb165-1777790965",
+    "https://www.dkny.com/?gclsrc=aw.ds&gad_source=1&gad_campaignid=22290489044&gbraid=0AAAAADOdwryvTp_W7XvfquDAlOkgaQ5cY&gclid=Cj0KCQiAvtzLBhCPARIsALwhxdocpqxduwRxcyEm7rH0vRuhErnOiecBLLX4HRUakWV-t4oZ19N38HAaArSBEALw_wcB",
+    "https://www.dkny.com/?gclsrc=aw.ds&gad_source=1&gad_campaignid=22290489044&gbraid=0AAAAADOdwryvTp_W7XvfquDAlOkgaQ5cY",
+    "https://www.dkny.com/?LSNSUBSITE=Omitted_25ZRSXYPVYg&ranEAID=25ZRSXYPVYg&ranMID=37194&ranSiteID=25ZRSXYPVYg-.2Hl8r3e1i6nvldLKtRj3w&siteID=25ZRSXYPVYg-.2Hl8r3e1i6nvldLKtRj3w"
+   ]
+  }
+ },
+ "karllagerfeld": {
+  "pattern": "karllagerfeld.com/*",
+  "2018": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2019": {
+   "error": "ERR <urlopen error [Errno 104] Connection reset by peer>"
+  },
+  "2020": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2024": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 2789,
+   "sample": [
+    "https://www.karllagerfeld.com/77583089931/digital_wallets/dialog",
+    "https://www.karllagerfeld.com/?d=www.rstc.co.id/berita-522-sertijab-pejabat-administrator-dan-pengawas-eselon-iii--iv-di-lingkungan-rsk-dr-tadjuddin-chalid-mak.html",
+    "https://www.karllagerfeld.com/?variant=51537814946059",
+    "https://www.karllagerfeld.com/?variant=51538193711371",
+    "https://www.karllagerfeld.com/?variant=51538391335179"
+   ]
+  },
+  "2026": {
+   "error": "ERR HTTP Error 504: Gateway Time-out"
+  }
+ }
+}
