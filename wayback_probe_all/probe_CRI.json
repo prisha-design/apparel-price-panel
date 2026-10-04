@@ -1,0 +1,60 @@
+{
+ "carters": {
+  "pattern": "carters.com/*",
+  "2018": {
+   "error": "ERR HTTP Error 504: Gateway Time-out"
+  },
+  "2019": {
+   "error": "ERR HTTP Error 504: Gateway Time-out"
+  },
+  "2020": {
+   "error": "ERR HTTP Error 503: Service Unavailable"
+  },
+  "2024": {
+   "error": "ERR HTTP Error 504: Gateway Time-out"
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 797,
+   "sample": [
+    "https://www.carters.com/?%243p=e_et&cm_mmc=ec.CAR.us.purchase.07-06-2025_car_sun_am_e_all_299clr_promo..20250706.campaign.sfmc.baby.&dtm_em=ab71317a17250595ca24a3a61836537d&cvosrc=email.Campaign.ab71317a17250595ca24a3a61836537d&cvo_user=ab71317a17250595ca24a3a61836537d&sfmc_id=34997623&_branch_match_id=1324236493762887906&_branch_referrer=H4sIAAAAAAAAA4WPQW6DMBBFT1N2GYyNcamEqogb9AKjwUwCCgZrbFJ107MXFl1n9xf%2F670%2F5RzTR1l6ksySgGKEZV4f5bQF%2FhxzQA4dDa4ylaPKaatsaz3pmgw11btprHFj8aZrEztGzoV%2FbrgnltcjHzAE37GH%2FvoFe4K4i58oMSh3Uc1FK23x8MK0r0iHCNKyoG5bvwhG2cIGcHaUUw14CpHm%2BwrpFjwMNPxAcUacx87UbesabU63JAcx0LxA%2F794KforfGOReb3jINv3ea6fDj7%2FAX%2B5h0I9AQAA%0A",
+    "https://www.carters.com/?%243p=e_et&cm_mmc=ec.CAR.us.purchase.07-06-2025_car_sun_am_e_all_299clr_promo..20250706.campaign.sfmc.baby.&dtm_em=ab71317a17250595ca24a3a61836537d&cvosrc=email.Campaign.ab71317a17250595ca24a3a61836537d&cvo_user=ab71317a17250595ca24a3a61836537d&sfmc_id=34997623&_branch_match_id=1324236493762887906&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA4WPQW6DMBBFT1N2GYyNcamEqogb9AKjwUwCCgZrbFJ107MXFl1n9xf%2F670%2F5RzTR1l6ksySgGKEZV4f5bQF%2FhxzQA4dDa4ylaPKaatsaz3pmgw11btprHFj8aZrEztGzoV%2FbrgnltcjHzAE37GH%2FvoFe4K4i58oMSh3Uc1FK23x8MK0r0iHCNKyoG5bvwhG2cIGcHaUUw14CpHm%2BwrpFjwMNPxAcUacx87UbesabU63JAcx0LxA%2F794KforfGOReb3jINv3ea6fDj7%2FAX%2B5h0I9AQAA%0A",
+    "https://www.carters.com/?%243p=e_et&cm_mmc=ec.CAR.us.purchase.07-06-2025_car_sun_am_e_all_299clr_promo..20250706.campaign.sfmc.baby.&dtm_em=ab71317a17250595ca24a3a61836537d&cvosrc=email.Campaign.ab71317a17250595ca24a3a61836537d&cvo_user=ab71317a17250595ca24a3a61836537d&sfmc_id=34997623&_branch_match_id=1324236493762887906&_branch_referrer=H4sIAAAAAAAAA4WPQW6DMBBFT1N2GYyNcamEqogb9AKjwUwCCgZrbFJ107MXFl1n9xf%2F670%2F5RzTR1l6ksySgGKEZV4f5bQF%2FhxzQA4dDa4ylaPKaatsaz3pmgw11btprHFj8aZrEztGzoV%2FbrgnltcjHzAE37GH%2FvoFe4K4i58oMSh3Uc1FK23x8MK0r0iHCNKyoG5bvwhG2cIGcHaUUw14CpHm%2BwrpFjwMNPxAcUacx87UbesabU63JAcx0LxA%2F794KforfGOReb3jINv3ea6fDj7%2FAX%2B5h0I9AQAA",
+    "https://www.carters.com/?%243p=e_et&cm_mmc=ec.CAR.us.purchase.07-06-2025_car_sun_am_e_all_299clr_promo..20250706.campaign.sfmc.baby.&dtm_em=ab71317a17250595ca24a3a61836537d&cvosrc=email.Campaign.ab71317a17250595ca24a3a61836537d&cvo_user=ab71317a17250595ca24a3a61836537d&sfmc_id=34997623&_branch_match_id=1324236493762887906&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA4WPQW6DMBBFT1N2GYyNcamEqogb9AKjwUwCCgZrbFJ107MXFl1n9xf%2F670%2F5RzTR1l6ksySgGKEZV4f5bQF%2FhxzQA4dDa4ylaPKaatsaz3pmgw11btprHFj8aZrEztGzoV%2FbrgnltcjHzAE37GH%2FvoFe4K4i58oMSh3Uc1FK23x8MK0r0iHCNKyoG5bvwhG2cIGcHaUUw14CpHm%2BwrpFjwMNPxAcUacx87UbesabU63JAcx0LxA%2F794KforfGOReb3jINv3ea6fDj7%2FAX%2B5h0I9AQAA",
+    "https://www.carters.com/?_branch_referrer=H4sIAAAAAAAAA42NSw6CMBQATyM7H6UtgibEGG7gBZqX8rBEHm368fziwrVuJ5kZl3NIl7q2GDPFBBgCrMv2rJ1nuh6kVmEgQ7mybJjtQBbG2x1KglCidZgIRHcU%2BiiF1GavmOyKQTYhevYAHyw6ocEiB1weG6SZLUA1ZTbEQ09N37VKyRZFI0mece6pFSctlJy01JV9%2BRT3L%2BOywviN%2FKOZkij%2BHLwB81fvBwEBAAA%3D&%243p=e_et&cm_mmc=ec.CAR.us.purchase.07-04-2024_car_thu_am_promo..20240704.campaign.sfmc..&dtm_em=8e18753325a012e29af8e5064032d424&cvosrc=email.Campaign.8e18753325a012e29af8e5064032d424&cvo_user=8e18753325a012e29af8e5064032d424&_branch_match_id=1336873317124002344"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 2052,
+   "sample": [
+    "https://www.carters.com/?cm_mmc=sem.car.us.purchase.carters-ppc-us-brand-core-exact.71700000061262966...google..carters+com_exact&gclsrc=aw.ds&",
+    "https://www.carters.com/?cm_mmc=sem.car.us.purchase.carters-us-text-brand-clothing.71700000066468408...google..carters+clothing&gclsrc=aw.ds&",
+    "https://www.carters.com/?_branch_match_id=1571163136541080888&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT04sKkktKtZLLCjQy8nMy9b3cPOssPQxDAgySLKvK0pNSy0qysxLj08qyi8vTi2ydcsEiuVXAAChMBrFPwAAAA%3D%3D",
+    "https://www.carters.com/?_branch_match_id=1571163136541080888&utm_source=Pasteboard&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT04sKkktKtZLLCjQy8nMy9b3cPOssPQxDAgySLKvK0pNSy0qysxLj08qyi8vTi2ydcsEiuVXAAChMBrFPwAAAA%3D%3D",
+    "https://www.carters.com/?cjdata=MXxOfDB8WXww&cjevent=1c5d4328bee711f183c100570a1eba9b&cm_mmc=aff.car...cj....1710726..1902219"
+   ]
+  }
+ },
+ "oshkosh": {
+  "pattern": "oshkosh.com/*",
+  "2018": {
+   "error": "ERR HTTP Error 503: Service Unavailable"
+  },
+  "2019": {
+   "error": "ERR HTTP Error 503: Service Unavailable"
+  },
+  "2020": {
+   "error": "ERR HTTP Error 503: Service Unavailable"
+  },
+  "2024": {
+   "error": "ERR HTTP Error 504: Gateway Time-out"
+  },
+  "2025": {
+   "error": "ERR HTTP Error 504: Gateway Time-out"
+  },
+  "2026": {
+   "error": "ERR HTTP Error 503: Service Unavailable"
+  }
+ }
+}
