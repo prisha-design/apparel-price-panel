@@ -1,0 +1,59 @@
+{
+ "brand": "jimmychoo",
+ "pattern": "jimmychoo.com/*",
+ "codes_window_A": 1100,
+ "codes_window_B": 529,
+ "codes_in_both": 13,
+ "chosen": [
+  [
+   "SLUG:terms-and-conditions-of-sale",
+   5,
+   5
+  ],
+  [
+   "SLUG:black-smooth-leather-biker-boots",
+   6,
+   4
+  ],
+  [
+   "SLUG:champagne-glitter-leather-sandals",
+   7,
+   4
+  ],
+  [
+   "SLUG:footer-size-guide",
+   5,
+   3
+  ],
+  [
+   "SLUG:gold-metallic-nappa-leather-sandals",
+   5,
+   3
+  ],
+  [
+   "SLUG:platinum-ice-dusty-glitter-pointy-toe-pumps",
+   6,
+   3
+  ],
+  [
+   "SLUG:champagne-coarse-glitter-fabric-pointy-toe-pumps",
+   3,
+   4
+  ],
+  [
+   "SLUG:crystal-covered-pointy-toe-pumps",
+   7,
+   2
+  ],
+  [
+   "SLUG:silver-fine-glitter-leather-clutch-bag",
+   2,
+   2
+  ],
+  [
+   "SLUG:champagne-glitter-leather-clutch-bag",
+   2,
+   2
+  ]
+ ]
+}

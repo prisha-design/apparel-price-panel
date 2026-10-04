@@ -1,0 +1,59 @@
+{
+ "brand": "louisvuitton",
+ "pattern": "us.louisvuitton.com/eng-us/products/*",
+ "codes_window_A": 9516,
+ "codes_window_B": 19681,
+ "codes_in_both": 415,
+ "chosen": [
+  [
+   "NVPROD810023V",
+   6,
+   8
+  ],
+  [
+   "012790",
+   4,
+   5
+  ],
+  [
+   "NVPROD1240109V",
+   4,
+   4
+  ],
+  [
+   "NVPROD400194V",
+   4,
+   8
+  ],
+  [
+   "NVPROD1000080V",
+   3,
+   7
+  ],
+  [
+   "NVPROD1180261V",
+   3,
+   5
+  ],
+  [
+   "NVPROD1000078V",
+   3,
+   4
+  ],
+  [
+   "NVPROD1430100V",
+   3,
+   5
+  ],
+  [
+   "NVPROD1200038V",
+   3,
+   5
+  ],
+  [
+   "NVPROD1130148V",
+   3,
+   6
+  ]
+ ]
+}

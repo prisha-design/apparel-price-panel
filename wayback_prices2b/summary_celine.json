@@ -1,0 +1,59 @@
+{
+ "brand": "celine",
+ "pattern": "celine.com/en-us/*",
+ "codes_window_A": 974,
+ "codes_window_B": 1519,
+ "codes_in_both": 23,
+ "chosen": [
+  [
+   "188003BEY",
+   5,
+   9
+  ],
+  [
+   "188423BF4",
+   5,
+   16
+  ],
+  [
+   "187373BEY",
+   4,
+   7
+  ],
+  [
+   "189003ZVA",
+   4,
+   4
+  ],
+  [
+   "189153ZVA",
+   3,
+   4
+  ],
+  [
+   "189243DRU",
+   3,
+   3
+  ],
+  [
+   "187363BF4",
+   3,
+   23
+  ],
+  [
+   "188424BF5",
+   4,
+   2
+  ],
+  [
+   "SLUG:black-frame-sunglasses-in-acetate",
+   6,
+   10
+  ],
+  [
+   "SLUG:metal-frame-sunglasses-in-metal",
+   6,
+   7
+  ]
+ ]
+}
