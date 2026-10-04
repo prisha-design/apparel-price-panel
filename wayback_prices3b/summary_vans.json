@@ -1,0 +1,64 @@
+{
+ "brand": "vans",
+ "pattern": "vans.com/*",
+ "codes_window_A": 6823,
+ "codes_window_B": 5529,
+ "codes_in_both": 11,
+ "chosen": [
+  [
+   "SLUG:old-skool-backpack",
+   9,
+   14
+  ],
+  [
+   "SLUG:customizer-old-skool-classic",
+   10,
+   4
+  ],
+  [
+   "SLUG:torrey-coaches-jacket",
+   4,
+   7
+  ],
+  [
+   "SLUG:drill-chore-jacket",
+   3,
+   4
+  ],
+  [
+   "SLUG:drop-v-snapback-hat",
+   5,
+   3
+  ],
+  [
+   "SLUG:squared-off-sunglasses",
+   4,
+   3
+  ],
+  [
+   "SLUG:ward-cross-body-pack",
+   3,
+   7
+  ],
+  [
+   "SLUG:drill-chore-coat",
+   3,
+   2
+  ],
+  [
+   "SLUG:customizer-slip-on-classic",
+   8,
+   2
+  ],
+  [
+   "SLUG:classic-super-no-show-socks-pack",
+   4,
+   2
+  ],
+  [
+   "SLUG:infant-old-skool-crib-shoe",
+   2,
+   5
+  ]
+ ]
+}
