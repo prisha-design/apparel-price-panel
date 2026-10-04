@@ -19,21 +19,29 @@ def get(u, timeout=120, tries=4):
         except Exception as e:
             err = str(e); time.sleep(10 * (a + 1))
     return None
-def cdx(frm, to):
+def cdx_chunk(frm, to):
     p = {"url": pat, "from": frm, "to": to, "filter": ["statuscode:200", "mimetype:text/html"],
-         "collapse": "timestamp:6", "fl": "urlkey,timestamp,original", "limit": 60000}
-    t = get("https://web.archive.org/cdx/search/cdx?" + urllib.parse.urlencode(p, doseq=True), timeout=300)
+         "collapse": "timestamp:6", "fl": "urlkey,timestamp,original", "limit": 25000}
+    return get("https://web.archive.org/cdx/search/cdx?" + urllib.parse.urlencode(p, doseq=True), timeout=300, tries=5) or ""
+def cdx(frm, to):
+    """Query the archive index in three-month pieces (whole windows time out on big sites)."""
     rows = defaultdict(dict)
-    for line in (t or "").splitlines():
-        parts = line.split(" ")
-        if len(parts) != 3: continue
-        k, ts, orig = parts
-        code = product_code(orig)
-        if code:
-            rows[code].setdefault(ts[:6], (ts, orig))
-        sl = slug(orig)
-        if sl:
-            rows["SLUG:" + sl].setdefault(ts[:6], (ts, orig))
+    y, m = int(frm[:4]), int(frm[4:6])
+    while (y, m) <= (int(to[:4]), int(to[4:6])):
+        y2, m2 = (y, m + 2) if m <= 10 else (y + 1, m - 10)
+        t = cdx_chunk(f"{y}{m:02d}", f"{y2}{m2:02d}")
+        time.sleep(3)
+        for line in t.splitlines():
+            parts = line.split(" ")
+            if len(parts) != 3: continue
+            k, ts, orig = parts
+            code = product_code(orig)
+            if code:
+                rows[code].setdefault(ts[:6], (ts, orig))
+            sl = slug(orig)
+            if sl:
+                rows["SLUG:" + sl].setdefault(ts[:6], (ts, orig))
+        y, m = (y, m + 3) if m <= 9 else (y + 1, m - 9)
     return rows
 def slug(url):
     """Product name part of the address with any codes removed, e.g. neverfull-mm-monogram."""
