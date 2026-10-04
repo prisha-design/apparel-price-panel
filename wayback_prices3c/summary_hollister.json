@@ -1,0 +1,39 @@
+{
+ "brand": "hollister",
+ "pattern": "hollisterco.com/shop/*",
+ "codes_window_A": 1180,
+ "codes_window_B": 8274,
+ "codes_in_both": 6,
+ "chosen": [
+  [
+   "SLUG:hidden-gift-cards",
+   22,
+   28
+  ],
+  [
+   "SLUG:online-return-exchange-policy",
+   10,
+   25
+  ],
+  [
+   "SLUG:curvy-advanced-stretch-high-rise-jean-leggings",
+   3,
+   17
+  ],
+  [
+   "SLUG:advanced-stretch-high-rise-jean-leggings",
+   2,
+   7
+  ],
+  [
+   "SLUG:classic-stretch-high-rise-super-skinny-jeans",
+   2,
+   11
+  ],
+  [
+   "SLUG:slim-straight-jeans",
+   4,
+   2
+  ]
+ ]
+}

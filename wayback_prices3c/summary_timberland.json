@@ -1,0 +1,49 @@
+{
+ "brand": "timberland",
+ "pattern": "timberland.com/*",
+ "codes_window_A": 4279,
+ "codes_window_B": 9894,
+ "codes_in_both": 8,
+ "chosen": [
+  [
+   "1973",
+   4,
+   9
+  ],
+  [
+   "SLUG:waximum-waxed-leather-protector",
+   5,
+   10
+  ],
+  [
+   "SLUG:gulf-beach-ribbed-beanie",
+   4,
+   4
+  ],
+  [
+   "SLUG:mens-classic-jean-belt",
+   5,
+   4
+  ],
+  [
+   "SLUG:mens-timberland-pro-understory-quarter-zip-fleece-shirt",
+   5,
+   3
+  ],
+  [
+   "SLUG:womens-malibu-waves-ankle-strap-sandals",
+   3,
+   3
+  ],
+  [
+   "SLUG:www-timberland-com",
+   26,
+   2
+  ],
+  [
+   "SLUG:mens-millers-river-pique-polo-shirt",
+   4,
+   2
+  ]
+ ]
+}
