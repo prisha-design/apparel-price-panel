@@ -1,0 +1,191 @@
+{
+ "coach": {
+  "pattern": "coach.com/products/*",
+  "2018": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2019": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2020": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.coach.com/products/100-percent-recycled-canvas-tote-42-with-camo-print-and-rexy/CF079.html",
+    "https://www.coach.com/products/14-k-gold-coin-single-stud-earring/CO280.html",
+    "https://www.coach.com/products/14-k-gold-heart-single-stud-earring/CO282.html",
+    "https://www.coach.com/products/14-k-gold-quilted-signature-padlock-pendant-necklace/CO285.html",
+    "https://www.coach.com/products/14-k-gold-quilted-signature-padlock-single-stud-earring/CO284.html"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.coach.com/products/%E2%80%9890s-pack-soho-sneaker-with-charms/CAQ21-XYN.html",
+    "https://www.coach.com/products/100-percent-recycled-canvas-tote-42-with-camo-print-and-rainbow-horse-and-carriage/CA303-SZP.html?frp=CA303%20SZP",
+    "https://www.coach.com/products/1941-embroidered-denim-bucket-hat/CS576.html?frp=CS576+BLK++XS%2FS",
+    "https://www.coach.com/products/1964-fringe-bag/CU033-LHX1J.html",
+    "https://www.coach.com/products/1964-fringe-bag/CU034.html?frp=CU034+LHNM5"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 2042,
+   "product_like": 2042,
+   "sample": [
+    "https://www.coach.com/products/3-in-1-wallet-in-signature-leather/CR957.html?frp=CR957+BLK&RSSiteID=y9ozrjBcgg8-6kYqFFxc5YETNweCTtNp3g&orsocode=RAN&utm_source=RAN&utm_medium=affiliate&utm_content=Mavely&utm_term=Content&utm_campaign=y9ozrjBcgg8-6kYqFFxc5YETNweCTtNp3g_2026-05-16T03%3A55%3A15Z&ranMID=37299&ranEAID=y9ozrjBcgg8&ranSiteID=y9ozrjBcgg8-6kYqFFxc5YETNweCTtNp3g",
+    "https://www.coach.com/products/3-in-1-wallet/CR911.html",
+    "https://www.coach.com/products/aden-crossbody-in-signature-canvas/CO912.html?frp=CO912%20QBMI5%0A",
+    "https://www.coach.com/products/alterego-small-slouchy-shoulder-bag/CFG00.html",
+    "https://www.coach.com/products/alterego-small-slouchy-shoulder-bag/CFG00.html?RSSiteID=3r4YdkDiq_o-F_Quv5wuajHbSTXUurJ0Eg&orsocode=RAN&utm_source=RAN&utm_medium=affiliate&utm_content=Glamour&utm_term=Content&utm_campaign=3r4YdkDiq_o-F_Quv5wuajHbSTXUurJ0Eg_2026-04-27T16%3A14%3A23Z&ranMID=37299&ranEAID=3r4YdkDiq%2Fo&ranSiteID=3r4YdkDiq_o-F_Quv5wuajHbSTXUurJ0Eg&utm_term=Content"
+   ]
+  }
+ },
+ "katespade": {
+  "pattern": "katespade.com/products/*",
+  "2018": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.katespade.com/products/1-inch-bow-loop-belt/KS2000440.html",
+    "https://www.katespade.com/products/1-inch-bow-loop-belt/KS2000440.html?cgid=katespade-root&amp;dwvar_KS2000440_color=001",
+    "https://www.katespade.com/products/1-inch-bow-loop-belt/KS2000440.html?cgid=ks-accessories&amp;dwvar_KS2000440_color=001",
+    "https://www.katespade.com/products/1-inch-bow-loop-belt/KS2000440.html?cgid=ks-accessories-scarves&amp;dwvar_KS2000440_color=001",
+    "https://www.katespade.com/products/1-inch-bow-loop-belt/KS2000440.html?amp;dwvar_KS2000440_color=001&pid=KS2000440"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.katespade.com/products/%27%27live-colorfully%27%27-blackberry-case/PSRU0669A.html?amp%3Bstart=1&dwvar_PSRU0669A_color=681&amp%3Bcgid=phone-cases-blackberry",
+    "https://www.katespade.com/products/%27%27live-colorfully%27%27-paperweight/L834323.html",
+    "https://www.katespade.com/products/%27play-hooky%27%27-ipad-sleeve/PSRU0687A.html?cgid=kate-spade&dwvar_PSRU0687A_color=932&q=play%20hooky&navid=search&start=1",
+    "https://www.katespade.com/products/1%22-grosgrain-bow-belt/888698891861.html",
+    "https://www.katespade.com/products/1%2F2%22-stone-bridal-belt-ties/KS2000376.html"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.katespade.com/products/%22miss-to-mrs%22-thermal-mug/825466966765.html",
+    "https://www.katespade.com/products/%22miss-to-mrs%22-thermal-mug/KS180190.html",
+    "https://www.katespade.com/products/%22mr.-mrs.%22-thank-you-card-set/825466972964.html",
+    "https://www.katespade.com/products/%22mr.-mrs.%22-thank-you-card-set/KS191730.html",
+    "https://www.katespade.com/products/%22mrs%22-robe/769137015683.html"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.katespade.com/products/13-cypress-point-oval-platter/L6383558-100.html",
+    "https://www.katespade.com/products/13-larabee-road-platinum-oval-platter/L815500.html?cgid=kate-spade&start=2&q=larabee%20road%20platter&navid=search&dwvar_L815500_color=100",
+    "https://www.katespade.com/products/13-library-lane-oval-platter/6255434-122.html",
+    "https://www.katespade.com/products/13-sonora-knot-oval-platter/792044-100.html",
+    "https://www.katespade.com/products/13-sonora-knot-oval-platter/792044.html"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.katespade.com/products/13-inch-saffiano-bag/8ARU1441-1.html",
+    "https://www.katespade.com/products/15%22-nylon-tech-backpack/8ARU2105.html",
+    "https://www.katespade.com/products/2015-17-month-large-agenda-green-painterly-cheetah/143040.html",
+    "https://www.katespade.com/products/2015-17-month-large-agenda-green-painterly-cheetah/143040.html?cgid=ks-accessories-stationery&dwvar_143040_color=310",
+    "https://www.katespade.com/products/2015-17-month-large-agenda-green-painterly-cheetah/143040.html?navid=xsellPDP"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 863,
+   "product_like": 863,
+   "sample": [
+    "https://www.katespade.com/products/13%22-saffiano-laptop-bag/8ARU2100-1.html",
+    "https://www.katespade.com/products/454-large-tote/KM712.html?frp=KM712+VKS&im_ref=&sharedid=&irpid=40766&utm_source=Impact&utm_medium=affiliate&utm_content=Hong%20Kong%20Aichen%20Technology%20Development%20Co.%2C%20Limited&utm_campaign=&utm_term=Loyalty&irgwc=1&afsrc=1",
+    "https://www.katespade.com/products/454-large-tote/KM712.html?frp=KM712+VKS&orsocode=RAN&utm_source=RAN&utm_medium=affiliate&utm_content=USA+Today&utm_campaign=klUbzpirF_s-.GBu2Km.WC_WxbKtaaJgtg_2026-03-31T13%3A21%3A17Z&ranMID=42608&ranEAID=klUbzpirF%2Fs&ranLoyalty=0&ranSiteID=klUbzpirF_s-.GBu2Km.WC_WxbKtaaJgtg&RSSiteID=klUbzpirF_s-.GBu2Km.WC_WxbKtaaJgtg&utm_term=Content",
+    "https://www.katespade.com/products/4pc-rectangular-food-storage-containers/L875366.html",
+    "https://www.katespade.com/products/93-kicks-sneakers/KL223.html?frp=KL223+VYF++8.5+B&orsocode=RAN&utm_source=RAN&utm_medium=affiliate&utm_content=Women's+Wear+Daily&utm_campaign=MsgdsgdCQ_E-yK.H1MYHqKgaQacx7un46A_2026-02-22T06%3A06%3A08Z&ranMID=42608&ranEAID=MsgdsgdCQ%2FE&ranLoyalty=0&ranSiteID=MsgdsgdCQ_E-yK.H1MYHqKgaQacx7un46A&RSSiteID=MsgdsgdCQ_E-yK.H1MYHqKgaQacx7un46A&utm_term=Content"
+   ]
+  }
+ },
+ "stuartweitzman": {
+  "pattern": "stuartweitzman.com/products/*",
+  "2018": {
+   "distinct_urls": 233,
+   "product_like": 233,
+   "sample": [
+    "https://www.stuartweitzman.com/products/100fringesquarenudist/",
+    "https://www.stuartweitzman.com/products/100fringesquarenudist/blush-light-pink-silk-satin/",
+    "https://www.stuartweitzman.com/products/100rosist/blush-light-beige-high-shine-leather/?DepartmentId=671&DepartmentGroupId=129",
+    "https://www.stuartweitzman.com/products/100rosist/?DepartmentId=671&DepartmentGroupId=129&ColMatID=35734",
+    "https://www.stuartweitzman.com/products/100rosist/?DepartmentId=671&ColMatID=35734"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 2056,
+   "product_like": 2056,
+   "sample": [
+    "https://www.stuartweitzman.com/products/100fringesquarenudist/black-silk-satin/?DepartmentId=671&DepartmentGroupId=118",
+    "https://www.stuartweitzman.com/products/100fringesquarenudist/blush-light-pink-silk-satin/",
+    "https://www.stuartweitzman.com/products/100fringesquarenudist/?ColMatID=35153&DepartmentGroupId=118&DepartmentId=671&utm_source=CJ&utm_medium=AFF&utm_content=Stuart+Weitzman+-+Child+Catalog&utm_campaign=2936164&cvosrc=affiliate.cj.2936164&cvo_cid=7ac7410748d811e8826c007b0a240611",
+    "https://www.stuartweitzman.com/products/100squarenudist/",
+    "https://www.stuartweitzman.com/products/100squarenudist/black-suede/?DepartmentId=360&DepartmentGroupId=1"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 780,
+   "product_like": 780,
+   "sample": [
+    "https://www.stuartweitzman.com/products/115nudisttraditional/990089285644/?gclid=EAIaIQobChMI3IeT6rTy3AIVkY2zCh2hzAm-EAQYASABEgJ1EfD_BwE",
+    "https://www.stuartweitzman.com/products/115nudisttraditional/990089285644/?gclid=EAIaIQobChMIu_Cg8Y7r3AIVhIrICh1fOApqEAQYASABEgIvvvD_BwE",
+    "https://www.stuartweitzman.com/products/115nudisttraditional/white-matte-leather/?DepartmentId=360&amp;DepartmentGroupId=119",
+    "https://www.stuartweitzman.com/products/5050/",
+    "https://www.stuartweitzman.com/products/5050-bucket/"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG117-KHA.html",
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG117-KHA.html?frp=SG117%20KHA%20%207%20%20%20B",
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG117-KHA.html?frp=SG117+KHA++7+++B",
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG117-KHA.html?frp=SG117+KHA++7.5+AA",
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG117-KHA.html?rrec=true"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 2815,
+   "product_like": 2815,
+   "sample": [
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG117-KHA.html",
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG117-KHA.html?frp=SG117+KHA++7+++B",
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG117-LQB.html",
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG117-LQB.html?frp=SG117+LQB++6+++B",
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG117.html"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 428,
+   "product_like": 428,
+   "sample": [
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG118-BLK.html",
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG118-BLK.html?frp=SG118+BLK++4+++B",
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG118-BLK.html?frp=SG118+BLK++4+++B&isSPC=true",
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG118.html",
+    "https://www.stuartweitzman.com/products/5050-bold-boot/SG654-FNL.html"
+   ]
+  }
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "levi": {
+  "pattern": "levi.com/US/en_US/*",
+  "2018": {
+   "distinct_urls": 5000,
+   "product_like": 621,
+   "sample": [
+    "http://www.levi.com:80/US/en_US/501-affiliate/p/323170069",
+    "https://www.levi.com/US/en_US/_s/user-uid?_=1536301945200",
+    "https://www.levi.com/US/en_US/_s/user-uid?_=1538022729742",
+    "https://www.levi.com/US/en_US/_s/user-uid?_=1538022875695",
+    "https://www.levi.com/US/en_US/_s/user-uid?_=1538023613287"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 2584,
+   "sample": [
+    "https://www.levi.com/US/en_US/50-and-under-gifts/kids/c/levi_clothing_kids_gifts_under50_us?ab=giftguide_kids_giftsunder50_110119",
+    "https://www.levi.com/US/en_US/accessories/men/belts/linden-roller-belt/p/380160004",
+    "https://www.levi.com/US/en_US/accessories/men/c/levi_accessories_men/facets/productitemtype/hats?ab=mdp_doorway_modernessentials_shophatsandbeanies_091619",
+    "https://www.levi.com/US/en_US/accessories/men/c/levi_accessories_men/facets/productitemtype/sweatshirts",
+    "https://www.levi.com/US/en_US/accessories/men/c/levi_accessories_men?ab=mdp_categorycarousel_shopaccessories_022819"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 2624,
+   "sample": [
+    "https://www.levi.com/US/en_US/501-day/c/levi_clothing_501_day_us/facets/productitemtype/jeans",
+    "https://www.levi.com/US/en_US/501-day/c/levi_clothing_501_day_us?ab=home_A2_501daycollection_shopnow_050118",
+    "https://www.levi.com/US/en_US/_s/user-uid?_=1530488691460",
+    "https://www.levi.com/US/en_US/_s/user-uid?_=1530488699002",
+    "https://www.levi.com/US/en_US/_s/user-uid?_=1533072557503"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 3172,
+   "sample": [
+    "https://www.levi.com/US/en_US/50-and-under/c/levi_clothing_gifts_under50/facets/feature-stretch/stretch/productitemtype/jeans",
+    "https://www.levi.com/US/en_US/50-and-under/c/levi_clothing_gifts_under50/facets/feature-stretch/stretch/productitemtype/pants",
+    "https://www.levi.com/US/en_US/50-and-under/c/levi_clothing_gifts_under50/facets/feature-stretch/stretch/productitemtype/shorts",
+    "https://www.levi.com/US/en_US/501-campaign/501-original-fit-hemmed-9-mens-shorts/p/365120246",
+    "https://www.levi.com/US/en_US/501-campaign/501-original-fit-mens-jeans/p/005013556"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 1182,
+   "sample": [
+    "https://www.levi.com/US/en_US/300-shaping-series/311-shaping-skinny-capri-womens-jeans-plus-size/p/A01260020",
+    "https://www.levi.com/US/en_US/300-shaping-series/311-shaping-skinny-capri-womens-jeans/p/A00860010",
+    "https://www.levi.com/US/en_US/300-shaping-series/311-shaping-skinny-capri-womens-jeans/p/A00860050",
+    "https://www.levi.com/US/en_US/300-shaping-series/311-shaping-skinny-capri-womens-jeans/p/A00860058",
+    "https://www.levi.com/US/en_US/300-shaping-series/311-shaping-skinny-womens-jeans/p/196260525"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 3497,
+   "sample": [
+    "https://www.levi.com/US/en_US/300-shaping-series/311-shaping-skinny-capri-womens-jeans-plus-size/p/A01260019",
+    "https://www.levi.com/US/en_US/300-shaping-series/311-shaping-skinny-capri-womens-jeans-plus-size/p/A01260020",
+    "https://www.levi.com/US/en_US/300-shaping-series/311-shaping-skinny-capri-womens-jeans/p/A00860010",
+    "https://www.levi.com/US/en_US/300-shaping-series/311-shaping-skinny-capri-womens-jeans/p/A00860010??Division=EC&Country=US&Language=EN&camp=rak&Targeting=10&Time=2026-04-18T13%3A10%3A44Z&ranMID=53220&ranEAID=kXQk6*ivFEQ&ranSiteID=kXQk6.ivFEQ-CqW5EG_fmYCl1MSzP0IVBQ",
+    "https://www.levi.com/US/en_US/300-shaping-series/311-shaping-skinny-capri-womens-jeans/p/A00860010??Division=EC&Country=US&Language=EN&camp=rak&Targeting=10&Time=2026-04-16T21%3A21%3A23Z&ranMID=53220&ranEAID=kXQk6*ivFEQ&ranSiteID=kXQk6.ivFEQ-k3cBJcTNWNMI79QZ0csnBQ"
+   ]
+  }
+ }
+}

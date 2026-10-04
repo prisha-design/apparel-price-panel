@@ -1,0 +1,201 @@
+{
+ "louisvuitton": {
+  "pattern": "us.louisvuitton.com/eng-us/products/*",
+  "2018": {
+   "distinct_urls": 861,
+   "product_like": 861,
+   "sample": [
+    "http://us.louisvuitton.com:80/eng-us/products/100ml-travel-case-epi-nvprod590732v",
+    "http://us.louisvuitton.com:80/eng-us/products/200ml-travel-case-epi-nvprod590736v",
+    "http://us.louisvuitton.com:80/eng-us/products/2018-horizontal-weekly-agenda-refill-diary-nvprod630149v",
+    "https://us.louisvuitton.com/eng-us/products/2018-office-weekly-agenda-refill-complete-nvprod630148v",
+    "http://us.louisvuitton.com:80/eng-us/products/2018-partenaire-weekly-agenda-refill-complete-nvprod630152v"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://us.louisvuitton.com/eng-us/products/10-monogram-leather-cap-nvprod1270115v",
+    "https://us.louisvuitton.com/eng-us/products/10-monogram-leather-cap-nvprod1270116v",
+    "https://us.louisvuitton.com/eng-us/products/100ml-travel-case-crocodilien-brillant-nvprod1160019v",
+    "https://us.louisvuitton.com/eng-us/products/100ml-travel-case-crocodilien-brillant-nvprod1160036v",
+    "https://us.louisvuitton.com/eng-us/products/100ml-travel-case-epi-nvprod590730v"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://us.louisvuitton.com/eng-us/products/100ml-travel-case-crocodile-brillant-nvprod1160019v",
+    "https://us.louisvuitton.com/eng-us/products/100ml-travel-case-crocodile-brillant-nvprod1160036v",
+    "https://us.louisvuitton.com/eng-us/products/100ml-travel-case-epi-leather-nvprod590730v",
+    "https://us.louisvuitton.com/eng-us/products/100ml-travel-case-epi-leather-nvprod590731v",
+    "https://us.louisvuitton.com/eng-us/products/100ml-travel-case-epi-leather-nvprod590732v"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://us.louisvuitton.com/eng-us/products/10-millionaires-sunglasses-s00-nvprod5590059v/Z2516U",
+    "https://us.louisvuitton.com/eng-us/products/10-millionaires-sunglasses-s00-nvprod5590059v/Z2517U",
+    "https://us.louisvuitton.com/eng-us/products/100ml-lv-remix-travel-case-monogram-vernis-nvprod4980088v/LS0692",
+    "https://us.louisvuitton.com/eng-us/products/100ml-travel-case-epi-nvprod980001v/LS0219",
+    "https://us.louisvuitton.com/eng-us/products/100ml-travel-case-monogram-canvas-nvprod590729v/LS0153"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://us.louisvuitton.com/eng-us/products/10-millionaires-oval-sunglasses-s00-nvprod6010167v/Z2721U",
+    "https://us.louisvuitton.com/eng-us/products/10-millionaires-square-sunglasses-s00-nvprod6260034v/Z2880U",
+    "https://us.louisvuitton.com/eng-us/products/10-millionaires-sunglasses-s00-nvprod5590059v/Z2516U",
+    "https://us.louisvuitton.com/eng-us/products/10-millionaires-sunglasses-s00-nvprod5860096v/Z2679W",
+    "https://us.louisvuitton.com/eng-us/products/10-millionaires-sunglasses-s00-nvprod6010166v/Z2708W"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://us.louisvuitton.com/eng-us/products/10-millionaires-large-square-sunglasses-s00-nvprod6860031v/Z3064U",
+    "https://us.louisvuitton.com/eng-us/products/10-millionaires-oval-sunglasses-s00-nvprod6010167v/Z2721U",
+    "https://us.louisvuitton.com/eng-us/products/10-millionaires-square-sunglasses-s00-nvprod6260034v/Z2880U",
+    "https://us.louisvuitton.com/eng-us/products/10-millionaires-sunglasses-s00-nvprod5590059v/Z2516U",
+    "https://us.louisvuitton.com/eng-us/products/10-millionaires-sunglasses-s00-nvprod5860096v/Z2679W"
+   ]
+  }
+ },
+ "dior": {
+  "pattern": "dior.com/en_us/*",
+  "2018": {
+   "distinct_urls": 406,
+   "product_like": 111,
+   "sample": [
+    "https://www.dior.com/en_us/products/beauty-Y0000004-rouge-blush-couture-colour-long-wear-powder-blush",
+    "https://www.dior.com/en_us/products/beauty-y0000004_c000000999-blush-bronzer-couture-colour-long-wear-powder-blush?LGWCODE=C000000999US;143913;6271&gclid=EAIaIQobChMIgPifpoKQ3gIVzwOGCh3OIAZtEAQYASABEgISTfD_BwE",
+    "https://www.dior.com/en_us/products/beauty-y0000004_c000000999-blush-bronzer-couture-colour-long-wear-powder-blush?LGWCODE=C000000999US;143913;6271&gclid=EAIaIQobChMImpzxu4eQ3gIVTF6GCh3W1wLwEAQYASABEgI1rfD_BwE",
+    "https://www.dior.com/en_us/products/beauty-y0012000_c001200001-eyes-multi-finish-high-pigment-prime-shade-highlight-line",
+    "https://www.dior.com/en_us/products/beauty-y0017000-eyebrows-long-wear-blendable-fill-shape-set"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 4621,
+   "sample": [
+    "https://www.dior.com/en_us/products/beauty-C000000999-rouge-blush",
+    "https://www.dior.com/en_us/products/beauty-C000200358-dior-addict-lacquer-plump-limited-edition",
+    "https://www.dior.com/en_us/products/beauty-C000200627-dior-addict-lacquer-plump-limited-edition",
+    "https://www.dior.com/en_us/products/beauty-C000200676-dior-addict-lacquer-plump",
+    "https://www.dior.com/en_us/products/beauty-C000350221-backstage-makeup"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 4642,
+   "sample": [
+    "https://www.dior.com/en_us/fragrance/art-of-gifting?ranMID=43935&ranEAID=PPkX79%2Fc*b0&ranSiteID=PPkX79_c.b0-iUuvkEm4x.UeW1z0p2ktKQ",
+    "https://www.dior.com/en_us/fragrance/art-of-gifting?utm_campaign=hday2020&utm_source=Rakuten&utm_medium=affiliates&ranMID=43935&ranEAID=PPkX79%2Fc*b0&ranSiteID=PPkX79_c.b0-iUuvkEm4x.UeW1z0p2ktKQ",
+    "https://www.dior.com/en_us/fragrance/mens-fragrance/sauvage?ranMID=43935&ranEAID=PPkX79%2Fc*b0&ranSiteID=PPkX79_c.b0-p.Y9W0FD.0JO1pCldtd7MA",
+    "https://www.dior.com/en_us/fragrance/mens-fragrance/sauvage?utm_campaign=SAUVAGE20&utm_source=Rakuten&utm_medium=affiliates&ranMID=43935&ranEAID=PPkX79%2Fc*b0&ranSiteID=PPkX79_c.b0-p.Y9W0FD.0JO1pCldtd7MA",
+    "https://www.dior.com/en_us/mens-fashion/air-dior?utm_source=Rakuten&utm_medium=affiliates&ranMID=43935&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-e4iX5hnAXSvvKhzP8fKxZA"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 4569,
+   "product_like": 3756,
+   "sample": [
+    "https://www.dior.com/en_us/beauty/2022-fall-makeup-collection-dior-en-rouge/2022-fall-makeup-collection-dior-en-rouge.html",
+    "https://www.dior.com/en_us/beauty/all-new-arrivals.html#fragrance",
+    "https://www.dior.com/en_us/beauty/all-new-arrivals.html?pcdevent=lebaumebundle",
+    "https://www.dior.com/en_us/beauty/all-new-arrivals.html?pcdevent=lipprosbanner",
+    "https://www.dior.com/en_us/beauty/all-new-arrivals.html?pcdevent=newarrivals"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 4364,
+   "sample": [
+    "https://www.dior.com/en_us/beauty/chinese-new-year-2025/dlp-cny25.html",
+    "https://www.dior.com/en_us/beauty/customer-service-privacy-and-security/privacy-policy.html",
+    "https://www.dior.com/en_us/beauty/dior-exclusives.html",
+    "https://www.dior.com/en_us/beauty/dior-exclusives.html?fpcdevent=aog",
+    "https://www.dior.com/en_us/beauty/dior-exclusives.html?fpcdevent=giftbox"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 4670,
+   "product_like": 4158,
+   "sample": [
+    "https://www.dior.com/en_us/beauty/dlp-makeup-lucky-clover-collection.html",
+    "https://www.dior.com/en_us/beauty/fragrance/best-sellers?utm_campaign=Lipstickday22&utm_source=55haitao.com%202927537&utm_medium=affiliate&ranMID=43935&ranEAID=9CGqNUoKmgs&ranSiteID=9CGqNUoKmgs-ZsMyc.nh30S709C5PCLU3w",
+    "https://www.dior.com/en_us/beauty/fragrance/dior-la-collection-privee-finder.html/",
+    "https://www.dior.com/en_us/beauty/fragrance/dior-product-geography.html",
+    "https://www.dior.com/en_us/beauty/fragrance/discover-dior-homme-parfum.html"
+   ]
+  }
+ },
+ "celine": {
+  "pattern": "celine.com/en-us/*",
+  "2018": {
+   "distinct_urls": 65,
+   "product_like": 26,
+   "sample": [
+    "https://www.celine.com/en-us/celine-shop/jewellery/bracelets/golden-handcuff-bracelet-in-vermeil-46M986SIV.35OR.html",
+    "https://www.celine.com/en-us/celine-shop/jewellery/bracelets/simple-forms-gold-bracelet-in-brass-with-gold-and-rhodium-finish-46N806BRA.35GS.html",
+    "https://www.celine.com/en-us/handbags/belt/micro-belt-bag-in-grained-calfskin-180153ZVA.18LT.html",
+    "https://www.celine.com/en-us/handbags/big-bag/medium-big-bag-in-rain-coat-fabric-182862A5H.02BG.html",
+    "https://www.celine.com/en-us/handbags/big-bag/small-big-bag-with-long-strap-in-supple-grained-calfskin-183313A4U.10AN.html"
+   ]
+  },
+  "2019": {
+   "error": "ERR <urlopen error _ssl.c:983: The handshake operation timed out>"
+  },
+  "2020": {
+   "distinct_urls": 1729,
+   "product_like": 1168,
+   "sample": [
+    "https://www.celine.com/en-us/celine-fragrance/haute-parfumerie-collection/black-tie-eau-de-parfum-3-oz-6PC1H0705.37TT.html",
+    "https://www.celine.com/en-us/celine-fragrance/haute-parfumerie-collection/black-tie-eau-de-parfum-6-oz-6PC1N0705.37TT.html",
+    "https://www.celine.com/en-us/celine-fragrance/haute-parfumerie-collection/cologne-francaise-eau-de-parfum-3-oz-6PC1H0405.37TT.html",
+    "https://www.celine.com/en-us/celine-fragrance/haute-parfumerie-collection/cologne-francaise-eau-de-parfum-6-oz-6PC1N0405.37TT.html",
+    "https://www.celine.com/en-us/celine-fragrance/haute-parfumerie-collection/dans-paris-eau-de-parfum-3-oz-6PC1H0505.37TT.html"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 1894,
+   "product_like": 1136,
+   "sample": [
+    "https://www.celine.com/en-us/-inchsaharienne-inch-jacket-in-lightweight-twill-2W834106K.02KK.40.html",
+    "https://www.celine.com/en-us/bandana-in-cotton-and-silk-2AWB8164W.11GR.TU.html",
+    "https://www.celine.com/en-us/belt-bag-triomphe-belt-in-shiny-calfskin-45BCN3AH2.38NO.75.html?gclid=Cj0KCQjwpPKiBhDvARIsACn-gzBAfL-guhLWBVE6PygiiZrRwARTkWrx_8Vh4lMCO-_-SUFSNN7ht_8aAi5AEALw_wcB",
+    "https://www.celine.com/en-us/black-frame-51-sunglasses-in-acetate-with-metal-4S268CPMB.19TR.U.html",
+    "https://www.celine.com/en-us/block-sneakers-with-wedge-outsole-in-calfskin-346163338C.01OP.39.html?gclid=EAIaIQobChMI_Y_GxevQ-QIVWv7jBx3GVgbyEAQYAyABEgIyLfD_BwE"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 2443,
+   "product_like": 1772,
+   "sample": [
+    "https://www.celine.com/en-us/accessibility.html",
+    "https://www.celine.com/en-us/anchor-baseball-cap-in-washed-cotton-AA07I234X.01OW.html",
+    "https://www.celine.com/en-us/anchor-baseball-cap-in-washed-cotton-AA07I234X.07NI.html",
+    "https://www.celine.com/en-us/big-bag-bucket-with-long-strap-in-smooth-calfskin-183343A4T.html",
+    "https://www.celine.com/en-us/butterfly-s320-sunglasses-in-acetate-4S320CPLB.38NO.html"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 1198,
+   "product_like": 739,
+   "sample": [
+    "https://www.celine.com/en-us/364213958C.38NO.36,5.html?utm_source=google&utm_medium=cpc&utm_content=brand&utm_campaign=Celine_FLG_USA_PLA-ROAS_UNI_MUL_OGOING_EC_SHOP_GSHO_CRD_ENG_USD_NAPP_NAMER&gad_source=1&gad_campaignid=1967889563&gbraid=0AAAAACy3BrWxcPgcjFD1ffMZrXOLPyEkT&gclid=CjwKCAjwtvvPBhBuEiwAPMijryhGkuUTKnUObIZX66CO2i_52jeSryvYlKYWcJ2VOKbwjIHkxTfLxRoCXL8QAvD_BwE",
+    "https://www.celine.com/en-us/beaute/lip-balms/le-rouge-celine-04-phedre---matte-lip-balm-6LC3C040A.88AT.html",
+    "https://www.celine.com/en-us/beaute/lip-balms/le-rouge-celine-08-eurydice---matte-lip-balm-6LC3C040A.88AZ.html",
+    "https://www.celine.com/en-us/beaute/lipsticks/le-rouge-celine-satin-lipstick---01-rouge-triomphe-6LC1C010A.88AA.html",
+    "https://www.celine.com/en-us/beaute/lipsticks/le-rouge-celine-satin-lipstick---01-rouge-triomphe-6LC1C010A.88AA.html?srsltid=AfmBOooouzI_zxGrjqJE7rkfOmfe5TAA4-Jc20Lp-h-xhOUXlxiC37LjGns"
+   ]
+  }
+ }
+}

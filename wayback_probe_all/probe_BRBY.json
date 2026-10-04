@@ -1,0 +1,71 @@
+{
+ "burberry": {
+  "pattern": "us.burberry.com/*",
+  "2018": {
+   "distinct_urls": 2361,
+   "product_like": 1705,
+   "sample": [
+    "https://us.burberry.com/&u1=TL,STY,GAL,665468,TheTravelToteCelebritiesCan%E2%80%99tSeemtoPutDown,duongk,201803,I",
+    "https://us.burberry.com/1983-check-visor-p40784351",
+    "https://us.burberry.com/?productId=1930142&cp=1863803.1874960&page=4&pageBucket=0&parentPage=family",
+    "https://us.burberry.com/?productId=2010928&cp=1863803.2014331&page=2&pageBucket=0&parentPage=family",
+    "https://us.burberry.com/?productId=2116222&cp=1863803.2132560.2132561.2127009.1959685&page=3&pageBucket=0&parentPage=family"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 4500,
+   "sample": [
+    "https://us.burberry.com/3d-print-bifold-wallet-p80219561",
+    "https://us.burberry.com/3d-print-card-case-p80181611",
+    "https://us.burberry.com/3d-print-international-bifold-wallet-p80181601",
+    "https://us.burberry.com/3d-print-zip-pouch-p80181631",
+    "https://us.burberry.com/?productId=3707732&ab=acc:hatsgloves:hero:080409"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 2509,
+   "sample": [
+    "https://us.burberry.com/30a87786d17dcc0820f02709d00c60bf.png",
+    "https://us.burberry.com/3d-print-card-case-p80181611",
+    "https://us.burberry.com/3d-print-international-bifold-wallet-p80181601",
+    "https://us.burberry.com/3d-print-zip-pouch-p80181631",
+    "https://us.burberry.com/3d-print-ziparound-wallet-p80211881"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 3737,
+   "product_like": 2971,
+   "sample": [
+    "https://us.burberry.com/10000086781-mf-shield-loafer-serpent-p80800381",
+    "https://us.burberry.com/?&epiid=1015000429",
+    "https://us.burberry.com/?&utm_source=email%20marketing&utm_medium=email&utm_campaign=Email_Mkt_Week252016_SS17_GL_H_SeptemberCollection-ShowInspiration-Countdown_Main&epiid=1015000429&utm_content=",
+    "https://us.burberry.com/?&sap-outbound-id=0EE61EA3C03BE43F24F66D9E4A431156AF4CF9D3&epiid=308631568576",
+    "https://us.burberry.com/?&sap-outbound-id=0EE61EA3C03BE43F24F66D9E4A431156AF4CF9D3&epiid=308631568576&utm_campaign=AW19_GL_H_CampaignLaunch_Fes_W33_AME&utm_content=AW19_GL_H_CampaignLaunch_Fes_W332019&utm_medium=email&utm_source=emailmarketing"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 4261,
+   "sample": [
+    "https://us.burberry.com/10000090233-ms-passport-holder-c-sand-p80915331",
+    "https://us.burberry.com/?utm_source=bing&utm_medium=cpc&utm_campaign=US_SEA_BRA_EN-L_PUR_Core-Unisex-Exact&&gclsrc=3p.ds&&msclkid=f96baad54431118a5610cccd71d71637&utm_source=bing&utm_medium=cpc&utm_campaign=BBY_AO_US_EN_C_ALWYS_AON_BID_BRA_U_PUREBRAND_EX&utm_term=burberry&utm_content=AO_AO_US_EN_PURE_EX_PURE%20BRAND&gclid=f96baad54431118a5610cccd71d71637&gclsrc=3p.ds",
+    "https://us.burberry.com/?locale=en_US&WT_z_arrivedfrom=UK&&_requestid=2853602",
+    "https://us.burberry.com/?&utm_source=email%20marketing&utm_medium=email&utm_campaign=Email_Mkt_Week252016_SS17_GL_H_SeptemberCollection-ShowInspiration-Countdown_Main&epiid=1015000429&utm_content=",
+    "https://us.burberry.com/?utm_source=bing&utm_medium=cpc&utm_campaign=US_SEA_BRA_EN-L_PUR_Core-Unisex-Exact&gclsrc=aw.ds&&gclid=222085651e2c1d82b519e5ec94841689&gclsrc=3p.ds&msclkid=222085651e2c1d82b519e5ec94841689&utm_term=burberry&utm_content=US_EN-L_Pure%20Core_Exact"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 3937,
+   "sample": [
+    "https://us.burberry.com/?utm_source=bing&utm_medium=cpc&utm_campaign=US_SEA_BRA_EN-L_PUR_Core-Unisex-Exact&&gclsrc=3p.ds&&msclkid=f96baad54431118a5610cccd71d71637&utm_source=bing&utm_medium=cpc&utm_campaign=BBY_AO_US_EN_C_ALWYS_AON_BID_BRA_U_PUREBRAND_EX&utm_term=burberry&utm_content=AO_AO_US_EN_PURE_EX_PURE%20BRAND&gclid=f96baad54431118a5610cccd71d71637&gclsrc=3p.ds",
+    "https://us.burberry.com/?lid=nyu4iusnyege&&utm_source=emailmarketing&utm_medium=email&utm_campaign=AW26_GL_H_ShowTease_Brand_W482025&utm_content=AW26_GL_H_ShowTease_Brand_W482025&utm_language=en&mi_u=400010728169",
+    "https://us.burberry.com/?lid=nyu4iusnyege&&utm_language=en&mi_u=400010728169",
+    "https://us.burberry.com/?productId=4162119&cp=1862182&%3Bcp=2119969&parentPage=family",
+    "https://us.burberry.com/?productId=4310631&cp=2067810&%3Bcp=3965371.3965403&parentPage=family"
+   ]
+  }
+ }
+}

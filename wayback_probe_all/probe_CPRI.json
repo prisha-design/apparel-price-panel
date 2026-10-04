@@ -1,0 +1,165 @@
+{
+ "michaelkors": {
+  "pattern": "michaelkors.com/*",
+  "2018": {
+   "error": "ERR IncompleteRead(32889 bytes read)"
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 545,
+   "sample": [
+    "https://www.michaelkors.com/14k-gold-plated-sterling-silver-lock-and-cord-bracelet-set/_/R-US_MKC10469Z",
+    "https://www.michaelkors.com/14k-gold-plated-sterling-silver-pav%C3%A9-alphabet-charms/_/L-MSTR100655",
+    "https://www.michaelkors.com/14k-gold-plated-sterling-silver-pav%C3%A9-number-charms/_/L-MSTR101401",
+    "https://www.michaelkors.com/14k-rose-gold-plated-sterling-silver-and-enamel-heart-necklace/_/R-US_MKC12869S",
+    "https://www.michaelkors.com/14k-rose-gold-plated-sterling-silver-lock-and-cord-bracelet-set/_/R-US_MKC10469X"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 411,
+   "sample": [
+    "https://www.michaelkors.com/14k-gold-plated-sterling-silver-and-pave-open-ring/_/R-US_MKC13509K",
+    "https://www.michaelkors.com/14k-gold-plated-sterling-silver-and-pave-studded-cuff/_/R-US_MKC13459K",
+    "https://www.michaelkors.com/14k-gold-plated-sterling-silver-pave-alphabet-charms/_/L-MSTR100655",
+    "https://www.michaelkors.com/14k-gold-plated-sterling-silver-pave-number-charms/_/L-MSTR101401",
+    "https://www.michaelkors.com/14k-rose-gold-plated-sterling-silver-and-enamel-heart-necklace/_/R-US_MKC12869S"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 4070,
+   "sample": [
+    "https://www.michaelkors.com/14k-rose-gold-plated-sterling-silver-pave-logo-disc-earrings-and-necklace-set/MKC1627SET.html",
+    "https://www.michaelkors.com/2-in-1-cotton-blend-coat/M76540.html",
+    "https://www.michaelkors.com/2-in-1-cotton-blend-coat/M76540_3049.html",
+    "https://www.michaelkors.com/2-in-1-faux-fur-trim-parka/MFP27540.html",
+    "https://www.michaelkors.com/2-in-1-quilted-nylon--puffer-jacket/77C6136M42.html"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 1411,
+   "sample": [
+    "https://www.michaelkors.com/%23mkgo-rainbow-pride-cotton-t-shirt/MU95M7U97J.html?ecid=MKO&Platform=TW&Country=Global&Campaign=Trans%20-%20Seasonal&Date=20190605",
+    "https://www.michaelkors.com/-paxville-parka/MC28155.html",
+    "https://www.michaelkors.com/-paxville-parka/MC28155.html?dwvar_MC28155_color=0001&astc=true",
+    "https://www.michaelkors.com/14k-rose-gold-plated-sterling-silver-pave-logo-charm-necklace-and-stud-earrings-set/MKC1260AN.html",
+    "https://www.michaelkors.com/2-in-1-cotton-blend-coat/M76540.html"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 1917,
+   "sample": [
+    "https://www.michaelkors.com/-paxville-parka/MC28155.html?astc=true&dwvar_MC28155_color=0001",
+    "https://www.michaelkors.com/14k-gold-plated-sterling-silver-rainbow-pave-nesting-cuff/MKC1115AY.html?cjdata=MXxOfDB8WXwxNzgyMzk4NTQxMjM2&ecid=MKA_CJ_Greater%20Than%20Limited_3791870_100332909&ogmap=AFF%7CN%2FA%7C3791870&cjevent=9de6d75a4d4711f1804b00460a82b82a",
+    "https://www.michaelkors.com/14k-gold-plated-sterling-silver-rainbow-pave-nesting-ring/MKC1112AY.html?ecid=MKA_CJ_ShopStyle%20Inc.&cjevent=a7466dc06cf711ea8160058c0a24060c",
+    "https://www.michaelkors.com/14k-rose-gold-plated-sterling-silver-pave-logo-charm-necklace-and-stud-earrings-set/MKC1260AN.html",
+    "https://www.michaelkors.com/2-in-1-mixed-media-blazer/CF4100VDZF.html"
+   ]
+  }
+ },
+ "versace": {
+  "pattern": "versace.com/us/en/*",
+  "2018": {
+   "distinct_urls": 5000,
+   "product_like": 3750,
+   "sample": [
+    "https://www.versace.com/us/en-us/3d-lion-head-leather-belt-f460n/FCU0077-FCUO_F02_105_F460N__.html",
+    "https://www.versace.com/us/en-us/3d-lion-head-leather-belt/FCU0077-FCUO.html",
+    "https://www.versace.com/us/en-us/3d-lion-head-leather-belt/FCU0077-FCUO.html?geoip=geoip",
+    "https://www.versace.com/us/en-us/90s-logo-long-sleeve-team-t-shirt-a3393/A81230-A227441_AA2_42_A3393__.html",
+    "https://www.versace.com/us/en-us/90s-logo-long-sleeve-team-t-shirt-a3393/A81230-A227441_AA2_44_A3393__.html"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 3620,
+   "product_like": 3234,
+   "sample": [
+    "https://www.versace.com/us/en-us/90s-vintage-logo-belt-bag/DV3H033L-DTLSV.html?geoip=geoip",
+    "https://www.versace.com/us/en-us/90s-vintage-logo-card-holder/DPN7438-DVESF.html?geoip=geoip",
+    "https://www.versace.com/us/en-us/about-us/careers.html",
+    "https://www.versace.com/us/en-us/about-us/company-profile.html",
+    "https://www.versace.com/us/en-us/about-us/cookie-policy.html"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 4685,
+   "sample": [
+    "https://www.versace.com/us/en-us/about-us/careers.html",
+    "https://www.versace.com/us/en-us/about-us/company-profile.html",
+    "https://www.versace.com/us/en-us/about-us/corporate-data.html",
+    "https://www.versace.com/us/en-us/about-us/modello-organizzazione-231.html",
+    "https://www.versace.com/us/en-us/about-us/wechat.html"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 3902,
+   "product_like": 3370,
+   "sample": [
+    "https://www.versace.com/us/en/90s-vintage-logo-knit-beanie-blue/1007514-1A10148_I01_UNIC_1VD50__.html",
+    "https://www.versace.com/us/en/90s-vintage-logo-ribbed-bralette--gray/1013503-1A09551_AI7_1_1E130__.html",
+    "https://www.versace.com/us/en/90s-vintage-logo-ribbed-bralette--gray/1013503-1A09551_AI7_1_1E130__.html?wt_mc=US.affiliate.rakuten.10.1619413.Skimlinks.com&utm_source=rakutenadvertising&utm_medium=affiliate&utm_campaign=2116208:Skimlinks.com&utm_content=10&ranMID=50522&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-QZkLDeC5KBo65P6X2UqdPg",
+    "https://www.versace.com/us/en/90s-vintage-logo-ribbed-bralette--gray/1013503-1A09551_AI7_1_1E130__.html?wt_mc=US.affiliate.rakuten.10.1619413.Skimlinks.com&ranMID=50522&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-QZkLDeC5KBo65P6X2UqdPg",
+    "https://www.versace.com/us/en/90s-vintage-logo-ribbed-bralette-pink/1013503-1A09551_AI7_5_1PR20__.html"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 3674,
+   "product_like": 3171,
+   "sample": [
+    "https://www.versace.com/us/en/90s-vintage-logo-briefs-black/1014036-1A09984_1B000.html",
+    "https://www.versace.com/us/en/90s-vintage-logo-ribbed-trunks-black/1014037-1A09410_1B000.html",
+    "https://www.versace.com/us/en/about-us/careers.html",
+    "https://www.versace.com/us/en/about-us/careers.html?service=true",
+    "https://www.versace.com/us/en/about-us/company-profile.html"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 4786,
+   "product_like": 4167,
+   "sample": [
+    "https://www.versace.com/us/en/about-us/careers.html",
+    "https://www.versace.com/us/en/about-us/careers.html?service=true",
+    "https://www.versace.com/us/en/about-us/company-profile.html",
+    "https://www.versace.com/us/en/about-us/company-profile.html?service=true",
+    "https://www.versace.com/us/en/about-us/corporate-data.html"
+   ]
+  }
+ },
+ "jimmychoo": {
+  "pattern": "jimmychoo.com/en-us/*",
+  "2018": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2019": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2020": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2024": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2025": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2026": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  }
+ }
+}
