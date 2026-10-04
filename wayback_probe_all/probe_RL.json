@@ -1,0 +1,31 @@
+{
+ "ralphlauren": {
+  "pattern": "ralphlauren.com/*",
+  "2018": {
+   "error": "ERR IncompleteRead(131681 bytes read)"
+  },
+  "2019": {
+   "error": "ERR IncompleteRead(164806 bytes read)"
+  },
+  "2020": {
+   "error": "ERR IncompleteRead(461220 bytes read)"
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 3944,
+   "sample": [
+    "https://www.ralphlauren.com/20230802-free-shipping-with-account-details/20230802-free-shipping-with-account-details.html",
+    "https://www.ralphlauren.com/?utm_source=PaidSearch&utm_medium=Google&utm_campaign=Google%20Global-TM-Desktop-General-General-Ralph%20Lauren-General-Exact&utm_term=ralph%20lauren&002=2436229&004=6243263769&005=14917900&006=18024880712&007=Search",
+    "https://www.ralphlauren.com/?utm_source=PaidSearch&utm_medium=Google&utm_campaign=Google-TM-Ralph%20Lauren-Exact&utm_term=ralph%20lauren&002=2502554&004=8418759317&005=14917900&006=37133671997&007=Search&025=c&gclid=CMOH7YfersECFcRAMgodZ2wABw",
+    "https://www.ralphlauren.com/?utm_source=PaidSearch&utm_medium=Google&utm_campaign=Google-TM-Ralph%20Lauren-Exact&utm_term=ralph%20lauren&002=2502554&004=8418759317&005=14917900&006=46399934237&007=Search&025=c&gclid=CjwKEAjwns6hBRDTpb_jkbTv1UYSJACBhberS7SnoIBQUAvpMB_RABZPmf9gwEqrHcLsnLPCE1VMTxoCmI7w_wcB",
+    "https://www.ralphlauren.com/?utm_source=PaidSearch&utm_medium=Google&utm_campaign=Google%20Global-B-Polo-Exact&utm_term=ralph%20lauren%20polo&002=2513545&004=11242974249&005=103617532&006=46707815889&007=Search&025=c"
+   ]
+  },
+  "2025": {
+   "error": "ERR IncompleteRead(32874 bytes read)"
+  },
+  "2026": {
+   "error": "ERR IncompleteRead(198325 bytes read)"
+  }
+ }
+}

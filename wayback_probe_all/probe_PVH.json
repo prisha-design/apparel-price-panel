@@ -1,0 +1,140 @@
+{
+ "tommy": {
+  "pattern": "usa.tommy.com/*",
+  "2018": {
+   "distinct_urls": 4945,
+   "product_like": 3823,
+   "sample": [
+    "http://usa.tommy.com:80/CategoryDisplay?top_category5=&top_category4=&top_category3=&urlRequestType=Base&catalogId=10551&top_category2=&categoryId=3074457345617344771&pageView=grid&urlLangId=-1&beginIndex=0&categoryFacetHierarchyPath=&langId=-1&top_category=255101&parent_category_rn=3074457345617344771&storeId=10151",
+    "http://usa.tommy.com/CategoryDisplay?urlRequestType=Base&catalogId=10551&categoryId=142607&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=&storeId=10151",
+    "https://usa.tommy.com/CategoryDisplay?urlRequestType=Base&catalogId=10551&categoryId=15107&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=&storeId=10151",
+    "https://usa.tommy.com/CategoryDisplay?urlRequestType=Base&catalogId=10551&categoryId=162607&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=15107&parent_category_rn=18103&storeId=10151",
+    "https://usa.tommy.com/CategoryDisplay?urlRequestType=Base&catalogId=10551&categoryId=166602&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=15107&parent_category_rn=3074457345617193769&storeId=10151"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 2058,
+   "product_like": 717,
+   "sample": [
+    "https://usa.tommy.com/AjaxOrderItemDisplayView?storeId=10151&catalogId=10551&langId=-1&krypto=Q%2FYOsTk45ispib0YlmJd7Xrb2nApOXE1QSv%2FC0KGeQS6NdiLhX1Mzl61qNY5z4uuYhr3psbaawJhVh8V97wj58KbiqP764gCiYdXQE1PWuqV7uvfD9tqjxEh%2BFnyYp3rlZsEb%2BLIn9riAef0txjUy9h6IEtlrTYv6jYBAxHom5u1AltP6gkj%2BvsKUkzsd0O%2BFxxUqOVV3Ekwi3AnyJLcWtnPXx4YJAS5Bc0uTDIEI6MmQzrBKbEr4kyGZV2cqIhSAnRZCcA%2FMph1%2Fl6AlvXP4f5JGoqig%2FPI7xmkOIpWeY8snU7xQyjhNTkkJKGNf%2FI3cWTu6nRscJhPZFOT9vkRDP79545Elx%2BuPTqttf6A1a1HknA9lYr34oC5of%2F42auq&ddkey=https%3ARESTOrderCalculate",
+    "https://usa.tommy.com/CategoryDisplay?urlRequestType=Base&catalogId=10551&categoryId=142607&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=&storeId=10151",
+    "https://usa.tommy.com/CategoryDisplay?urlRequestType=Base&catalogId=10551&categoryId=15107&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=&storeId=10151",
+    "https://usa.tommy.com/CategoryDisplay?urlRequestType=Base&catalogId=10551&categoryId=162607&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=15107&parent_category_rn=18103&storeId=10151",
+    "https://usa.tommy.com/CategoryDisplay?urlRequestType=Base&catalogId=10551&categoryId=166602&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=15107&parent_category_rn=3074457345617193769&storeId=10151"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 503,
+   "sample": [
+    "https://usa.tommy.com/CategoryDisplay?storeId=10151&amp;urlLangId=-1&amp;urlRequestType=Base&amp;categoryId=3074457345617563770&amp;langId=-1&amp;catalogId=10551",
+    "https://usa.tommy.com/CategoryDisplay?urlRequestType=Base&catalogId=10551&categoryId=3074457345617403768&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=3074457345617404768&storeId=10151",
+    "https://usa.tommy.com/CategoryDisplay?urlRequestType=Base&catalogId=10551&categoryId=3074457345617404768&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=&storeId=10151",
+    "https://usa.tommy.com/CategoryDisplay?urlRequestType=Base&catalogId=10551&categoryId=3074457345617404769&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=3074457345617404768&storeId=10151",
+    "https://usa.tommy.com/CategoryDisplay?urlRequestType=Base&catalogId=10551&categoryId=3074457345617404770&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=3074457345617404768&storeId=10151"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 4875,
+   "sample": [
+    "https://usa.tommy.com/en/1985-brushed-cotton-wide-leg-pant/76J4775.html",
+    "https://usa.tommy.com/en/1985-cargo-short/78JA309.html",
+    "https://usa.tommy.com/en/1985-logo-hoodie/WW42013.html",
+    "https://usa.tommy.com/en/1985-logo-t-shirt/WW42011.html",
+    "https://usa.tommy.com/en/1985-regular-fit-polo/MW26881.html"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 2644,
+   "sample": [
+    "https://usa.tommy.com/akam/13/pixel_127263b4",
+    "https://usa.tommy.com/akam/13/pixel_127263b4?a=dD1lOTFkNDI5NTAwMTBmOTU1ZWY1MmU2ZTkzYjY1Y2VjNTE1NDQ1OTk4JmpzPW9mZg==",
+    "https://usa.tommy.com/akam/13/pixel_15110c8",
+    "https://usa.tommy.com/akam/13/pixel_15110c8?a=dD05MTU4OGEwMWNkOTg2NDY1ZDExOTdjNDE0ZTgwM2NmNjFlZTcyNWQ0JmpzPW9mZg==",
+    "https://usa.tommy.com/akam/13/pixel_15110c9"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 1849,
+   "sample": [
+    "https://usa.tommy.com/akam/13/pixel_158669d0",
+    "https://usa.tommy.com/akam/13/pixel_158669d0?a=dD03OTI3N2IyMGYwYTZiYTYwNDBlODg4ZGQyMDQzYzI1ODQ1YjBiOWYxJmpzPW9mZg==",
+    "https://usa.tommy.com/akam/13/pixel_1608527",
+    "https://usa.tommy.com/akam/13/pixel_16085a4",
+    "https://usa.tommy.com/akam/13/pixel_16085a4?a=dD1hMmFjNjYxOWI0ZWYzZmQ2YjlkYTBkZGNjMWQ4ZGM3NDhkZmMxMjkyJmpzPW9mZg=="
+   ]
+  }
+ },
+ "calvinklein": {
+  "pattern": "calvinklein.us/*",
+  "2018": {
+   "distinct_urls": 5000,
+   "product_like": 4316,
+   "sample": [
+    "http://www.calvinklein.us:80/CategoryDisplay?top_category5=&top_category4=&top_category3=&urlRequestType=Base&catalogId=12101&top_category2=&categoryId=3074457345617308273&pageView=grid&urlLangId=-1&beginIndex=0&categoryFacetHierarchyPath=&langId=-1&top_category=3074457345617229268&parent_category_rn=3074457345617308273&storeId=10751",
+    "http://www.calvinklein.us:80/CategoryDisplay?top_category5=&top_category4=&top_category3=&urlRequestType=Base&catalogId=12101&top_category2=&categoryId=3074457345617308280&pageView=grid&urlLangId=-1&beginIndex=0&categoryFacetHierarchyPath=&langId=-1&top_category=3074457345617229268&parent_category_rn=3074457345617308273&storeId=10751",
+    "http://www.calvinklein.us:80/CategoryDisplay?top_category5=&top_category4=&top_category3=&urlRequestType=Base&catalogId=12101&top_category2=&categoryId=3074457345617309270&pageView=grid&urlLangId=-1&beginIndex=0&categoryFacetHierarchyPath=&langId=-1&top_category=3074457345617229268&parent_category_rn=3074457345617309270&storeId=10751",
+    "http://www.calvinklein.us:80/CategoryDisplay?top_category5=&top_category4=&top_category3=&urlRequestType=Base&catalogId=12101&top_category2=&categoryId=3074457345617309271&pageView=grid&urlLangId=-1&beginIndex=0&categoryFacetHierarchyPath=&langId=-1&top_category=3074457345617229268&parent_category_rn=3074457345617309269&storeId=10751",
+    "https://www.calvinklein.us/CategoryDisplay?urlRequestType=Base&catalogId=12101&categoryId=130614&pageView=&urlLangId=-1&beginIndex=0&langId=-1&top_category=130601&storeId=10751"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 497,
+   "product_like": 202,
+   "sample": [
+    "https://www.calvinklein.us/AjaxOrderItemDisplayView?storeId=10751&catalogId=12101&langId=-1&krypto=%2BGfnf9mNdDy4LbsZSd24uDmnS1ux1hYQE0TpYdRfCxge92jS565DyqtmLqxOIL4XFRXjc72IcoExynv5UeETncKj7K2Zx%2B1luMNhLdouDMP6ukzmygXeVM97J7TU0EeVJOOw5cbVYmA8Or1ff1xIImcvUUevay6VBGlUj%2FByo49da6rtvTjhGaeIaMmo3dxt0kWOnMtPTroG4n9DU4O0lJEsi4b%2BTtmbjFBt%2BIuLFR8dyeLCtmmX87xrEf9vCiDvtCyQW0rp4n5jSQbqiXtEMfcded08coGb3E8UMULQBvynuD4Nr%2Bg4esTsbcojoRej13p9nTut1Fzp59CBLfIaY9CF%2Fgnh%2FYJf%2BU5aWDFF5uN4PvzZltVSLjNVA3DFXk9A&ddkey=https%3ARESTOrderCalculate",
+    "https://www.calvinklein.us/AjaxOrderItemDisplayView?catalogId=12101&langId=-1&storeId=10751&krypto=j57lCaRQqAVOgY6R9gmXM2lK61DJcaSA2p1OrdMMS5xNn2TTzBt3f40bK4MuWJwfRqi%2FzsSZPzh8rlQboM8%2BbxKbSKAFaCkXgR1kirJGdSC8xR94stghgowPpCQPdGV%2FKsfspFCQ8MkME%2BNjqPtP%2F2xLmChXuVeGZK52CMDwazorllnsHBUCxE79dGQrUwAJkoL87fYz%2FiOzXV8%2FVyeVNO4dgTh3%2FuXIA4ZneNGYNSLw%2FkLVlDJ6i40K5hhDMvCjgdFNQdqsrNw1dtxyX9jeMBaBPXrca1cOD3%2F2SqbJr014RHFsoUj8B20Q%2F6Cjxr6lWDAAI57Pa%2BwOjzRRc4jITg%3D%3D&ddkey=https%3ARESTOrderCalculate",
+    "https://www.calvinklein.us/CKSiteMessageBarLinks?catalogId=12101&langId=-1&storeId=10751",
+    "https://www.calvinklein.us/en/205w39nyc-cowboy-hat-36840001",
+    "https://www.calvinklein.us/en/AjaxLogonForm?catalogId=12101&langId=-1&page=orderstatus&storeId=10751"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 614,
+   "product_like": 270,
+   "sample": [
+    "https://www.calvinklein.us/CategoryDisplay?urlRequestType=Base&catalogId=12101&categoryId=130601&pageView=grid&urlLangId=-1&beginIndex=0&langId=-1&top_category=&storeId=10751",
+    "https://www.calvinklein.us/CategoryDisplay?urlRequestType=Base&catalogId=12101&categoryId=130603&pageView=grid&urlLangId=-1&beginIndex=0&langId=-1&top_category=&storeId=10751",
+    "https://www.calvinklein.us/CategoryDisplay?urlRequestType=Base&catalogId=12101&categoryId=130604&pageView=grid&urlLangId=-1&beginIndex=0&langId=-1&top_category=&storeId=10751",
+    "https://www.calvinklein.us/CategoryDisplay?urlRequestType=Base&catalogId=12101&categoryId=130605&pageView=grid&urlLangId=-1&beginIndex=0&langId=-1&top_category=&storeId=10751",
+    "https://www.calvinklein.us/CategoryDisplay?urlRequestType=Base&catalogId=12101&categoryId=130606&pageView=grid&urlLangId=-1&beginIndex=0&langId=-1&top_category=&storeId=10751"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 864,
+   "product_like": 820,
+   "sample": [
+    "https://www.calvinklein.us/en/all-day-sling-bag/46300824.html",
+    "https://www.calvinklein.us/en/all-day-small-round-shoulder-bag/36200659.html",
+    "https://www.calvinklein.us/en/allover-monogram-logo-jersey-dress/17220823.html",
+    "https://www.calvinklein.us/en/ankle-length-mom-jeans/18530607.html",
+    "https://www.calvinklein.us/en/archive-hardware-shoulder-bag/36200820.html"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 2950,
+   "sample": [
+    "https://www.calvinklein.us/AjaxOrderItemDisplayView?storeId=10751&catalogId=12101&langId=-1&krypto=V7wJdXTvAUmZf35MtgO4AWgDrypwb6P2P34B4aIymK1SsQZ6zypR7R0Hw8ihwn%2FDzkRS3bRt%2B9otCdc3cHL1lFBi9WXzVlwO8Il6bDAvSJihbPHP7IKAqU%2BG2%2FG9QVL0Kj2deSWAgJ5EYSWi0RxqSrx1Nn0SCU0O5W3VPe77RmsYAvFV%2BvLuO8jQJVSOFO0WZ0kuPK%2BDKBUkMJk4vJBd4izixk83ZbRrYxn%2FNICtw5khOrosQK%2BBKHiN3KKTawkW6eo84yEJ5%2BFiPoOrVujKioDOzTPa%2F9Dyak%2FB4Rf8kOpOjkHqqvGzW0HJxIgO8j9c1Mvg%2F0iSuGuv5zYyacb3C4AGxhh7XRa9pk7ijVwgbtA%3D&ddkey=https%3ARESTOrderCalculate",
+    "https://www.calvinklein.us/akam/13/pixel_11669053",
+    "https://www.calvinklein.us/akam/13/pixel_11669053?a=dD00MGVlYTczOThjZjAwNDU0ZGE1MDM5ZWE3YzEwNzYzYjUzNjBlYTdlJmpzPW9mZg==",
+    "https://www.calvinklein.us/akam/13/pixel_116691cf",
+    "https://www.calvinklein.us/akam/13/pixel_116691cf?a=dD00MGVlYTczOThjZjAwNDU0ZGE1MDM5ZWE3YzEwNzYzYjUzNjBlYTdlJmpzPW9mZg=="
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 1942,
+   "sample": [
+    "https://www.calvinklein.us/akam/13/pixel_11669002",
+    "https://www.calvinklein.us/akam/13/pixel_11669002?a=dD00MGVlYTczOThjZjAwNDU0ZGE1MDM5ZWE3YzEwNzYzYjUzNjBlYTdlJmpzPW9mZg==",
+    "https://www.calvinklein.us/akam/13/pixel_11669003",
+    "https://www.calvinklein.us/akam/13/pixel_11669003?a=dD00MGVlYTczOThjZjAwNDU0ZGE1MDM5ZWE3YzEwNzYzYjUzNjBlYTdlJmpzPW9mZg==",
+    "https://www.calvinklein.us/akam/13/pixel_11669007"
+   ]
+  }
+ }
+}

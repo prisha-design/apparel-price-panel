@@ -1,0 +1,71 @@
+{
+ "zara": {
+  "pattern": "zara.com/us/en/*",
+  "2018": {
+   "distinct_urls": 556,
+   "product_like": 538,
+   "sample": [
+    "https://www.zara.com/us/en/%E2%80%9Cfriends%E2%80%9D%C2%AE-t-shirt-p04644453.html",
+    "https://www.zara.com/us/en/-pL1811508.html?v1=7237547&v2=1087501",
+    "https://www.zara.com/us/en/alaska-plaid-pants-p05859641.html",
+    "https://www.zara.com/us/en/animal-print-dress-p04479242.html",
+    "https://www.zara.com/us/en/animal-print-skirt-p07992112.html"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 4987,
+   "sample": [
+    "https://www.zara.com/us/en/%C2%A9-2018-mcdonald%E2%80%99s-unisex-sweatshirt-p04644341.html",
+    "https://www.zara.com/us/en/%C2%A9-warner-bros-looney-tunes-t-shirt-p00264308.html",
+    "https://www.zara.com/us/en/%C2%A9-warner-bros-looney-tunes-t-shirt-p04644314.html",
+    "https://www.zara.com/us/en/%C2%A9daisy-t-shirt-p08117604.html",
+    "https://www.zara.com/us/en/%C2%A9daisy-t-shirt-p08117604.html?v1=13389933&v2=1186825"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 2961,
+   "product_like": 2931,
+   "sample": [
+    "https://www.zara.com/us/en/%E2%80%9880s-jumpsuit-in-arizona-blue-p06840247.html?amp;v2=733918",
+    "https://www.zara.com/us/en/%E2%80%9880s-old-blue-zw-premium-skinny-jeans-p09863241.html",
+    "https://www.zara.com/us/en/%E2%80%9880s-old-blue-zw-premium-skinny-jeans-p09863241.html?utm_campaign=productShare&utm_medium=mobile_sharing_iOS&utm_source=red_social_movil&v1=79844523",
+    "https://www.zara.com/us/en/%E2%80%9880s-old-blue-zw-premium-skinny-jeans-p09863241.html?v1=79844523",
+    "https://www.zara.com/us/en/-p09815254.html"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.zara.com/us/en/---look-3-pT0968659562.html",
+    "https://www.zara.com/us/en/--brawl-stars-embroidered-print-t-shirt-p02324672.html",
+    "https://www.zara.com/us/en/--c2303116.html",
+    "https://www.zara.com/us/en/--c2303116.html?v1=2303116",
+    "https://www.zara.com/us/en/--c2358065.html"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 4999,
+   "sample": [
+    "https://www.zara.com/us/en/%C2%A9-2018-mcdonald%E2%80%99s-unisex-sweatshirt-p04644341.html",
+    "https://www.zara.com/us/en/%C2%A9-2018-mcdonald%E2%80%99s-unisex-sweatshirt-p04644341.html?v1=8725222&v2=1180464",
+    "https://www.zara.com/us/en/%C2%A9-disney-the-lion-king-t-shirt-p00962201.html",
+    "https://www.zara.com/us/en/%C2%A9-disney-the-lion-king-t-shirt-p00962201.html?v1=21670168&gclid=CjwKCAjwkqPrBRA3EiwAKdtwk9x8tLhULyE2CpezXCbEFI64rmPQCBEl7iZxW4JhtZj6maFTIXKH6xoCUngQAvD_BwE",
+    "https://www.zara.com/us/en/%C2%A9-disney-the-lion-king-t-shirt-p00962201.html?v1=21670168"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 4999,
+   "sample": [
+    "https://www.zara.com/us/en/--c2537484.html?ajax=true",
+    "https://www.zara.com/us/en/--c2597104.html",
+    "https://www.zara.com/us/en/--c2619625.html",
+    "https://www.zara.com/us/en/--c2654255.html",
+    "https://www.zara.com/us/en/--c2654255.html?v1=2654255&regionGroupId=41"
+   ]
+  }
+ }
+}

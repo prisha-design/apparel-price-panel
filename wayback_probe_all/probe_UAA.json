@@ -1,0 +1,71 @@
+{
+ "underarmour": {
+  "pattern": "underarmour.com/en-us/*",
+  "2018": {
+   "distinct_urls": 4167,
+   "product_like": 1247,
+   "sample": [
+    "https://www.underarmour.com/en-us-ca/mens-ua-heatgear-armour-long-sleeve-compression-shirt/pid1257471-400",
+    "https://www.underarmour.com/en-us/1238324/pcid1238324-946",
+    "https://www.underarmour.com/en-us/1244207/pid1244207",
+    "https://www.underarmour.com/en-us/1244207/pid1244207-005",
+    "https://www.underarmour.com/en-us/1245952/pid1245952-428"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 2750,
+   "sample": [
+    "https://www.underarmour.com/en-us-ca/ua-convertible-glove/pcid1299889",
+    "https://www.underarmour.com/en-us/1235698/pid1235698-316",
+    "https://www.underarmour.com/en-us/1235698/pid1235698-440",
+    "https://www.underarmour.com/en-us/1235698/pid1235698-681",
+    "https://www.underarmour.com/en-us/1236469/pid1236469-682"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 3290,
+   "sample": [
+    "https://www.underarmour.com/en-us/-/pcid1271525-820?CID=AF|Lyst+Ltd|CJ|US&cjevent=9f435ac833cc11ea825201290a180511",
+    "https://www.underarmour.com/en-us/-/pcid1318936-015?CID=AF|Lyst+Ltd|CJ|US&cjevent=18371cbe36ac11ea825203800a180511",
+    "https://www.underarmour.com/en-us/-/pcid3000304-002?CID=AF|Lyst+Ltd|CJ|US&cjevent=31998f6936cc11ea8252039e0a180511",
+    "https://www.underarmour.com/en-us/12-1-rival-fleece-sportstyle-graphic-cre/pcid1349095",
+    "https://www.underarmour.com/en-us/12-1-rival-fleece-sportstyle-graphic-cre/pcid1349095-001"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 275,
+   "sample": [
+    "https://www.underarmour.com/en-us/c/accessories/bags/backpacks/?sv1=affiliate&sv_campaign_id=136348&awc=15431_1723241560_070d138efd02e901d305d2b73057b4c5&cid=AF_AWIN_US_136348",
+    "https://www.underarmour.com/en-us/c/accessories/bags/backpacks/?sv_campaign_id=78888&sv_tax1=affiliate&sv_tax2=169195%7C300759&sv_tax3=Skimlinks&sv_tax4=businessinsider.com&sv_affiliate_id=78888&awc=15431_1728188854_f84a503910424b6988de3ca5bf66176b&cid=AF_AWIN_US_78888",
+    "https://www.underarmour.com/en-us/c/accessories/bags/backpacks/?sv1=affiliate&sv_campaign_id=970365&awc=15431_1731913016_cfe6464621b870f42ae11b481bfab74f&cid=AF_AWIN_US_970365",
+    "https://www.underarmour.com/en-us/c/accessories/bags/mens/?cid=PS_OMD_US_32685_7HQMDRQD0P_58700006496783412_71700000076121727&msclkid=71197621fa061c42f932111706d3ba04&gclsrc=3p.ds&gclid=71197621fa061c42f932111706d3ba04&gclid=71197621fa061c42f932111706d3ba04",
+    "https://www.underarmour.com/en-us/c/best-sellers/%22https:/underarmour.scene7.com/is/image/Underarmour/1348013-400_ASST/?hei=480&size=384%2C480&scl=1&cache=on%2Con&qlt=30&fmt=jpg&wid=384&resMode=sharp2&bgc=F0F0F0&rp=standard-10pad%7CpdpMainDesktop"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 30,
+   "sample": [
+    "https://www.underarmour.com/en-us/c/accessories-facemasks-hoods-gaiters/?sv_campaign_id=78888&sv_tax1=affiliate&sv_tax2=169195&sv_tax3=Skimlinks&sv_tax4=nj.com&sv_affiliate_id=78888&awc=15431_1753199573_973555f8a31933d0bb1b1c90dab12e53&cid=AF_AWIN_US_78888",
+    "https://www.underarmour.com/en-us/c/accessories-facemasks-hoods-gaiters/?cid=PS_OMD_US_33788_3K3J9WE9MO__590311103_58700008853202329_71700000121388428&gad_source=7",
+    "https://www.underarmour.com/en-us/c/accessories/bags/backpacks/?$3p=a_awin&$deeplink_path=https://www.underarmour.com/en-us/c/accessories/bags/backpacks/&$uri_redirect_mode=1&_branch_match_id=1346619045896163895&_branch_referrer=H4sIAAAAAAAAA62Q22rDMAyGn8a9W9LYObSFMAJbYBfbzRi7NJqtNCZOYuwc2NtPbtkDDAYWsj6hX+Lvl8WFS5quEPrZJeBcYs00pI+M58LVIGE304FVz8oaNUij66zIRSazinN+rnieyyPVxUnojlglSg0aVamRl+ccu6o83aZhdGCuU/0KG9rvA6mv3kiP2nhUixxnjXUWsUZ08QLpYOnrPp7HRMN4S2/f92SdNHrw47z6RM0jUZwe1kBZUYBSGMLsDUbyBdd7UoOjiP+4ogNrI5Ort/+/gYk2bBkTT9B1xhpYkPEybPLXAvKQmufqKMqCOrArKv9sKk2qm1DTyubz5U1+vMu75g9Gi/nK0gEAAA==&awc=15431_1722297244_0431583df172736dadec6de2694ef768&cid=AF_AWIN_US_970365&sv1=affiliate&sv_campaign_id=970365&~campaign=Mavely&~click_id=15431_1722297244_0431583df172736dadec6de2694ef768&sv1=affiliate&sv_campaign_id=970365&awc=15431_1737091777_13297a72fb836228a1d425b5acae9d35",
+    "https://www.underarmour.com/en-us/c/accessories/bags/backpacks/?sv_campaign_id=78888&sv_tax1=affiliate&sv_tax2=169195&sv_tax3=Skimlinks&sv_tax4=shopyourlikes.com&sv_affiliate_id=78888&awc=15431_1745281024_ddbc361ff4ac8111ca5e62449b665313&cid=AF_AWIN_US_78888",
+    "https://www.underarmour.com/en-us/c/accessories/bags/backpacks/?sv1=affiliate&sv_campaign_id=970365&awc=15431_1745576474_6407e566039238557b7fcc954a02866f&cid=AF_AWIN_US_970365"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 15,
+   "sample": [
+    "https://www.underarmour.com/en-us/c/accessories/bags/?cid=PS_OMD_US_33883_PK3AAIPU9U__22525227045_182121979871_22525227045&gclsrc=aw.ds&gad_source=1&gad_campaignid=22525227045&gbraid=0AAAAADgZK6b890mrgds8T9-qK_qKgVaVC&gclid=Cj0KCQjw7cLOBhDmARIsAGsuA0np4qodGX05U11qx9vINJfHAtPalAlE-r7dxDLbQ0zd2uHz4RrEZZYaAldtEALw_wcB",
+    "https://www.underarmour.com/en-us/c/back-to-school/boys%20girls/?RMID=5316_KidsPersPerk&sv1=affiliate&sv_campaign_id=303693&awc=15431_1786460354_70be01afbbbaf76018dbba8be7602afd&cid=AF_AWIN_US_303693",
+    "https://www.underarmour.com/en-us/c/back-to-school/boys%20girls/?cid=AF_AWIN_US_303693&RMID=5316_KidsPersPerk&sv1=affiliate&sv_campaign_id=303693&awc=15431_1786533929_a8abdebfc0ba57f7cb1d13b5da02144e",
+    "https://www.underarmour.com/en-us/c/back-to-school/boys+girls/?he=8df4c86a9643c44c603dc7160955a98d1b2fb51e35fbaaf4b81b82a1b46cf728&et_cid=533560&et_rid=395742707&RMID=5316_KidsPersPerk&RRID=395742707&triggermail_email_address=Um9iQGRlYWxjYXRjaGVyLmNvbQ%3D%3D",
+    "https://www.underarmour.com/en-us/c/baselayer/?cid=PS_OMD_US_33834_88H1P75UE7__22500827254_177534394246_22500827254&gclsrc=aw.ds&gad_source=1&gad_campaignid=22500827254&gbraid=0AAAAADgZK6YjZEUxoDCmeJTFgYG16MipI&gclid=CjwKCAiA1obMBhAbEiwAsUBbIldqC5dywb_sCjThlt9j8qOglj_LFs867NQJKafTmV4PjbgifsPtCRoCeCEQAvD_BwE"
+   ]
+  }
+ }
+}

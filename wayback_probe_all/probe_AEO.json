@@ -1,0 +1,63 @@
+{
+ "americaneagle": {
+  "pattern": "ae.com/us/en/p/*",
+  "2018": {
+   "error": "ERR HTTP Error 504: Gateway Time-out"
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.ae.com/us/en/p/0433_1795_134",
+    "https://www.ae.com/us/en/p/2360_4064_300",
+    "https://www.ae.com/us/en/p/ae-chilly-panda-pj-set/0575_3041_615?menu=cat4840004",
+    "https://www.ae.com/us/en/p/ae-chilly-panda-pj-set/0575_3041_615?nvid=shp%3Agifts-for-her&menu=cat4840004",
+    "https://www.ae.com/us/en/p/ae-christmas-cactus-pj-set/0575_2968_615?menu=cat4840004"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.ae.com/us/en/p/0119_5328_896",
+    "https://www.ae.com/us/en/p/0183_4195_212",
+    "https://www.ae.com/us/en/p/0183_4468_269",
+    "https://www.ae.com/us/en/p/0329_4298_001",
+    "https://www.ae.com/us/en/p/0344_9126_107"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.ae.com/us/en/p/0186_2494_081",
+    "https://www.ae.com/us/en/p/0238_3812_580",
+    "https://www.ae.com/us/en/p/0238_3812_605",
+    "https://www.ae.com/us/en/p/0238_3812_700",
+    "https://www.ae.com/us/en/p/0238_4234_800"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.ae.com/us/en/p/-47-miami-dolphins-baseball-hat/0508_8019_100?menu=cat4840004",
+    "https://www.ae.com/us/en/p/0111_6571_841",
+    "https://www.ae.com/us/en/p/0185_4620_100",
+    "https://www.ae.com/us/en/p/0221_8494_106",
+    "https://www.ae.com/us/en/p/0313_4596_001"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.ae.com/us/en/p/0116_6020_272",
+    "https://www.ae.com/us/en/p/0116_7131_992",
+    "https://www.ae.com/us/en/p/0116_7131_992?cjdata=MXxOfDB8WXww&PID=7921344&SID=A9389O799TID10293ef456aceb71ebd2ee8148b9ec&utm_term=&utm_source=7921344&utm_content=ae&cjevent=1f82af996e2e11f1805603070a1eba24&utm_campaign=13187162&cid=aeo_aff_4627774&AID=13187162&utm_medium=affiliate",
+    "https://www.ae.com/us/en/p/0116_7131_992?PID=7921344&utm_content=ae&cjdata=MXxOfDB8WXww&AID=13187162&SID=A9389O799TID102a456ddf28563c2e85972457b4c7&cid=aeo_aff_4627774&utm_source=7921344&cjevent=50c0b0a96a0511f182fa004d0a1eba24&utm_medium=affiliate&utm_campaign=13187162&utm_term=",
+    "https://www.ae.com/us/en/p/0116_7131_992?SID=A9389O799TID102b70804b48a4af5f573c5103848b&AID=13187162&PID=7921344&cjevent=5634fa546d2111f1806601a40a1eba8e&utm_medium=affiliate&utm_source=7921344&utm_content=ae&cjdata=MXxOfDB8WXww&utm_term=&cid=aeo_aff_4627774&utm_campaign=13187162"
+   ]
+  }
+ }
+}

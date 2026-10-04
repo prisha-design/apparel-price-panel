@@ -1,0 +1,71 @@
+{
+ "columbia": {
+  "pattern": "columbia.com/*",
+  "2018": {
+   "distinct_urls": 5000,
+   "product_like": 873,
+   "sample": [
+    "https://www.columbia.com/1.1l-quickwater-sport-bottle-CAL494.html",
+    "https://www.columbia.com/1.1l-quickwater-sport-bottle-CAL494.html?cgid=activity-training&dwvar_CAL494_variationColor=380",
+    "https://www.columbia.com/1.1l-quickwater-sport-bottle-CAL494.html?cgid=activity-training&dwvar_CAL494_variationColor=600",
+    "https://www.columbia.com/1.1l-quickwater-sport-bottle-CAL494.html?cgid=activity-training&dwvar_CAL494_variationColor=846",
+    "https://www.columbia.com/1.1l-quickwater-sport-bottle-CAL494.html?cgid=giftGuide-giftsForHim&dwvar_CAL494_variationColor=380"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 1592,
+   "sample": [
+    "https://www.columbia.com/%22the-alpine%22-mid-weight-youth-ski-sock-CS019U.html",
+    "https://www.columbia.com/1.1l-quickwater-sport-bottle-CAL494.html",
+    "https://www.columbia.com/175-lumen-multi-color-headlamp-ITD000.html",
+    "https://www.columbia.com/175-lumen-multi-color-headlamp-ITD000.html?dwvar_ITD000_variationColor=030&cgid=activity-hiking-accessories",
+    "https://www.columbia.com/175-lumen-multi-color-headlamp-ITD000.html?dwvar_ITD000_variationColor=030"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 1358,
+   "sample": [
+    "https://www.columbia.com/10-favorite-urban-escapes.html",
+    "https://www.columbia.com/10-favorite-urban-escapes.html?fdid=hiking-stories",
+    "https://www.columbia.com/10-favorite-urban-escapes.html?fdid=Travel",
+    "https://www.columbia.com/175-lumens-multi-color-mini-headlamp-ITD000.html",
+    "https://www.columbia.com/175-lumens-multi-color-mini-headlamp-ITD000.html?dwvar_ITD000_variationColor=030"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 2623,
+   "sample": [
+    "https://www.columbia.com/10-favorite-urban-escapes.html",
+    "https://www.columbia.com/15-tips-for-staying-cool.html",
+    "https://www.columbia.com/18-outdoor-destinations.html",
+    "https://www.columbia.com/5-favorite-national-parks.html",
+    "https://www.columbia.com/5-favorite-national-parks.html?fdid=exploration-articles"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 2161,
+   "sample": [
+    "https://www.columbia.com/10-favorite-urban-escapes.html",
+    "https://www.columbia.com/15-tips-for-staying-cool.html",
+    "https://www.columbia.com/15-tips-for-staying-cool.html?fdid=featured-ca",
+    "https://www.columbia.com/18-outdoor-destinations.html",
+    "https://www.columbia.com/5-favorite-national-parks.html"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 2567,
+   "sample": [
+    "https://www.columbia.com/10-favorite-urban-escapes.html",
+    "https://www.columbia.com/10-favorite-urban-escapes.html?fdid=hiking-stories",
+    "https://www.columbia.com/15-tips-for-staying-cool.html",
+    "https://www.columbia.com/15-tips-for-staying-cool.html?fdid=technology-articles",
+    "https://www.columbia.com/18-outdoor-destinations.html"
+   ]
+  }
+ }
+}

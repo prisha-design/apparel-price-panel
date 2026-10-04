@@ -1,0 +1,71 @@
+{
+ "hm": {
+  "pattern": "www2.hm.com/en_us/productpage*",
+  "2018": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "http://www2.hm.com:80/en_us/productpage.0107713001.html",
+    "http://www2.hm.com:80/en_us/productpage.0107713002.html",
+    "http://www2.hm.com:80/en_us/productpage.0107713017.html",
+    "http://www2.hm.com:80/en_us/productpage.0107713018.html",
+    "http://www2.hm.com:80/en_us/productpage.0107713019.html"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www2.hm.com/en_us/productpage.0107713001.html",
+    "https://www2.hm.com/en_us/productpage.0107713002.html",
+    "https://www2.hm.com/en_us/productpage.0107713010.html",
+    "https://www2.hm.com/en_us/productpage.0107713019.html",
+    "https://www2.hm.com/en_us/productpage.0107721001.html"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www2.hm.com/en_us/productpage.0107713020.html",
+    "https://www2.hm.com/en_us/productpage.0107713021.html",
+    "https://www2.hm.com/en_us/productpage.0107713023.html",
+    "https://www2.hm.com/en_us/productpage.0107713024.html",
+    "https://www2.hm.com/en_us/productpage.0107713025.html"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www2.hm.com/en_us/productpage.0107713001.html",
+    "https://www2.hm.com/en_us/productpage.0107713002.html",
+    "https://www2.hm.com/en_us/productpage.0107713039.html",
+    "https://www2.hm.com/en_us/productpage.0107713048.html",
+    "https://www2.hm.com/en_us/productpage.0107713060.html"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www2.hm.com/en_us/productpage.0107713047.html",
+    "https://www2.hm.com/en_us/productpage.0107713063.html",
+    "https://www2.hm.com/en_us/productpage.0107727026.html",
+    "https://www2.hm.com/en_us/productpage.0107727062.html",
+    "https://www2.hm.com/en_us/productpage.0107727063.html"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 4033,
+   "product_like": 4033,
+   "sample": [
+    "https://www2.hm.com/en_us/productpage.0107713001.html",
+    "https://www2.hm.com/en_us/productpage.0107727063.html",
+    "https://www2.hm.com/en_us/productpage.0134916006.html",
+    "https://www2.hm.com/en_us/productpage.0184136002.html",
+    "https://www2.hm.com/en_us/productpage.0188589001.html"
+   ]
+  }
+ }
+}

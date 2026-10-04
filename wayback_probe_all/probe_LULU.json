@@ -1,0 +1,63 @@
+{
+ "lululemon": {
+  "pattern": "shop.lululemon.com/p/*",
+  "2018": {
+   "distinct_urls": 1383,
+   "product_like": 1383,
+   "sample": [
+    "https://shop.lululemon.com/p/all-gifts-for-her/Scuba-Hoodie-IV/_/prod8351133",
+    "https://shop.lululemon.com/p/all-gifts-for-her/Scuba-Hoodie-IV/_/prod8351133?color=35476",
+    "https://shop.lululemon.com/p/bags/Acute-Tote-23L/_/prod8780421",
+    "https://shop.lululemon.com/p/bags/Acute-Tote-23L/_/prod8780421?color=31882",
+    "https://shop.lululemon.com/p/bags/Acute-Tote-23L/_/prod8780421?color=36463"
+   ]
+  },
+  "2019": {
+   "error": "ERR HTTP Error 504: Gateway Time-out"
+  },
+  "2020": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://shop.lululemon.com/p/abc-pants/ABC-Jogger-Light/_/prod9450014",
+    "https://shop.lululemon.com/p/abc-pants/ABC-Jogger-Light/_/prod9450014?color=LM5745S_0001&skuId=107380820&locale=en_US&sl=US&CAWELAID=120278590000747864&CID=Google_Men_Shopping%2BBrand_US&gclsrc=aw.ds&&gclid=EAIaIQobChMI7M_ive6F4wIVAqvsCh0zxwx-EAQYASABEgKCCfD_BwE",
+    "https://shop.lululemon.com/p/abc-pants/ABC-Jogger-Light/_/prod9450014?color=0001",
+    "https://shop.lululemon.com/p/abc-pants/ABC-Jogger-Light/_/prod9450014?color=LM5A07S-032894&skuId=117400860",
+    "https://shop.lululemon.com/p/accessories/Commission-Belt-MD/_/prod9370378?N=7qr&cnt=394&color=LM9AA9S_042899&rcnt=307"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://shop.lululemon.com/p/accessories/Both-Ways-Bucket-Hat-Update-MD/_/prod10210070?cid=aff_con&sv1=affiliate&sv_campaign_id=796935&awc=30347_1732348451_56e1750174878dd09d18c2f473e38eee",
+    "https://shop.lululemon.com/p/accessories/Cotton-Terry-Sweatband-MD/_/prod11240194",
+    "https://shop.lululemon.com/p/accessories/Cotton-Terry-Sweatband-MD/_/prod11240194?color=0002&cid=aff_con&sv1=affiliate&sv_campaign_id=299513&awc=30347_1716651353_f1734828933d65cc371df00897eac885",
+    "https://shop.lululemon.com/p/accessories/Cotton-Terry-Sweatband-MD/_/prod11240194?sz=ONESIZE&cid=aff_con&sv1=affiliate&sv_campaign_id=796935&awc=30347_1732348320_bb8603c3525d984d62c682124fae5a8b",
+    "https://shop.lululemon.com/p/accessories/Cotton-Terry-Sweatband-MD/_/prod11240194?sl=US&locale=en_US&msclkid=32f308dab7b01e159d086e24695e8400&gclid=32f308dab7b01e159d086e24695e8400&gclsrc=3p.ds&color=0002&cid=MSN_SHOP_US_NAT_EN_X_BrandShop_Accessories_ONLINE_GEN_Y24_ag-SHOP_B_US_EN_DM_X_GEN_NO_Accessories-All&sz=ONESIZE"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://shop.lululemon.com/p/accessories/Alpaca-Wool-Blend-Knit-Hood/_/prod20005079",
+    "https://shop.lululemon.com/p/accessories/Cotton-Terry-Wristbands-2-Pack/_/prod20003107",
+    "https://shop.lululemon.com/p/accessories/Cotton-Terry-Wristbands-2-Pack/_/prod20003107?color=68578",
+    "https://shop.lululemon.com/p/accessories/Culver-Bag-Strap-Erewhon/_/prod20003931?awc=30347_1761252013_fd1ea17769f919ea047f8cd8e2298b31&color=0001&cid=aff_inf&sv1=affiliate&sv_campaign_id=136348",
+    "https://shop.lululemon.com/p/accessories/Everywhere-Belt-Bag-Extended-Strap/_/prod10990066?CID=Google_Accessories_Shopping%2BBrand_US_ag%3DBags&color=55857&gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOUBKzjndeEVTjG3Y7hqfWr616x5Q_QiyzeFPSFKMvRJM-4sma1PnzUaAl1uEALw_wcB&gclsrc=aw.ds&locale=en_US&sl=US&sz=ONESIZE"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://shop.lululemon.com/p/3-in-1-gym-duffle-bag-large-35l/cc0bzvgp2g",
+    "https://shop.lululemon.com/p/3-in-1-gym-duffle-bag-large-35l/cc0bzvgp2g?color=75965&cid=aff_con&sv1=affiliate&sv_campaign_id=231761&awc=30347_1770414461_d3f27e664d22db8e2350cb257f6ac5a2",
+    "https://shop.lululemon.com/p/3-in-1-gym-duffle-bag-large-35l/cc0bzvgp2g?color=75965&cid=aff_con&sv1=affiliate&sv_campaign_id=231761&awc=30347_1770414463_7456caaed7808edfc053507dfbd91c1f",
+    "https://shop.lululemon.com/p/3-in-1-gym-duffle-bag-large-35l/cc0bzvgp2g?color=75965",
+    "https://shop.lululemon.com/p/3-in-1-gym-duffle-bag-large-35l/cc0bzvgp2g?color=76464"
+   ]
+  }
+ }
+}

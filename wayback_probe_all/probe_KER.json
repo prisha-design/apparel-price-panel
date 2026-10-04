@@ -1,0 +1,230 @@
+{
+ "gucci": {
+  "pattern": "gucci.com/us/en/pr/*",
+  "2018": {
+   "distinct_urls": 808,
+   "product_like": 808,
+   "sample": [
+    "https://www.gucci.com/us/en/pr/beauty/lips/lipstick/iconic-red-audacious-color-intense-lipstick-p-3675299PLP16555",
+    "https://www.gucci.com/us/en/pr/beauty/lips/lipstick/iconic-red-luxurious-pigment-rich-lipstick-p-3675299PLP16555",
+    "https://www.gucci.com/us/en/pr/c/basket-top-handle-bag-p-494340JCI1T9560",
+    "https://www.gucci.com/us/en/pr/c/basket-top-handle-bag-p-494340JCI1T9560?siteID=25ZRSXYPVYg-2CjHYW44rGeQHK364JYdkQ",
+    "https://www.gucci.com/us/en/pr/c/embroidered-denim-jacket-with-shearling-p-408623XR2404417"
+   ]
+  },
+  "2019": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-men/gucci-guilty/gucci-guilty-50ml-eau-de-toilette-p-424001999990099?position=25&listName=ProductGrid&categoryPath=Beauty/Fragrances/Fragrances-for-Men",
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-men/gucci-guilty/gucci-guilty-50ml-eau-de-toilette-p-424001999990099?position=26&listName=ProductGrid&categoryPath=Beauty/Fragrances/Fragrances-for-Men",
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-men/gucci-guilty/gucci-guilty-90ml-eau-de-toilette-p-262567999990099?position=21&listName=ProductGrid&categoryPath=Beauty/Fragrances/Fragrances-for-Men",
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-men/gucci-guilty/gucci-guilty-90ml-eau-de-toilette-p-424002999990099?position=25&listName=ProductGrid&categoryPath=Beauty/Fragrances/Fragrances-for-Men",
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-men/gucci-guilty/gucci-guilty-90ml-eau-de-toilette-p-424002999990099?position=21&listName=ProductGrid&categoryPath=Fragrances/Fragrances-for-Men"
+   ]
+  },
+  "2020": {
+   "distinct_urls": 3506,
+   "product_like": 3506,
+   "sample": [
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-men/gucci-oud/the-voice-of-the-snake-oud-100ml-eau-de-parfum-p-548628999990099?position=1&listName=ProductGrid&categoryPath=Fragrances/Fragrances-for-Men",
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-women/a-midnight-stroll-incense-100ml-eau-de-parfum-p-624466999990099",
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-women/a-nocturnal-whisper-oud-20ml-perfumed-oil-p-548762999990099",
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-women/a-song-for-the-rose-rose-100ml-eau-de-parfum-p-548627999990099?position=2&listName=ProductGrid&categoryPath=Fragrances/Fragrances-for-Men",
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-women/gucci-bamboo/gucci-bamboo-50ml-eau-de-parfum-p-401268999990099"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-men/gucci-guilty-for-men/gucci-guilty-elixir-de-parfum-pour-homme-60ml-p-765589999990099",
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-men/gucci-guilty-for-men/gucci-guilty-essence-pour-homme-eau-de-toilette-90ml-p-802062999990099",
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-men/gucci-guilty-for-men/gucci-guilty-parfum-pour-homme-90ml-p-703097999990099",
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-men/gucci-guilty-for-men/gucci-guilty-parfum-pour-homme-p-703099999990099",
+    "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-men/gucci-guilty-for-men/gucci-guilty-pour-homme-90ml-eau-de-parfum-p-613748999990099"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 5000,
+   "sample": [
+    "https://www.gucci.com/us/en/pr/beauty/01-poudre-de-beaute-eclat-soleil-powder-p-6249759PBR20001",
+    "https://www.gucci.com/us/en/pr/beauty/03-limited-edition-gucci-glow-highlighter-powder-p-8419179PRD99003",
+    "https://www.gucci.com/us/en/pr/beauty/06-limited-edition-gucci-glow-highlighter-powder-p-8419179PRD99006",
+    "https://www.gucci.com/us/en/pr/beauty/120-sonia-light-beige-rouge-a-levres-mat-lipstick-p-6112349PL129120",
+    "https://www.gucci.com/us/en/pr/beauty/122-eliza-ginger-rouge-a-levres-mat-lipstick-p-6112349PL129122"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 4433,
+   "product_like": 4433,
+   "sample": [
+    "https://www.gucci.com/us/en/pr/beauty/120-sonia-light-beige-rouge-a-levres-mat-lipstick-p-6112349PL129120",
+    "https://www.gucci.com/us/en/pr/beauty/122-eliza-ginger-rouge-a-levres-mat-lipstick-p-6112349PL129122",
+    "https://www.gucci.com/us/en/pr/beauty/201-the-painted-veil-rouge-a-levres-mat-lipstick-p-6112349PL129201",
+    "https://www.gucci.com/us/en/pr/beauty/201-the-painted-veil-rouge-a-levres-voile-lipstick-p-5861699PLP89201",
+    "https://www.gucci.com/us/en/pr/beauty/201-the-painted-veil-rouge-a-levres-voile-lipstick-p-5861699PLP89201?srsltid=AfmBOoosm3NvVI7zRD6Cx24M38SgSfm5kqAltPgWOIZI3NhknKs41cy3"
+   ]
+  }
+ },
+ "ysl": {
+  "pattern": "ysl.com/en-us/*",
+  "2018": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2019": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2020": {
+   "distinct_urls": 3384,
+   "product_like": 2870,
+   "sample": [
+    "https://www.ysl.com/en-us/backpacks/cit-e-backpack-in-canvas-with-jacquard%E2%84%A2-by-google-5793639W0AF1000.html",
+    "https://www.ysl.com/en-us/backpacks/city-backpack-in-cotton-canvas-534967GOA5F2466.html",
+    "https://www.ysl.com/en-us/backpacks/city-backpack-in-nylon-canvas-and-leather-534967GIV3F1000.html?dwvar_534967GIV3F1000_color=1000",
+    "https://www.ysl.com/en-us/backpacks/city-backpack-in-nylon-canvas-and-leather-534967GIV3F1000.html?dwvar_534967GIV3F1000_color=1167",
+    "https://www.ysl.com/en-us/backpacks/city-backpack-in-nylon-canvas-and-leather-534967GIV3F1167.html"
+   ]
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 3973,
+   "sample": [
+    "https://www.ysl.com/en-us/-laguna~b-tumbler-in-glass-813294795.html",
+    "https://www.ysl.com/en-us/all-accessories/trilby-hat-in-straw-7338623YN229200.html",
+    "https://www.ysl.com/en-us/all-bags/bold-east-west-shopping-bag-in-grained-leather-683655B680N1000.html",
+    "https://www.ysl.com/en-us/all-bags/le-monogramme-crossbody-bag-in-cassandre-canvas-and-smooth-leather-667490FABLK2166.html",
+    "https://www.ysl.com/en-us/all-bags/le-monogramme-crossbody-bag-in-cassandre-canvas-and-smooth-leather-667490FABLK2166.html?utm_campaign=linkshare_affiliation_us&utm_medium=affiliate&ranSiteID=25ZRSXYPVYg-lZUB6bobSOSX5jBG5OEaHA&ranMID=43329&tp=161532&ranEAID=25ZRSXYPVYg&utm_source=linkshare"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 4582,
+   "sample": [
+    "https://www.ysl.com/en-us/ca/new-arrivals/highlights/icare-women?tp=161532&ranMID=43329&ranEAID=25ZRSXYPVYg&ranSiteID=25ZRSXYPVYg-PpIQAqrBE11tID38NUQnWg",
+    "https://www.ysl.com/en-us/ca/new-arrivals/highlights/icare-women?tp=161532&utm_source=linkshare&utm_medium=affiliate&utm_campaign=linkshare_affiliation_us&ranMID=43329&ranEAID=25ZRSXYPVYg&ranSiteID=25ZRSXYPVYg-PpIQAqrBE11tID38NUQnWg",
+    "https://www.ysl.com/en-us/ca/new-arrivals/highlights/le-5-a-7-women?tp=161532&ranMID=43329&ranEAID=25ZRSXYPVYg&ranSiteID=25ZRSXYPVYg-9Ed.AXNjhbUF8ZYAe.fbJg",
+    "https://www.ysl.com/en-us/ca/new-arrivals/highlights/le-5-a-7-women?tp=161532&utm_source=linkshare&utm_medium=affiliate&utm_campaign=linkshare_affiliation_us&ranMID=43329&ranEAID=25ZRSXYPVYg&ranSiteID=25ZRSXYPVYg-9Ed.AXNjhbUF8ZYAe.fbJg",
+    "https://www.ysl.com/en-us/ca/new-arrivals/highlights/sac-de-jour-women?utm_campaign=YSL%7CIT%7C2025%7CSS%7CCEN%7CSA%7CFSH%7CUPP%7CVCO%7CBND%7CWMN%7Cspring_25_women~PHASE1-INTERESTS-EU-IG-R2025/13982-019102&utm_content=collection_acc_sdj&utm_medium=paidsocial&utm_source=instagram&utm_term=consideration"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 2918,
+   "product_like": 2512,
+   "sample": [
+    "https://www.ysl.com/en-us/ca/shop-men/ready-to-wear/jackets-and-pants?tp=161532&ranMID=43329&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-Ngzw5Hw7LfYspBkTDplRpw",
+    "https://www.ysl.com/en-us/ca/shop-men/ready-to-wear/jackets-and-pants?tp=161532&utm_source=linkshare&utm_medium=affiliate&utm_content=Skimlinks.com_2116208&ranMID=43329&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-Ngzw5Hw7LfYspBkTDplRpw&utm_campaign=unassigned",
+    "https://www.ysl.com/en-us/ca/shop-women/handbags?utm_source=google&utm_source_platform=SA360&utm_medium=cpc&utm_campaign=US%7CEN%7CSRC%7CBrand%7CBags%7CU%7C/&utm_id=216442128&gclsrc=aw.ds&gad_source=1&gad_campaignid=216442128&gbraid=0AAAAADozE2gIVn3RWEjQKqTCT8xJ7aWej&gclid=CjwKCAjw5NvPBhAoEiwA_2egfqvUQrkHQLKmYHaMtdzvjlvmCkSlWXKotz7DKGT2RoMTrmmPrcGWcRoC5mUQAvD_BwE",
+    "https://www.ysl.com/en-us/ca/shop-women/handbags?utm_source_platform=SA360&utm_id=216442128&gclsrc=aw.ds&gad_source=1&gad_campaignid=216442128&gbraid=0AAAAADozE2gIVn3RWEjQKqTCT8xJ7aWej",
+    "https://www.ysl.com/en-us/ca/shop-women/jewelry/earrings?utm_source=google&utm_source_platform=SA360&utm_medium=cpc&utm_campaign=US%7CEN%7CSRC%7CBrand%7CJewellery%7CU%7C/&utm_id=216442848&gclsrc=aw.ds&gad_source=1&gad_campaignid=216442848&gbraid=0AAAAADozE2h5BjeBh3s4MxamnN47NAvGP&gclid=CjwKCAjwhqfPBhBWEiwAZo196oUWepCFFwwbYP63gXKo4z0Vcp7rWkiZ8KQt1AhrpOCH8O3HqCAurRoC_GsQAvD_BwE"
+   ]
+  }
+ },
+ "bottega": {
+  "pattern": "bottegaveneta.com/en-us/*",
+  "2018": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2019": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2020": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 4195,
+   "sample": [
+    "https://www.bottegaveneta.com/en-us/%E2%80%9Ccome-stai-%E2%80%9D-chair-%E2%80%93-terms-and-conditions-of-sale/ChairTandC.html",
+    "https://www.bottegaveneta.com/en-us/--crossroad-buckle-tote-light-graphite-776201VCQGC1425.html",
+    "https://www.bottegaveneta.com/en-us/accademia-labor-et-ingenium/accademia-labor-et-ingenium.html",
+    "https://www.bottegaveneta.com/en-us/accademia-labor-et-ingenium/accademia-labor-et-ingenium.html?utm_campaign=futurepublishing&utm_source=partnerize&utm_medium=affiliation",
+    "https://www.bottegaveneta.com/en-us/achille-boot-black-796494V3H901000.html"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 3784,
+   "sample": [
+    "https://www.bottegaveneta.com/en-us/--crossroad-buckle-tote-light-graphite-776201VCQGC1425.html",
+    "https://www.bottegaveneta.com/en-us/-zip-tape-weekender-black-815814V2HL18803.html?dwvar_815814V2HL18803_color=8803",
+    "https://www.bottegaveneta.com/en-us/13-2024_3_7G_013.html",
+    "https://www.bottegaveneta.com/en-us/15-2024_3_7G_015.html",
+    "https://www.bottegaveneta.com/en-us/31-2025_1_70_031.html"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 4203,
+   "product_like": 3489,
+   "sample": [
+    "https://www.bottegaveneta.com/en-us/-andiamo-messenger-black-807715V4FW28803.html",
+    "https://www.bottegaveneta.com/en-us/-andiamo-messenger-cloudy-indigo-gravel-807715V6FQ24547.html",
+    "https://www.bottegaveneta.com/en-us/-scale-intreccio-leather-top-burnt-umber-853928V6BW02403.html",
+    "https://www.bottegaveneta.com/en-us/-silk-boucle-polo-night-residue-871403V6MD04204.html",
+    "https://www.bottegaveneta.com/en-us/26-2024_1_71_026.html"
+   ]
+  }
+ },
+ "balenciaga": {
+  "pattern": "balenciaga.com/en-us/*",
+  "2018": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2019": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2020": {
+   "distinct_urls": 0,
+   "product_like": 0,
+   "sample": []
+  },
+  "2024": {
+   "distinct_urls": 5000,
+   "product_like": 3142,
+   "sample": [
+    "https://www.balenciaga.com/en-us/-flatground-shirt--black-white-814598TRM231070.html",
+    "https://www.balenciaga.com/en-us/10xl-sneaker-black-792778W2MV21000.html",
+    "https://www.balenciaga.com/en-us/10xl-sneaker-black-792778W2MV21000.html?dwvar_792778W2MV21000_color=1510",
+    "https://www.balenciaga.com/en-us/10xl-sneaker-black-792779W2MV21000.html",
+    "https://www.balenciaga.com/en-us/10xl-sneaker-grey-pink-black-792778W2MV21510.html"
+   ]
+  },
+  "2025": {
+   "distinct_urls": 5000,
+   "product_like": 3620,
+   "sample": [
+    "https://www.balenciaga.com/en-us/100%25-parfum-colorless-814019640.html",
+    "https://www.balenciaga.com/en-us/100%25-parfum-colorless-848955T00589980.html",
+    "https://www.balenciaga.com/en-us/100%25-parfum-colorless-848955T00589980.html?tp=53670&ranMID=38847&ranEAID=2116208&ranSiteID=TnL5HPStwNw-DNOtIWHNdtyoR17P.W_66A",
+    "https://www.balenciaga.com/en-us/100%25-parfum-colorless-848955T00589980.html?tp=53670&utm_campaign=Skimlinks.com&utm_content=&utm_medium=affiliate&utm_source=linkshare&utm_term=&ranMID=38847&ranEAID=2116208&ranSiteID=TnL5HPStwNw-DNOtIWHNdtyoR17P.W_66A",
+    "https://www.balenciaga.com/en-us/100%25-parfum-colorless-848955T00589980.html?tp=53670&ranMID=38847&ranEAID=2116208&ranSiteID=TnL5HPStwNw-fdPzL2GhaQjt1B8b31x_TQ"
+   ]
+  },
+  "2026": {
+   "distinct_urls": 5000,
+   "product_like": 2988,
+   "sample": [
+    "https://www.balenciaga.com/en-us/100%25-hair-mist-colorless-A0042ZT00589980.html",
+    "https://www.balenciaga.com/en-us/100%25-parfum-colorless-848955T00589980.html",
+    "https://www.balenciaga.com/en-us/100%25-parfum-colorless-848955T00589980.html?srsltid=AfmBOopmdraJP4jKeZ_1haPgl4gSjXMoPCBuVR6-j2V1cfnR3KV-7IMy",
+    "https://www.balenciaga.com/en-us/100%25-parfum-refill-colorless-849758T00589980.html",
+    "https://www.balenciaga.com/en-us/24-7-mask-sunglasses--black-806340T00071000.html"
+   ]
+  }
+ }
+}
