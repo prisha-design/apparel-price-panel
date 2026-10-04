@@ -28,17 +28,52 @@ def cdx(frm, to):
         parts = line.split(" ")
         if len(parts) != 3: continue
         k, ts, orig = parts
-        k = k.split("?")[0]
-        rows[k].setdefault(ts[:6], (ts, orig))
+        code = product_code(orig)
+        if code:
+            rows[code].setdefault(ts[:6], (ts, orig))
+        sl = slug(orig)
+        if sl:
+            rows["SLUG:" + sl].setdefault(ts[:6], (ts, orig))
     return rows
+def slug(url):
+    """Product name part of the address with any codes removed, e.g. neverfull-mm-monogram."""
+    path = url.split("?")[0].split("#")[0]
+    if not PRODLIKE.search(url):
+        return None
+    segs = [x for x in path.split("/") if x]
+    if not segs: return None
+    last = segs[-1].replace(".html", "")
+    if len(last) < 12 and len(segs) > 1: last = segs[-2]
+    toks = [t for t in re.split(r"[-_.]", last.lower()) if t and not any(ch.isdigit() for ch in t) and t not in ("p", "prod", "html")]
+    return "-".join(toks) if len(toks) >= 3 else None
+# Product pages change address over the years (new site designs), but the style
+# number in the address usually survives. Match products across years on that code.
+PRODLIKE = re.compile(r"(/p/|/pr/|/products?/|/shop/|productpage|product\.do|/prod|-p\d|\.html)", re.I)
+CODE = re.compile(r"[A-Za-z]{0,6}\d{4,}[A-Za-z0-9]{0,10}")
+def product_code(url):
+    u = url.split("#")[0]
+    path, _, query = u.partition("?")
+    if not PRODLIKE.search(u):
+        return None
+    segs = [x for x in path.split("/") if x][-3:]
+    cands = []
+    for sg in reversed(segs):
+        for tok in reversed(re.split(r"[-_.]", sg)):
+            if CODE.fullmatch(tok) and sum(ch.isdigit() for ch in tok) >= 4:
+                cands.append(tok)
+    for m in re.finditer(r"(?:pid|productId|prod|style)=([A-Za-z0-9]{5,})", query):
+        cands.append(m.group(1))
+    cands = [c for c in cands if not re.fullmatch(r"20[12]\d{3,}", c)]
+    return cands[0].upper() if cands else None
 os.makedirs("out", exist_ok=True)
 A = cdx("201801", "202002"); time.sleep(5)
 B = cdx("202406", "202609")
 both = [(min(len(A[k]), len(B[k])), k) for k in A if k in B and len(A[k]) >= 2 and len(B[k]) >= 2]
-both.sort(reverse=True)
+# prefer style-code matches; use name matches only where no code match exists
+both.sort(key=lambda x: (not x[1].startswith("SLUG:"), x[0]), reverse=True)
 chosen = [k for _, k in both[:N]]
-summary = {"brand": brand, "pattern": pat, "urls_window_A": len(A), "urls_window_B": len(B),
-           "urls_in_both": len(both), "chosen": [(k, len(A[k]), len(B[k])) for k in chosen]}
+summary = {"brand": brand, "pattern": pat, "codes_window_A": len(A), "codes_window_B": len(B),
+           "codes_in_both": len(both), "chosen": [(k, len(A[k]), len(B[k])) for k in chosen]}
 json.dump(summary, open(f"out/summary_{brand}.json", "w"), indent=1)
 print(json.dumps(summary)[:1500], flush=True)
 PRICE_PATTERNS = [
@@ -52,7 +87,7 @@ CUR = re.compile(r'"priceCurrency"\s*:\s*"([A-Z]{3})"|product:price:currency"\s+
 TITLE = re.compile(r"<title[^>]*>(.*?)</title>", re.S | re.I)
 with open(f"out/prices_{brand}.csv", "w", newline="") as f:
     w = csv.writer(f)
-    w.writerow(["brand", "product_urlkey", "window", "month", "snapshot_timestamp", "snapshot_url", "page_title", "price", "currency", "method"])
+    w.writerow(["brand", "product_code", "window", "month", "snapshot_timestamp", "snapshot_url", "page_title", "price", "currency", "method"])
     for k in chosen:
         for win, D in (("A_2018_2020", A), ("B_2024_2026", B)):
             for month, (ts, orig) in sorted(D[k].items()):
