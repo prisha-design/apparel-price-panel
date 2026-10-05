@@ -1,0 +1,15 @@
+brand,product_code,window,month,snapshot_timestamp,snapshot_url,page_title,price,currency,method
+coach,W6132,A_2018_2020,201805,20180528031658,https://web.archive.org/web/20180528031658/https://www.coach.com/coach-apple-watch%C2%AE-strap-with-tea-rose/W6132.html,COACH: Apple Watch® Strap With Tea Rose,,USD,no_price_found
+coach,W6132,A_2018_2020,201806,20180604062215,https://web.archive.org/web/20180604062215/https://www.coach.com/coach-apple-watch%C2%AE-strap-with-tea-rose/W6132.html,COACH: Apple Watch® Strap With Tea Rose,175.00,USD,jsonld_offer_price
+coach,W6132,A_2018_2020,201911,20191102101504,https://web.archive.org/web/20191102101504/https://www.coach.com/coach-apple-watch%C2%AE-strap-with-tea-rose/W6132.html,Apple Watch® Strap With Tea Rose | COACH,175.00,USD,jsonld_offer_price
+coach,W6132,B_2024_2026,202412,20241210141035,https://web.archive.org/web/20241210141035/https://www.coach.com/products/apple-watch%C2%AE-strap-with-tea-rose/W6132-BPN4N.html?,"COACH® | Apple Watch® Strap With Tea Rose, 38 Mm",,,no_price_found
+coach,W6132,B_2024_2026,202501,20250123094406,https://web.archive.org/web/20250123094406/https://www.coach.com/products/apple-watch%C2%AE-strap-with-tea-rose/W6132-CMB.html?,"COACH® | Apple Watch® Strap With Tea Rose, 38 Mm",87.5,USD,jsonld_offer_price
+coach,SLUG:www-coach-com,A_2018_2020,201805,20180509174505,https://web.archive.org/web/20180509174505/https://www.coach.com/privacy.html?LOC=BN,COACH: Security and Privacy,,,no_price_found
+coach,SLUG:www-coach-com,A_2018_2020,201910,20191018024314,https://web.archive.org/web/20191018024314/https://www.coach.com/34164.html,| COACH,15.00,USD,jsonld_offer_price
+coach,SLUG:www-coach-com,A_2018_2020,201911,20191119121739,https://web.archive.org/web/20191119121739/https://www.coach.com/91468.html,,,,fetch_failed
+coach,SLUG:www-coach-com,A_2018_2020,201912,20191202181143,https://web.archive.org/web/20191202181143/https://www.coach.com/privacy.html,COACH: Security and Privacy,,,no_price_found
+coach,SLUG:www-coach-com,B_2024_2026,202412,20241225004705,https://web.archive.org/web/20241225004705/https://www.coach.com/ccpa-form.html,,,,no_price_found
+coach,SLUG:www-coach-com,B_2024_2026,202501,20250120114126,https://web.archive.org/web/20250120114126/https://www.coach.com/coach-story.html,,,,no_price_found
+coach,SLUG:www-coach-com,B_2024_2026,202509,20250910164305,https://web.archive.org/web/20250910164305/https://www.coach.com/klarna-faq.html?utm_medium=em_mktg&utm_source=SFMC&utm_campaign=20250714_WK3_COH_RTL_ShadesofSummer_Segment__FY26_NA______&utm_term=RTL_BAU_Most&ogmap=EM%7CMKTG%7CSF%7C%7C%7C%7CRETAIL%7C20250714_WK3_COH_RTL_ShadesofSummer_Segment__FY26_NA______&ogemh=eec94fa6bb23ad2ee8a8bf01c001257e0748c66b45a5a687eccb8058cf1cbf4a&mi_u=49704984&utm_id=418676&utm_content=Klarna&sfmc_id=77385271,Klarna FAQ,,,no_price_found
+coach,SLUG:www-coach-com,B_2024_2026,202510,20251001130610,https://web.archive.org/web/20251001130610/https://www.coach.com/klarna-faq.html,,,,fetch_failed
+coach,SLUG:www-coach-com,B_2024_2026,202511,20251104145334,https://web.archive.org/web/20251104145334/https://www.coach.com/klarna-faq.html,,,,no_price_found
