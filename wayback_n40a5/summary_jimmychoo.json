@@ -1,0 +1,29 @@
+{
+ "brand": "jimmychoo",
+ "pattern": "jimmychoo.com/*",
+ "codes_window_A": 470,
+ "codes_window_B": 200,
+ "codes_in_both": 4,
+ "chosen": [
+  [
+   "SLUG:terms-and-conditions-of-sale",
+   3,
+   3
+  ],
+  [
+   "SLUG:black-smooth-leather-biker-boots",
+   4,
+   3
+  ],
+  [
+   "SLUG:champagne-glitter-leather-sandals",
+   5,
+   3
+  ],
+  [
+   "SLUG:platinum-ice-dusty-glitter-pointy-toe-pumps",
+   3,
+   3
+  ]
+ ]
+}

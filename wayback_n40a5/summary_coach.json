@@ -1,0 +1,19 @@
+{
+ "brand": "coach",
+ "pattern": "coach.com/*",
+ "codes_window_A": 1969,
+ "codes_window_B": 1256,
+ "codes_in_both": 2,
+ "chosen": [
+  [
+   "W6132",
+   3,
+   2
+  ],
+  [
+   "SLUG:www-coach-com",
+   4,
+   5
+  ]
+ ]
+}
