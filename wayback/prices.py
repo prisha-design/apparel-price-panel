@@ -69,7 +69,7 @@ def product_code(url):
         for tok in reversed(re.split(r"[-_.]", sg)):
             if CODE.fullmatch(tok) and sum(ch.isdigit() for ch in tok) >= 4:
                 # skip degenerate tokens (0000, 1000, sizes) that pool many products under one key
-                if len(set(tok)) < 3 or (tok.isdigit() and len(tok) < 6):
+                if len(set(tok)) < 3 or (tok.isdigit() and len(tok) < 5):
                     continue
                 cands.append(tok)
     for m in re.finditer(r"(?:pid|productId|prod|style)=([A-Za-z0-9]{5,})", query):
