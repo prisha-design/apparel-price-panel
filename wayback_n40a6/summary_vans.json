@@ -1,0 +1,34 @@
+{
+ "brand": "vans",
+ "pattern": "vans.com/*",
+ "codes_window_A": 4537,
+ "codes_window_B": 8780,
+ "codes_in_both": 5,
+ "chosen": [
+  [
+   "SLUG:old-skool-backpack",
+   4,
+   10
+  ],
+  [
+   "SLUG:infant-hi-crib-shoe",
+   3,
+   3
+  ],
+  [
+   "SLUG:drill-chore-coat",
+   2,
+   4
+  ],
+  [
+   "SLUG:infant-old-skool-crib-shoe",
+   2,
+   3
+  ],
+  [
+   "SLUG:drill-chore-jacket",
+   2,
+   2
+  ]
+ ]
+}
