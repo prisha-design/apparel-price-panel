@@ -1,18 +1,18 @@
-1108 priced observations, 3 days, 8 retailers
+1498 priced observations, 4 days, 8 retailers
 
-american_eagle   days=  3 products_today=  50 origin_share= 0.0% index_latest=102.9
+american_eagle   days=  4 products_today=  50 origin_share= 0.0% index_latest=102.9
                  origin mix: {'none': 50}
-athleta          days=  3 products_today=  50 origin_share=100.0% index_latest=129.8
+athleta          days=  4 products_today=  50 origin_share=100.0% index_latest=129.8
                  origin mix: {'Imported': 42}
-banana_republic  days=  3 products_today=  50 origin_share=100.0% index_latest=100.0
+banana_republic  days=  4 products_today=  50 origin_share=100.0% index_latest=100.0
                  origin mix: {'Imported': 48, 'Portugal': 2}
-burberry         days=  3 products_today=  41 origin_share= 2.5% index_latest=100.0
+burberry         days=  4 products_today=  41 origin_share= 2.5% index_latest=100.0
                  origin mix: {'none': 40, 'Italy': 1}
-everlane         days=  3 products_today=  50 origin_share= 0.0% index_latest=100.0
+everlane         days=  4 products_today=  50 origin_share= 0.0% index_latest=73.7
                  origin mix: {'none': 50}
-gap              days=  3 products_today=  50 origin_share=100.0% index_latest=79.6
+gap              days=  4 products_today=  50 origin_share=100.0% index_latest=93.0
                  origin mix: {'Imported': 50}
-jcrew            days=  3 products_today=  48 origin_share=100.0% index_latest=100.0
+jcrew            days=  4 products_today=  49 origin_share=100.0% index_latest=100.0
                  origin mix: {'Imported': 36}
-old_navy         days=  3 products_today=  50 origin_share=100.0% index_latest=100.0
+old_navy         days=  4 products_today=  50 origin_share=100.0% index_latest=103.5
                  origin mix: {'Imported': 50}
