@@ -1,0 +1,22 @@
+name: wayback-backfill-day
+# Looks for archived copies of the panel products on a day the scraper missed.
+# Results come back as a downloadable artifact; nothing is committed to the repo.
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Missed UTC date, YYYY-MM-DD"
+        required: true
+        default: "2026-10-05"
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - run: python wayback/backfill_day.py "${{ inputs.date }}"
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: backfill-${{ inputs.date }}
+          path: out/

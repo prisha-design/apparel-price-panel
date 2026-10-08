@@ -4,6 +4,9 @@ on:
   schedule:
     # 11:00 UTC daily = 07:00 New York. Cron is UTC. GitHub may delay by up to ~30 min.
     - cron: "0 11 * * *"
+    # Backup slot: if the 11:00 run was lost or cancelled, this one collects the day.
+    # If today's data folder already exists it stops straight away and changes nothing.
+    - cron: "0 15 * * *"
   workflow_dispatch:
     inputs:
       only:
@@ -41,19 +44,32 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Already collected today?
+        id: guard
+        if: github.event_name == 'schedule'
+        run: |
+          if [ -d "data/$(date -u +%F)" ]; then
+            echo "data/$(date -u +%F) exists; backup run has nothing to do"
+            echo "done=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-python@v5
+        if: steps.guard.outputs.done != 'true'
         with:
           python-version: "3.12"
 
       - name: Install
+        if: steps.guard.outputs.done != 'true'
         run: |
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
       - name: Where is this runner?
+        if: steps.guard.outputs.done != 'true'
         run: curl -s https://ipinfo.io/json || true
 
       - name: Scrape
+        if: steps.guard.outputs.done != 'true'
         env:
           ONLY: ${{ github.event.inputs.only }}
           MAX_PRODUCTS: ${{ github.event.inputs.max_products }}
@@ -64,11 +80,11 @@ jobs:
           python scrape.py 2>&1 | tee logs/last_run_output.log
 
       - name: Summary
-        if: always()
+        if: always() && steps.guard.outputs.done != 'true'
         run: python summarise.py 2>&1 | tee logs/last_summary.txt || true
 
       - name: Commit data
-        if: always() && (github.event_name == 'schedule' || github.event.inputs.commit == 'true')
+        if: always() && steps.guard.outputs.done != 'true' && (github.event_name == 'schedule' || github.event.inputs.commit == 'true')
         run: |
           git config user.name "scraper-bot"
           git config user.email "scraper-bot@users.noreply.github.com"
