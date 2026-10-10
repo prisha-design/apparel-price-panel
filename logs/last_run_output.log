@@ -1,42 +1,41 @@
-[17:23:11] == Burberry US (burberry)
-[17:23:23]   listing https://us.burberry.com/l/mens-clothing/ -> 36 product links
-[17:23:24]   panel size 50 (+9 new)
-[17:28:42]   25/50 products
-[17:34:05]   50/50 products
-[17:34:06]   done: 50/50 with price, 1 with origin
-[17:34:06] == J.Crew US (jcrew)
-[17:34:07]   panel size 50 (+0 new)
-[17:38:29]   25/50 products
-[17:42:39]   50/50 products
-[17:42:42]   done: 50/50 with price, 50 with origin
-[17:42:42] == Banana Republic US (banana_republic)
-[17:42:43]   panel size 50 (+0 new)
-[17:46:33]   25/50 products
-[17:50:51]   50/50 products
-[17:50:53]   done: 49/50 with price, 49 with origin
-[17:50:54] == Everlane US (everlane)
-[17:50:54]   panel size 50 (+0 new)
-[17:55:39]   25/50 products
-[18:00:29]   50/50 products
-[18:00:31]   done: 50/50 with price, 0 with origin
-[18:00:31] == Athleta US (athleta)
-[18:00:31]   panel size 50 (+0 new)
-[18:05:31]   25/50 products
-[18:10:42]   50/50 products
-[18:10:44]   done: 50/50 with price, 50 with origin
-[18:10:45] == Gap US (gap)
-[18:10:45]   panel size 50 (+0 new)
-[18:15:19]   25/50 products
-[18:20:12]   50/50 products
-[18:20:13]   done: 50/50 with price, 50 with origin
-[18:20:13] == American Eagle US (american_eagle)
-[18:20:13]   panel size 50 (+0 new)
-[18:24:56]   25/50 products
-[18:29:35]   50/50 products
-[18:29:37]   done: 50/50 with price, 0 with origin
-[18:29:37] == Old Navy US (old_navy)
-[18:29:37]   panel size 50 (+0 new)
-[18:34:19]   25/50 products
-[18:39:23]   50/50 products
-[18:39:25]   done: 50/50 with price, 50 with origin
-[18:39:25] finished, 400 rows
+[16:08:40] == Burberry US (burberry)
+[16:08:40]   panel size 50 (+0 new)
+[16:13:53]   25/50 products
+[16:19:21]   50/50 products
+[16:19:23]   done: 50/50 with price, 2 with origin
+[16:19:23] == J.Crew US (jcrew)
+[16:19:23]   panel size 50 (+0 new)
+[16:23:25]   25/50 products
+[16:27:15]   50/50 products
+[16:27:17]   done: 50/50 with price, 50 with origin
+[16:27:17] == Banana Republic US (banana_republic)
+[16:27:17]   panel size 50 (+0 new)
+[16:31:12]   25/50 products
+[16:35:18]   50/50 products
+[16:35:20]   done: 49/50 with price, 49 with origin
+[16:35:20] == Everlane US (everlane)
+[16:35:20]   panel size 50 (+0 new)
+[16:39:56]   25/50 products
+[16:44:34]   50/50 products
+[16:44:37]   done: 50/50 with price, 0 with origin
+[16:44:37] == Athleta US (athleta)
+[16:44:38]   panel size 50 (+0 new)
+[16:49:36]   25/50 products
+[16:54:43]   50/50 products
+[16:54:45]   done: 50/50 with price, 50 with origin
+[16:54:45] == Gap US (gap)
+[16:54:45]   panel size 50 (+0 new)
+[16:59:16]   25/50 products
+[17:04:04]   50/50 products
+[17:04:06]   done: 50/50 with price, 50 with origin
+[17:04:06] == American Eagle US (american_eagle)
+[17:04:06]   panel size 50 (+0 new)
+[17:08:35]   25/50 products
+[17:13:05]   50/50 products
+[17:13:07]   done: 50/50 with price, 0 with origin
+[17:13:07] == Old Navy US (old_navy)
+[17:13:07]   panel size 50 (+0 new)
+[17:17:40]   25/50 products
+[17:22:11]   50/50 products
+[17:22:14]   done: 50/50 with price, 50 with origin
+[17:22:14] finished, 400 rows
