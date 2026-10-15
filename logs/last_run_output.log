@@ -1,41 +1,41 @@
-[15:44:42] == Burberry US (burberry)
-[15:44:42]   panel size 50 (+0 new)
-[15:50:11]   25/50 products
-[15:55:46]   50/50 products
-[15:55:48]   done: 50/50 with price, 1 with origin
-[15:55:48] == J.Crew US (jcrew)
-[15:55:48]   panel size 50 (+0 new)
-[15:59:11]   25/50 products
-[16:02:42]   50/50 products
-[16:02:45]   done: 49/50 with price, 50 with origin
-[16:02:45] == Banana Republic US (banana_republic)
-[16:02:45]   panel size 50 (+0 new)
-[16:06:03]   25/50 products
-[16:09:27]   50/50 products
-[16:09:30]   done: 50/50 with price, 50 with origin
-[16:09:30] == Everlane US (everlane)
-[16:09:30]   panel size 50 (+0 new)
-[16:13:18]   25/50 products
-[16:17:05]   50/50 products
-[16:17:07]   done: 50/50 with price, 0 with origin
-[16:17:07] == Athleta US (athleta)
-[16:17:08]   panel size 50 (+0 new)
-[16:21:21]   25/50 products
-[16:25:50]   50/50 products
-[16:25:53]   done: 50/50 with price, 50 with origin
-[16:25:53] == Gap US (gap)
-[16:25:53]   panel size 50 (+0 new)
-[16:30:03]   25/50 products
-[16:33:54]   50/50 products
-[16:33:55]   done: 50/50 with price, 50 with origin
-[16:33:56] == American Eagle US (american_eagle)
-[16:33:56]   panel size 50 (+0 new)
-[16:37:30]   25/50 products
+[15:32:16] == Burberry US (burberry)
+[15:32:16]   panel size 50 (+0 new)
+[15:37:50]   25/50 products
+[15:43:33]   50/50 products
+[15:43:34]   done: 50/50 with price, 1 with origin
+[15:43:35] == J.Crew US (jcrew)
+[15:43:35]   panel size 50 (+0 new)
+[15:47:44]   25/50 products
+[15:51:36]   50/50 products
+[15:51:39]   done: 49/50 with price, 50 with origin
+[15:51:39] == Banana Republic US (banana_republic)
+[15:51:40]   panel size 50 (+0 new)
+[15:56:09]   25/50 products
+[16:00:51]   50/50 products
+[16:00:52]   done: 50/50 with price, 50 with origin
+[16:00:53] == Everlane US (everlane)
+[16:00:53]   panel size 50 (+0 new)
+[16:05:41]   25/50 products
+[16:10:30]   50/50 products
+[16:10:33]   done: 50/50 with price, 0 with origin
+[16:10:33] == Athleta US (athleta)
+[16:10:33]   panel size 50 (+0 new)
+[16:15:55]   25/50 products
+[16:21:25]   50/50 products
+[16:21:27]   done: 50/50 with price, 50 with origin
+[16:21:27] == Gap US (gap)
+[16:21:27]   panel size 50 (+0 new)
+[16:26:25]   25/50 products
+[16:31:01]   50/50 products
+[16:31:03]   done: 50/50 with price, 50 with origin
+[16:31:03] == American Eagle US (american_eagle)
+[16:31:03]   panel size 50 (+0 new)
+[16:36:08]   25/50 products
 [16:41:00]   50/50 products
 [16:41:02]   done: 50/50 with price, 0 with origin
 [16:41:02] == Old Navy US (old_navy)
 [16:41:02]   panel size 50 (+0 new)
-[16:44:31]   25/50 products
-[16:48:29]   50/50 products
-[16:48:31]   done: 50/50 with price, 50 with origin
-[16:48:31] finished, 400 rows
+[16:45:49]   25/50 products
+[16:50:34]   50/50 products
+[16:50:36]   done: 50/50 with price, 50 with origin
+[16:50:36] finished, 400 rows
