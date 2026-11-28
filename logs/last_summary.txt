@@ -1,18 +1,18 @@
-21716 priced observations, 55 days, 8 retailers
+22116 priced observations, 56 days, 8 retailers
 
-american_eagle   days= 53 products_today=  50 origin_share= 0.3% index_latest=74.6
+american_eagle   days= 54 products_today=  50 origin_share= 0.3% index_latest=74.6
                  origin mix: {'none': 50}
-athleta          days= 55 products_today=  50 origin_share=100.0% index_latest=115.1
+athleta          days= 56 products_today=  50 origin_share=100.0% index_latest=115.1
                  origin mix: {'Imported': 43}
-banana_republic  days= 55 products_today=  50 origin_share=100.0% index_latest=63.8
-                 origin mix: {'Imported': 58, 'Portugal': 2}
-burberry         days= 55 products_today=  50 origin_share= 2.1% index_latest=90.9
+banana_republic  days= 56 products_today=  50 origin_share=100.0% index_latest=63.8
+                 origin mix: {'Imported': 60, 'Portugal': 2}
+burberry         days= 56 products_today=  50 origin_share= 2.1% index_latest=90.9
                  origin mix: {'none': 52, 'Italy': 1}
-everlane         days= 55 products_today=  50 origin_share= 0.0% index_latest=62.6
+everlane         days= 56 products_today=  50 origin_share= 0.0% index_latest=62.6
                  origin mix: {'none': 50}
-gap              days= 55 products_today=  50 origin_share=100.0% index_latest=112.6
-                 origin mix: {'Imported': 55}
-jcrew            days= 55 products_today=  49 origin_share=100.0% index_latest=78.4
-                 origin mix: {'Imported': 62}
-old_navy         days= 55 products_today=  50 origin_share=100.0% index_latest=54.1
-                 origin mix: {'Imported': 55}
+gap              days= 56 products_today=  50 origin_share=100.0% index_latest=113.2
+                 origin mix: {'Imported': 58}
+jcrew            days= 56 products_today=  50 origin_share=100.0% index_latest=78.4
+                 origin mix: {'Imported': 63}
+old_navy         days= 56 products_today=  50 origin_share=100.0% index_latest=54.7
+                 origin mix: {'Imported': 56}
